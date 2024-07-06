@@ -1,0 +1,804 @@
+{
+  "Absentation": {
+    "en": [
+      "leave",
+      "depart",
+      "go away",
+      "absent"
+    ],
+    "de": [
+      "verlassen",
+      "abreisen",
+      "weggehen",
+      "abwesend"
+    ],
+    "it": [
+      "partire",
+      "andarsene",
+      "allontanarsi",
+      "assente"
+    ],
+    "es": [
+      "partir",
+      "irse",
+      "alejarse",
+      "ausente"
+    ]
+  },
+  "Interdiction": {
+    "en": [
+      "forbid",
+      "warn",
+      "not allow",
+      "prohibit"
+    ],
+    "de": [
+      "verbieten",
+      "warnen",
+      "nicht erlauben",
+      "untersagen"
+    ],
+    "it": [
+      "vietare",
+      "avvertire",
+      "non permettere",
+      "proibire"
+    ],
+    "es": [
+      "prohibir",
+      "advertir",
+      "no permitir",
+      "vedar"
+    ]
+  },
+  "Violation": {
+    "en": [
+      "disobey",
+      "ignore",
+      "break rule",
+      "violate"
+    ],
+    "de": [
+      "missachten",
+      "übertreten",
+      "ignorieren",
+      "verletzen"
+    ],
+    "it": [
+      "disobbedire",
+      "ignorare",
+      "infrangere",
+      "violare"
+    ],
+    "es": [
+      "desobedecer",
+      "ignorar",
+      "infringir",
+      "violar"
+    ]
+  },
+  "Reconnaissance": {
+    "en": [
+      "spy",
+      "investigate",
+      "inquire",
+      "reconnaissance"
+    ],
+    "de": [
+      "ausspionieren",
+      "erkunden",
+      "nachforschen",
+      "auskundschaften"
+    ],
+    "it": [
+      "spiare",
+      "investigare",
+      "indagare",
+      "ricognizione"
+    ],
+    "es": [
+      "espiar",
+      "investigar",
+      "indagar",
+      "reconocimiento"
+    ]
+  },
+  "Delivery": {
+    "en": [
+      "reveal",
+      "disclose",
+      "deliver information"
+    ],
+    "de": [
+      "verraten",
+      "preisgeben",
+      "ausliefern"
+    ],
+    "it": [
+      "rivelare",
+      "divulgare",
+      "consegnare informazioni"
+    ],
+    "es": [
+      "revelar",
+      "divulgar",
+      "entregar información"
+    ]
+  },
+  "Trickery": {
+    "en": [
+      "deceive",
+      "trick",
+      "fool",
+      "mislead"
+    ],
+    "de": [
+      "täuschen",
+      "betrügen",
+      "irreführen",
+      "überlisten"
+    ],
+    "it": [
+      "ingannare",
+      "raggirare",
+      "imbrogliare",
+      "fuorviare"
+    ],
+    "es": [
+      "engañar",
+      "trucar",
+      "embaucar",
+      "despistar"
+    ]
+  },
+  "Complicity": {
+    "en": [
+      "comply",
+      "help unwittingly",
+      "be deceived"
+    ],
+    "de": [
+      "nachgeben",
+      "unwissentlich helfen",
+      "getäuscht werden"
+    ],
+    "it": [
+      "assecondare",
+      "aiutare inconsapevolmente",
+      "essere ingannato"
+    ],
+    "es": [
+      "cumplir",
+      "ayudar sin saberlo",
+      "ser engañado"
+    ]
+  },
+  "Villainy or Lacking": {
+    "en": [
+      "harm",
+      "injure",
+      "lack",
+      "need"
+    ],
+    "de": [
+      "schaden",
+      "verletzen",
+      "fehlen",
+      "mangeln"
+    ],
+    "it": [
+      "danneggiare",
+      "ferire",
+      "mancare",
+      "necessitare"
+    ],
+    "es": [
+      "dañar",
+      "herir",
+      "carecer",
+      "necesitar"
+    ]
+  },
+  "Mediation": {
+    "en": [
+      "request",
+      "order",
+      "send",
+      "mediate"
+    ],
+    "de": [
+      "bitten",
+      "auffordern",
+      "senden",
+      "vermitteln"
+    ],
+    "it": [
+      "richiedere",
+      "ordinare",
+      "inviare",
+      "mediare"
+    ],
+    "es": [
+      "solicitar",
+      "ordenar",
+      "enviar",
+      "mediar"
+    ]
+  },
+  "Beginning Counteraction": {
+    "en": [
+      "decide",
+      "resolve",
+      "plan",
+      "counteract"
+    ],
+    "de": [
+      "entscheiden",
+      "beschließen",
+      "planen",
+      "entgegenwirken"
+    ],
+    "it": [
+      "decidere",
+      "risolvere",
+      "pianificare",
+      "contrastare"
+    ],
+    "es": [
+      "decidir",
+      "resolver",
+      "planear",
+      "contrarrestar"
+    ]
+  },
+  "Departure": {
+    "en": [
+      "set out",
+      "leave",
+      "depart",
+      "go on a journey"
+    ],
+    "de": [
+      "aufbrechen",
+      "losziehen",
+      "abreisen",
+      "sich auf den Weg machen"
+    ],
+    "it": [
+      "partire",
+      "lasciare",
+      "andarsene",
+      "mettersi in viaggio"
+    ],
+    "es": [
+      "partir",
+      "salir",
+      "marcharse",
+      "emprender un viaje"
+    ]
+  },
+  "First Function of the Donor": {
+    "en": [
+      "test",
+      "interrogate",
+      "attack",
+      "examine"
+    ],
+    "de": [
+      "prüfen",
+      "befragen",
+      "angreifen",
+      "untersuchen"
+    ],
+    "it": [
+      "testare",
+      "interrogare",
+      "attaccare",
+      "esaminare"
+    ],
+    "es": [
+      "probar",
+      "interrogar",
+      "atacar",
+      "examinar"
+    ]
+  },
+  "Hero's Reaction": {
+    "en": [
+      "react",
+      "respond",
+      "withstand",
+      "endure"
+    ],
+    "de": [
+      "reagieren",
+      "antworten",
+      "standhalten",
+      "ertragen"
+    ],
+    "it": [
+      "reagire",
+      "rispondere",
+      "resistere",
+      "sopportare"
+    ],
+    "es": [
+      "reaccionar",
+      "responder",
+      "resistir",
+      "soportar"
+    ]
+  },
+  "Receipt of a Magical Agent": {
+    "en": [
+      "receive",
+      "find",
+      "purchase",
+      "create",
+      "appear",
+      "magic item"
+    ],
+    "de": [
+      "erhalten",
+      "finden",
+      "kaufen",
+      "erschaffen",
+      "erscheinen",
+      "magischer Gegenstand"
+    ],
+    "it": [
+      "ricevere",
+      "trovare",
+      "acquistare",
+      "creare",
+      "apparire",
+      "oggetto magico"
+    ],
+    "es": [
+      "recibir",
+      "encontrar",
+      "comprar",
+      "crear",
+      "aparecer",
+      "objeto mágico"
+    ]
+  },
+  "Guidance": {
+    "en": [
+      "guide",
+      "lead",
+      "show the way",
+      "direct"
+    ],
+    "de": [
+      "führen",
+      "leiten",
+      "den Weg zeigen",
+      "lenken"
+    ],
+    "it": [
+      "guidare",
+      "condurre",
+      "mostrare la strada",
+      "dirigere"
+    ],
+    "es": [
+      "guiar",
+      "conducir",
+      "mostrar el camino",
+      "dirigir"
+    ]
+  },
+  "Struggle": {
+    "en": [
+      "fight",
+      "battle",
+      "compete",
+      "struggle"
+    ],
+    "de": [
+      "kämpfen",
+      "streiten",
+      "wetteifern",
+      "ringen"
+    ],
+    "it": [
+      "combattere",
+      "lottare",
+      "competere",
+      "faticare"
+    ],
+    "es": [
+      "luchar",
+      "batallar",
+      "competir",
+      "esforzarse"
+    ]
+  },
+  "Branding": {
+    "en": [
+      "mark",
+      "brand",
+      "wound",
+      "tag"
+    ],
+    "de": [
+      "markieren",
+      "kennzeichnen",
+      "verwunden",
+      "etikettieren"
+    ],
+    "it": [
+      "marcare",
+      "marchiare",
+      "ferire",
+      "etichettare"
+    ],
+    "es": [
+      "marcar",
+      "etiquetar",
+      "herir",
+      "identificar"
+    ]
+  },
+  "Victory": {
+    "en": [
+      "defeat",
+      "win",
+      "overcome",
+      "triumph"
+    ],
+    "de": [
+      "besiegen",
+      "gewinnen",
+      "überwinden",
+      "triumphieren"
+    ],
+    "it": [
+      "sconfiggere",
+      "vincere",
+      "superare",
+      "trionfare"
+    ],
+    "es": [
+      "derrotar",
+      "ganar",
+      "superar",
+      "triunfar"
+    ]
+  },
+  "Liquidation": {
+    "en": [
+      "resolve",
+      "fix",
+      "mend",
+      "heal"
+    ],
+    "de": [
+      "lösen",
+      "beheben",
+      "reparieren",
+      "heilen"
+    ],
+    "it": [
+      "risolvere",
+      "riparare",
+      "aggiustare",
+      "guarire"
+    ],
+    "es": [
+      "resolver",
+      "arreglar",
+      "reparar",
+      "sanar"
+    ]
+  },
+  "Return": {
+    "en": [
+      "return",
+      "come back",
+      "homecoming"
+    ],
+    "de": [
+      "zurückkehren",
+      "heimkehren",
+      "wiederkommen"
+    ],
+    "it": [
+      "ritornare",
+      "tornare",
+      "rientrare"
+    ],
+    "es": [
+      "regresar",
+      "volver",
+      "retornar"
+    ]
+  },
+  "Pursuit": {
+    "en": [
+      "chase",
+      "pursue",
+      "hunt",
+      "track"
+    ],
+    "de": [
+      "verfolgen",
+      "jagen",
+      "nachsetzen",
+      "aufspüren"
+    ],
+    "it": [
+      "inseguire",
+      "rincorrere",
+      "cacciare",
+      "pedinare"
+    ],
+    "es": [
+      "perseguir",
+      "cazar",
+      "rastrear",
+      "seguir"
+    ]
+  },
+  "Rescue": {
+    "en": [
+      "rescue",
+      "save",
+      "escape",
+      "free"
+    ],
+    "de": [
+      "retten",
+      "befreien",
+      "entkommen",
+      "erlösen"
+    ],
+    "it": [
+      "salvare",
+      "soccorrere",
+      "scappare",
+      "liberare"
+    ],
+    "es": [
+      "rescatar",
+      "salvar",
+      "escapar",
+      "liberar"
+    ]
+  },
+  "Unrecognized Arrival": {
+    "en": [
+      "arrive unrecognized",
+      "return in disguise",
+      "incognito"
+    ],
+    "de": [
+      "unerkannt ankommen",
+      "verkleidet zurückkehren",
+      "inkognito"
+    ],
+    "it": [
+      "arrivare irriconoscibile",
+      "tornare in incognito",
+      "mascherato"
+    ],
+    "es": [
+      "llegar de incógnito",
+      "volver disfrazado",
+      "irreconocible"
+    ]
+  },
+  "Unfounded Claims": {
+    "en": [
+      "false claim",
+      "lie",
+      "pretend",
+      "impersonate"
+    ],
+    "de": [
+      "falscher Anspruch",
+      "lügen",
+      "vorgeben",
+      "sich ausgeben als"
+    ],
+    "it": [
+      "pretesa infondata",
+      "mentire",
+      "fingere",
+      "impersonare"
+    ],
+    "es": [
+      "pretensión infundada",
+      "mentir",
+      "fingir",
+      "hacerse pasar por"
+    ]
+  },
+  "Difficult Task": {
+    "en": [
+      "difficult task",
+      "challenge",
+      "ordeal",
+      "test"
+    ],
+    "de": [
+      "schwierige Aufgabe",
+      "Herausforderung",
+      "Prüfung",
+      "Test"
+    ],
+    "it": [
+      "compito difficile",
+      "sfida",
+      "prova",
+      "test"
+    ],
+    "es": [
+      "tarea difícil",
+      "desafío",
+      "prueba",
+      "reto"
+    ]
+  },
+  "Solution": {
+    "en": [
+      "solve",
+      "accomplish",
+      "complete",
+      "succeed"
+    ],
+    "de": [
+      "lösen",
+      "erfüllen",
+      "vollenden",
+      "gelingen"
+    ],
+    "it": [
+      "risolvere",
+      "compiere",
+      "completare",
+      "riuscire"
+    ],
+    "es": [
+      "resolver",
+      "lograr",
+      "completar",
+      "tener éxito"
+    ]
+  },
+  "Recognition": {
+    "en": [
+      "recognize",
+      "identify",
+      "reveal",
+      "discover"
+    ],
+    "de": [
+      "erkennen",
+      "identifizieren",
+      "enthüllen",
+      "entdecken"
+    ],
+    "it": [
+      "riconoscere",
+      "identificare",
+      "rivelare",
+      "scoprire"
+    ],
+    "es": [
+      "reconocer",
+      "identificar",
+      "revelar",
+      "descubrir"
+    ]
+  },
+  "Exposure": {
+    "en": [
+      "expose",
+      "unmask",
+      "reveal true nature",
+      "disclose"
+    ],
+    "de": [
+      "entlarven",
+      "demaskieren",
+      "wahre Natur zeigen",
+      "aufdecken"
+    ],
+    "it": [
+      "smascherare",
+      "svelare",
+      "rivelare la vera natura",
+      "esporre"
+    ],
+    "es": [
+      "desenmascarar",
+      "revelar",
+      "mostrar la verdadera naturaleza",
+      "exponer"
+    ]
+  },
+  "Transfiguration": {
+    "en": [
+      "transform",
+      "change",
+      "transfigure",
+      "metamorphose"
+    ],
+    "de": [
+      "verwandeln",
+      "verändern",
+      "umgestalten",
+      "transformieren"
+    ],
+    "it": [
+      "trasformare",
+      "cambiare",
+      "trasfigurare",
+      "metamorfosi"
+    ],
+    "es": [
+      "transformar",
+      "cambiar",
+      "transfigurar",
+      "metamorfosear"
+    ]
+  },
+  "Punishment": {
+    "en": [
+      "punish",
+      "penalize",
+      "condemn",
+      "sentence"
+    ],
+    "de": [
+      "bestrafen",
+      "verurteilen",
+      "verdammen",
+      "aburteilen"
+    ],
+    "it": [
+      "punire",
+      "penalizzare",
+      "condannare",
+      "sentenziare"
+    ],
+    "es": [
+      "castigar",
+      "penalizar",
+      "condenar",
+      "sentenciar"
+    ]
+  },
+  "Wedding": {
+    "en": [
+      "marry",
+      "wed",
+      "wedding",
+      "coronation",
+      "ascend to throne"
+    ],
+    "de": [
+      "heiraten",
+      "vermählen",
+      "Hochzeit",
+      "Krönung",
+      "Thronbesteigung"
+    ],
+    "it": [
+      "sposare",
+      "matrimonio",
+      "nozze",
+      "incoronazione",
+      "ascendere al trono"
+    ],
+    "es": [
+      "casar",
+      "boda",
+      "matrimonio",
+      "coronación",
+      "ascender al trono"
+    ]
+  }
+}
