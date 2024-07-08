@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c6cc93ee-f797-45ec-aa91-32b274de45df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TaleScraping2.py</StartupFile>
+    <StartupFile>FracTale.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,12 +23,21 @@
   <ItemGroup>
     <Compile Include="FracTale.py" />
     <Compile Include="Functions.py" />
-    <Compile Include="Proppify4.py" />
+    <Compile Include="Proppify.py" />
     <Compile Include="TaleScraping.py" />
-    <Compile Include="TaleScraping2.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="annotated_fairy_tales_with_improved_lda.txt" />
+    <Content Include="grimm_tales_de.txt" />
     <Content Include="grimm_tales_en.txt" />
+    <Content Include="grimm_tales_es.txt" />
+    <Content Include="grimm_tales_fi.txt" />
+    <Content Include="grimm_tales_it.txt" />
+    <Content Include="grimm_tales_metrics_de.csv" />
+    <Content Include="grimm_tales_metrics_en.csv" />
+    <Content Include="grimm_tales_metrics_es.csv" />
+    <Content Include="grimm_tales_metrics_fi.csv" />
+    <Content Include="grimm_tales_metrics_it.csv" />
     <Content Include="propp_functions.json" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

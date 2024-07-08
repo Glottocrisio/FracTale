@@ -9,119 +9,16 @@ from nltk.parse import DependencyGraph
 import csv
 
 
-# for lang, path in languages.items():
-#     print(f"Scraping {lang.upper()} fairy tales...")
-#     tale_list = ts.get_fairy_tales(base_url + path)
-#     tales = []
-        
-#     for title in tale_list:
-#         # if title == "Cinderella":
-#         #     title = "aschenputtel"
-#         #url = base_url + path + "//" + title
-#         print(f"Scraping: {title}")
-#         full_title, content = ts.scrape_tale(title[1], lang)
-#         tales.append((full_title, content))
-        
-#     print(f"Saving {lang.upper()} fairy tales...")
-#     ts.save_tales(tales, lang)
-        
-#     print(f"Finished processing {lang.upper()} fairy tales.\n")
-
-
-# # Usage
-# input_file = 'C:/Users/Palma/Desktop//PHD/FracTale/grimm_tales_en.txt'
-# output_file = 'annotated_fairy_tales_with_improved_lda.txt'
-# func.process_tales_file(input_file, output_file)
-
-
-file_path = 'grimm_tales_en.txt'
-func.process_file_coleman_liau_index(file_path)
-
-
-
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-
-def simple_dependency_parse(sentence):
-    # Tokenize and POS tag the sentence
-    words = word_tokenize(sentence)
-    pos_tags = pos_tag(words)
-    
-    # Create a simple dependency graph
-    graph = DependencyGraph()
-    for i, (word, pos) in enumerate(pos_tags):
-        graph.add_node({
-            'address': i+1,
-            'word': word,
-            'lemma': word.lower(),
-            'ctag': pos,
-            'tag': pos,
-            'feats': '',
-            'head': None,
-            'deps': {},
-            'rel': None
-        })
-    
-    # Simple rules for dependency
-    root = None
-    for i, (word, pos) in enumerate(pos_tags):
-        if pos.startswith('VB'):  # Verb as root
-            root = i + 1
-            break
-    if root is None and len(pos_tags) > 0:
-        root = 1  # First word as root if no verb found
-    
-    graph.nodes[root]['rel'] = 'ROOT'
-    
-    for i, (word, pos) in enumerate(pos_tags):
-        if i + 1 != root:
-            graph.nodes[i+1]['head'] = root
-            graph.nodes[root]['deps'].setdefault('dep', []).append(i+1)
-    
-    return graph
-
-def calculate_dependency_distance(graph):
-    total_distance = 0
-    for node in graph.nodes.values():
-        if node['head'] is not None:
-            total_distance += abs(node['address'] - node['head'])
-    return total_distance
-
-def process_text(text):
-    with open(text, 'r', encoding='iso-8859-1') as file:
-        content = file.read()
-    sentences = sent_tokenize(content)
-    results = []
-    
-    for i, sentence in enumerate(sentences, 1):
-        graph = simple_dependency_parse(sentence)
-        distance = calculate_dependency_distance(graph)
-        results.append((i, sentence, distance))
-    
-    return results
-
-
-results = process_text(file_path)
-
-for i, sentence, distance in results:
-    print(f"Sentence {i}: '{sentence}'")
-    print(f"Dependency Distance: {distance}\n")
-
-
-
-
-def simple_dependency_distance(sentence):
-    words = word_tokenize(sentence)
-    total_distance = sum(i for i in range(len(words)))
-    return total_distance / len(words) if words else 0
 
 def process_tale(tale):
-    episodes = tale.split('\n\n')
+    episodes = tale.split('\n\n')[1:]
     sentences = [sent for episode in episodes for sent in sent_tokenize(episode)]
     words = [word for sentence in sentences for word in word_tokenize(sentence)]
+    num_clauses = 0
     
     # Simplified clause counting (assuming one clause per sentence)
-    num_clauses = len(sentences)
+    for sentence in sentences:
+        num_clauses += func.count_clauses(sentence)
     
     metrics = {
         'num_episodes': len(episodes),
@@ -133,16 +30,16 @@ def process_tale(tale):
         'avg_clause_length': len(words) / num_clauses if num_clauses else 0,
     }
     
-    total_dep_distance = sum(simple_dependency_distance(sent) for sent in sentences)
+    total_dep_distance = sum(func.simple_dependency_distance(sent) for sent in sentences)
     metrics['avg_dep_distance_clause'] = total_dep_distance / num_clauses if num_clauses else 0
     metrics['avg_dep_distance_sentence'] = total_dep_distance / len(sentences) if sentences else 0
     metrics['avg_dep_distance_episode'] = total_dep_distance / len(episodes) if episodes else 0
     metrics['episodes_per_sentence'] = len(episodes) / len(sentences) if sentences else 0
     metrics['I'] = metrics['avg_dep_distance_sentence'] * metrics['episodes_per_sentence']
-    
+    metrics['CLI'] = func.coleman_liau_index(tale)
     sentence_metrics = []
     for sentence in sentences:
-        dep_distance = simple_dependency_distance(sentence)
+        dep_distance = func.simple_dependency_distance(sentence)
         sentence_metrics.append({
             'sentence': sentence,
             'dep_distance': dep_distance,
@@ -175,7 +72,7 @@ def export_to_csv(tale_metrics, sentence_metrics, output_file):
         tale_fieldnames = ['tale_id', 'num_episodes', 'num_sentences', 'num_clauses', 'num_words',
                            'avg_episode_length', 'avg_sentence_length', 'avg_clause_length',
                            'avg_dep_distance_clause', 'avg_dep_distance_sentence', 'avg_dep_distance_episode',
-                           'episodes_per_sentence', 'I']
+                           'episodes_per_sentence', 'I', 'CLI']
         writer = csv.DictWriter(csvfile, fieldnames=tale_fieldnames)
         writer.writeheader()
         for tm in tale_metrics:
@@ -192,8 +89,23 @@ def export_to_csv(tale_metrics, sentence_metrics, output_file):
             writer.writerow(sm)
 
 # Usage
-input_file = 'grimm_tales_en.txt'
-output_file = 'output_metrics.csv'
+#input_file = 'grimm_tales_en.txt'
+#output_file = 'output_metrics_2.csv'
 
-tale_metrics, sentence_metrics = process_file(input_file)
-export_to_csv(tale_metrics, sentence_metrics, output_file)
+tale_metrics, sentence_metrics = process_file('grimm_tales_en.txt')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_en.csv')
+
+tale_metrics, sentence_metrics = process_file('grimm_tales_fi.txt')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_fi.csv')
+
+# tale_metrics, sentence_metrics = process_file('grimm_tales_de.txt')
+# export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_de.csv')
+
+# tale_metrics, sentence_metrics = process_file('grimm_tales_es.txt')
+# export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_es.csv')
+
+# tale_metrics, sentence_metrics = process_file('grimm_tales_it.txt')
+# export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_it.csv')
+
+
+

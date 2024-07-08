@@ -7,15 +7,13 @@ from nltk.parse import DependencyGraph
 import re
 import math
 
+
 def calculateProppNgrams(n, sequences, sign):
-    
     all_ngrams = []
     for sequence in sequences:
         ngram_list = list(ngrams(sequence, n))
         all_ngrams.extend(ngram_list)
-
         freq_dist = FreqDist(all_ngrams)
-
     total_ngrams = len(all_ngrams)
     ngrams_with_sign = sum(freq for ngram, freq in freq_dist.items() if sign in ngram)
 
@@ -23,68 +21,6 @@ def calculateProppNgrams(n, sequences, sign):
     likelihood = ngrams_with_sign / total_ngrams
 
     return total_ngrams, ngrams_with_sign, likelihood
-
-
-nltk.download('punkt')
-
-def dependency_distance(doc):
-    with open(file_path, 'r', encoding='iso-8859-1') as file:
-        content = file.read()
-    total_distance = 0
-    for token in content:
-        if token.dep_ != "ROOT":
-            distance = abs(token.i - token.head.i)
-            total_distance += distance
-    return total_distance
-
-def calculate_DD(tale_text):
-    # Tokenize the tale into sentences
-    sentences = nltk.sent_tokenize(tale_text)
-    
-    # Initialize metrics
-    metrics = defaultdict(float)
-    metrics['num_sentences'] = len(sentences)
-    metrics['num_episodes'] = len(tale_text.split('--------------------------------------------------\n\n'))
-    
-    for sentence in sentences:
-        doc = nlp(sentence)
-        
-        # Count clauses, words, and letters
-        clauses = [sent for sent in doc.sents]
-        words = [token for token in doc if not token.is_punct]
-        letters = sum(len(word.text) for word in words)
-        
-        metrics['num_clauses'] += len(clauses)
-        metrics['num_words'] += len(words)
-        metrics['num_letters'] += letters
-        
-        # Calculate dependency distance
-        metrics['total_dep_distance'] += dependency_distance(doc)
-    
-    # Calculate averages
-    
-    return metrics
-
-def process_files(directory):
-    results = {}
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
-            with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
-                tale_text = file.read()
-                results[filename] = analyze_tale(tale_text)
-    return results
-
-# Usage
-#directory = "path/to/your/tales/directory"
-#analysis_results = process_files(directory)
-
-# Print or save results as needed
-# for filename, metrics in analysis_results.items():
-#     print(f"Analysis for {filename}:")
-#     for metric, value in metrics.items():
-#         print(f"{metric}: {value}")
-#     print("\n")
-    
 
 
 def coleman_liau_index(text):
@@ -112,40 +48,113 @@ def process_file_coleman_liau_index(file_path):
 #file_path = 'grimm_tales_en.txt'
 #process_file_coleman_liau_index(file_path)
 
-# Assuming metrics['total_dep_distance'] is already calculated
 
-# metrics['#E'] = metrics['num_episodes']
-# metrics['#S'] = metrics['num_sentences']
-# metrics['#C'] = metrics['num_clauses']
-# metrics['#W'] = metrics['num_words']
+# for lang, path in languages.items():
+#     print(f"Scraping {lang.upper()} fairy tales...")
+#     tale_list = ts.get_fairy_tales(base_url + path)
+#     tales = []
+        
+#     for title in tale_list:
+#         # if title == "Cinderella":
+#         #     title = "aschenputtel"
+#         #url = base_url + path + "//" + title
+#         print(f"Scraping: {title}")
+#         full_title, content = ts.scrape_tale(title[1], lang)
+#         tales.append((full_title, content))
+        
+#     print(f"Saving {lang.upper()} fairy tales...")
+#     ts.save_tales(tales, lang)
+        
+#     print(f"Finished processing {lang.upper()} fairy tales.\n")
 
-# metrics['AEL'] = metrics['#S'] / metrics['#E'] if metrics['#E'] > 0 else 0
-# metrics['ASL'] = metrics['#W'] / metrics['#S'] if metrics['#S'] > 0 else 0
-# metrics['ACL'] = metrics['#W'] / metrics['#C'] if metrics['#C'] > 0 else 0
 
-# metrics['ADDc'] = metrics['total_dep_distance'] / metrics['#C'] if metrics['#C'] > 0 else 0
-# metrics['ADDs'] = metrics['total_dep_distance'] / metrics['#S'] if metrics['#S'] > 0 else 0
-# metrics['ADDe'] = metrics['total_dep_distance'] / metrics['#E'] if metrics['#E'] > 0 else 0
+# # Usage
+# input_file = 'C:/Users/Palma/Desktop//PHD/FracTale/grimm_tales_en.txt'
+# output_file = 'annotated_fairy_tales_with_improved_lda.txt'
+# func.process_tales_file(input_file, output_file)
 
-# metrics['#Ev'] = metrics['#E'] / metrics['#S'] if metrics['#S'] > 0 else 0
-# metrics['I'] = metrics['ADDc'] * metrics['#Ev']
+def count_clauses(sentence):
+    total_clauses = 0
+    words = word_tokenize(sentence)
+    pos_tags = pos_tag(words)
+    verb_count = sum(1 for word, tag in pos_tags if tag.startswith('VB'))
+    total_clauses += max(1, verb_count)  # Ensure at least one clause per sentence
+    return total_clauses
 
-# # • #E: Amount of Episodes in the Tale.
-# # • #S: Amount of sentences in a Tale.
-# # • #C: Amount of clauses in a tale.
-# # • #W: Amount of words in a tale.
-# # • AEL: Average Episode length.
-# # • ASL: Average Sentence length.
-# # • ACL: Average clause length.
-# # • ADDc: Average Dependency Distance per clause.
-# # • ADDs: Average Dependency Distance per sentence.
-# # • ADDe: Average Dependency Distance per episode.
-# # • #Ev: Amount of Propp functions (episodes) per sentence.
-# # • I: ADD * #P.
-# # • CLI: Coleman-Liau Index per Tal
 
-# # Coleman-Liau Index calculation
-# # Assuming you have the number of letters and characters available
-# L = (metrics['num_letters'] / metrics['#W']) * 100 if metrics['#W'] > 0 else 0
-# S = (metrics['#S'] / metrics['#W']) * 100 if metrics['#W'] > 0 else 0
-# metrics['CLI'] = 0.0588 * L - 0.296 * S - 15.8
+
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+
+def simple_dependency_parse(sentence):
+    # Tokenize and POS tag the sentence
+    words = word_tokenize(sentence)
+    pos_tags = pos_tag(words)
+    
+    # Create a simple dependency graph
+    graph = DependencyGraph()
+    for i, (word, pos) in enumerate(pos_tags):
+        graph.add_node({
+            'address': i+1,
+            'word': word,
+            'lemma': word.lower(),
+            'ctag': pos,
+            'tag': pos,
+            'feats': '',
+            'head': None,
+            'deps': {},
+            'rel': None
+        })
+    
+    # Simple rules for dependency
+    root = None
+    for i, (word, pos) in enumerate(pos_tags):
+        if pos.startswith('VB'):  # Verb as root
+            root = i + 1
+            break
+    if root is None and len(pos_tags) > 0:
+        root = 1  # First word as root if no verb found
+    
+    graph.nodes[root]['rel'] = 'ROOT'
+    
+    for i, (word, pos) in enumerate(pos_tags):
+        if i + 1 != root:
+            graph.nodes[i+1]['head'] = root
+            graph.nodes[root]['deps'].setdefault('dep', []).append(i+1)
+    
+    return graph
+
+def calculate_dependency_distance(graph):
+    total_distance = 0
+    for node in graph.nodes.values():
+        if node['head'] is not None:
+            total_distance += abs(node['address'] - node['head'])
+    return total_distance
+
+def process_text(text):
+    with open(text, 'r', encoding='iso-8859-1') as file:
+        content = file.read()
+    sentences = sent_tokenize(content)
+    results = []
+    
+    for i, sentence in enumerate(sentences, 1):
+        graph = simple_dependency_parse(sentence)
+        distance = calculate_dependency_distance(graph)
+        results.append((i, sentence, distance))
+    
+    return results
+
+
+results = process_text('grimm_tales_en.txt')
+
+for i, sentence, distance in results:
+    print(f"Sentence {i}: '{sentence}'")
+    print(f"Dependency Distance: {distance}\n")
+
+
+
+
+def simple_dependency_distance(sentence):
+    words = word_tokenize(sentence)
+    total_distance = sum(i for i in range(len(words)))
+    return total_distance / len(words) if words else 0
