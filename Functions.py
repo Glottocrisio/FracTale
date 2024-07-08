@@ -131,10 +131,10 @@ def calculate_dependency_distance(graph):
             total_distance += abs(node['address'] - node['head'])
     return total_distance
 
-def process_text(text):
-    with open(text, 'r', encoding='iso-8859-1') as file:
-        content = file.read()
-    sentences = sent_tokenize(content)
+def process_text_DD(text):
+    #with open(text, 'r', encoding='iso-8859-1') as file:
+        #content = file.read()
+    sentences = sent_tokenize(text)
     results = []
     
     for i, sentence in enumerate(sentences, 1):
@@ -144,17 +144,23 @@ def process_text(text):
     
     return results
 
+with open('grimm_tales_en.txt', 'r', encoding='iso-8859-1') as file:
+    content = file.read()
+    tales = content.split('--------------------------------------------------\n\n')
 
-results = process_text('grimm_tales_en.txt')
-
-for i, sentence, distance in results:
-    print(f"Sentence {i}: '{sentence}'")
-    print(f"Dependency Distance: {distance}\n")
-
-
+    for i, tale in enumerate(tales, 1):
+        if tale.strip():
+            print(f"Tale {i}:")
+            results = process_text_DD(tale)
+            for i, sentence, distance in results:
+                print(f"Sentence {i}: '{sentence}'")
+                print(f"Dependency Distance: {distance}\n")
 
 
 def simple_dependency_distance(sentence):
-    words = word_tokenize(sentence)
-    total_distance = sum(i for i in range(len(words)))
-    return total_distance / len(words) if words else 0
+    graph = simple_dependency_parse(sentence)
+    dd = calculate_dependency_distance(graph)
+    return dd
+
+def eventfulness(episode):
+    pass

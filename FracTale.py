@@ -15,10 +15,22 @@ def process_tale(tale):
     sentences = [sent for episode in episodes for sent in sent_tokenize(episode)]
     words = [word for sentence in sentences for word in word_tokenize(sentence)]
     num_clauses = 0
+    sentences_with_info = []
     
-    # Simplified clause counting (assuming one clause per sentence)
     for sentence in sentences:
         num_clauses += func.count_clauses(sentence)
+        
+    for episode_id, episode in enumerate(episodes, 1):
+        episode_sentences = sent_tokenize(episode)
+        sentence_weight = 1 / (len(episode_sentences) + 1)
+        for sentence in episode_sentences:
+            sentences_with_info.append({
+                'sentence': sentence,
+                'episode_id': episode_id,
+                'sentence_weight': sentence_weight
+            })
+            words.extend(word_tokenize(sentence))
+            num_clauses += func.count_clauses(sentence)
     
     metrics = {
         'num_episodes': len(episodes),
@@ -30,20 +42,37 @@ def process_tale(tale):
         'avg_clause_length': len(words) / num_clauses if num_clauses else 0,
     }
     
-    total_dep_distance = sum(func.simple_dependency_distance(sent) for sent in sentences)
+
+    total_dep_distance = func.process_text_DD(tale)[0][2] 
     metrics['avg_dep_distance_clause'] = total_dep_distance / num_clauses if num_clauses else 0
     metrics['avg_dep_distance_sentence'] = total_dep_distance / len(sentences) if sentences else 0
     metrics['avg_dep_distance_episode'] = total_dep_distance / len(episodes) if episodes else 0
-    metrics['episodes_per_sentence'] = len(episodes) / len(sentences) if sentences else 0
-    metrics['I'] = metrics['avg_dep_distance_sentence'] * metrics['episodes_per_sentence']
+    metrics['Average_Eventfulness'] = len(episodes) / len(sentences) if sentences else 0
+    metrics['Average_I'] = metrics['avg_dep_distance_sentence'] * metrics['Average_Eventfulness']
     metrics['CLI'] = func.coleman_liau_index(tale)
+    
     sentence_metrics = []
-    for sentence in sentences:
-        dep_distance = func.simple_dependency_distance(sentence)
+    # for sentence in sentences:
+    #     dep_distance = func.simple_dependency_distance(sentence)
+    #     eventfulness = func.eventfulness(sentence)
+    #     sentence_metrics.append({
+    #         'sentence': sentence,
+    #         'dep_distance': dep_distance,
+    #         'Eventfulness': eventfulness,
+    #         'I': dep_distance * eventfulness
+    #     })
+    
+    for sentence_info in sentences_with_info:
+        dep_distance = func.simple_dependency_distance(sentence_info['sentence'])
+        eventfulness = func.eventfulness(sentence_info['sentence'])
+        informativeness = (dep_distance * float(sentence_info['sentence_weight']))
         sentence_metrics.append({
-            'sentence': sentence,
+            'episode_id': sentence_info['episode_id'],
+            'sentence': sentence_info['sentence'],
             'dep_distance': dep_distance,
-            'I': dep_distance * metrics['episodes_per_sentence']
+            'Eventfulness': sentence_info['sentence_weight'],
+            'I': informativeness
+
         })
     
     return metrics, sentence_metrics
@@ -72,7 +101,7 @@ def export_to_csv(tale_metrics, sentence_metrics, output_file):
         tale_fieldnames = ['tale_id', 'num_episodes', 'num_sentences', 'num_clauses', 'num_words',
                            'avg_episode_length', 'avg_sentence_length', 'avg_clause_length',
                            'avg_dep_distance_clause', 'avg_dep_distance_sentence', 'avg_dep_distance_episode',
-                           'episodes_per_sentence', 'I', 'CLI']
+                           'Average_Eventfulness', 'Average_I', 'CLI']
         writer = csv.DictWriter(csvfile, fieldnames=tale_fieldnames)
         writer.writeheader()
         for tm in tale_metrics:
@@ -82,7 +111,7 @@ def export_to_csv(tale_metrics, sentence_metrics, output_file):
         writer.writerow({field: '' for field in tale_fieldnames})
         
         # Write sentence metrics
-        sentence_fieldnames = ['tale_id', 'sentence', 'dep_distance', 'I']
+        sentence_fieldnames = ['tale_id', 'episode_id', 'sentence', 'dep_distance', 'Eventfulness', 'I']
         writer = csv.DictWriter(csvfile, fieldnames=sentence_fieldnames)
         writer.writeheader()
         for sm in sentence_metrics:
@@ -98,14 +127,14 @@ export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_en.csv')
 tale_metrics, sentence_metrics = process_file('grimm_tales_fi.txt')
 export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_fi.csv')
 
-# tale_metrics, sentence_metrics = process_file('grimm_tales_de.txt')
-# export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_de.csv')
+tale_metrics, sentence_metrics = process_file('grimm_tales_de.txt')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_de.csv')
 
-# tale_metrics, sentence_metrics = process_file('grimm_tales_es.txt')
-# export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_es.csv')
+tale_metrics, sentence_metrics = process_file('grimm_tales_es.txt')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_es.csv')
 
-# tale_metrics, sentence_metrics = process_file('grimm_tales_it.txt')
-# export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_it.csv')
+tale_metrics, sentence_metrics = process_file('grimm_tales_it.txt')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_tales_metrics_it.csv')
 
 
 
