@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/archive/annotated_fairy_tales3.txt
+/.gitignore
