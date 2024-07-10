@@ -85,6 +85,50 @@ def count_clauses(sentence):
 
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
+#nltk.download('universal_tagset')
+
+def count_clauses_u(sentence, language='en'):
+    words = word_tokenize(sentence)
+    
+    clause_indicators = {
+    'it': [
+        'e', 'ma', 'o', 'perch\u00e9', 'se', 'quando', 'mentre', 'sebbene', 'poich\u00e9', 'a meno che', 'che', 'cui', 'chi',
+        'quale', 'dove', 'perch\u00e9', 'come', 'qualunque', 'ogni volta che', 'dovunque', 'comunque', 'come', 'bench\u00e9',
+        'sia', 'dopo', 'prima', 'fino a', 'finch\u00e9', 'cos\u00ec', 'per', 'n\u00e9', 'ancora', 'una volta', 'laddove', 'per cui',
+        'affinch\u00e9', 'purch\u00e9', 'supponendo', 'considerando', 'assumendo', 'dato', 'visto', 'nonostante'
+    ],
+    'de': [
+        'und', 'aber', 'oder', 'weil', 'wenn', 'als', 'w\u00e4hrend', 'obwohl', 'da', 'es sei denn', 'dass', 'welche', 'wer',
+        'wen', 'wessen', 'wo', 'warum', 'wie', 'was auch immer', 'wann auch immer', 'wo auch immer', 'wie auch immer',
+        'wie', 'obgleich', 'ob', 'nachdem', 'bevor', 'bis', 'sodass', 'denn', 'noch', 'doch', 'einmal', 'wohingegen',
+        'wodurch', 'damit nicht', 'vorausgesetzt', 'angenommen', 'in Anbetracht', 'gesetzt den Fall', 'angesichts',
+        'wenngleich'
+    ],
+    'es': [
+        'y', 'pero', 'o', 'porque', 'si', 'cuando', 'mientras', 'aunque', 'ya que', 'a menos que', 'que', 'cual', 'quien',
+        'cuyo', 'donde', 'por qu\u00e9', 'c\u00f3mo', 'lo que sea', 'siempre que', 'dondequiera', 'como sea', 'como', 'aun',
+        'sea', 'despu\u00e9s', 'antes', 'hasta', 'as\u00ed que', 'pues', 'ni', 'a\u00fan', 'una vez', 'mientras que', 'por lo cual',
+        'para que', 'con tal que', 'suponiendo', 'considerando', 'asumiendo', 'dado', 'visto', 'no obstante'
+    ]
+    }
+    
+    # Add punctuation to all languages
+    punctuation = [',', ';', ':', '(', ')', '\u2014', '\u2013', '-']
+    if language == 'en':
+        total_clauses = 0
+        words = word_tokenize(sentence)
+        pos_tags = pos_tag(words)
+        verb_count = sum(1 for word, tag in pos_tags if tag.startswith('VB'))
+        total_clauses += max(1, verb_count)  # Ensure at least one clause per sentence
+        return total_clauses
+    else:
+        for lang in clause_indicators:
+            clause_indicators[lang].extend(punctuation)
+        # Count potential clauses based on punctuation and conjunctions
+        clause_count = 1 + sum(1 for word in words if word.lower() in clause_indicators[language] or word in [',', ';', ':'])
+    
+        return clause_count
+
 
 def simple_dependency_parse(sentence):
     # Tokenize and POS tag the sentence
@@ -162,5 +206,3 @@ def simple_dependency_distance(sentence):
     dd = calculate_dependency_distance(graph)
     return dd
 
-def eventfulness(episode):
-    pass
