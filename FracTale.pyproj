@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c6cc93ee-f797-45ec-aa91-32b274de45df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>FracTale.py</StartupFile>
+    <StartupFile>Fractal_Exp_Sentence.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="FracTale.py" />
+    <Compile Include="Fractal_Exp_Sentence.py" />
     <Compile Include="Functions.py" />
     <Compile Include="Proppify.py" />
-    <Compile Include="SelfSimilarity.py" />
-    <Compile Include="SelfSimilarity2.py" />
     <Compile Include="TaleScraping.py" />
   </ItemGroup>
   <ItemGroup>

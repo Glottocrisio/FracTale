@@ -18,7 +18,7 @@ def ks_test(series1, series2):
     return stats.ks_2samp(series1, series2).statistic
 
 def analyze_tale(tale_data):
-    metrics = ['dep_distance', 'Eventfulness', 'I']
+    metrics = ['num_words', 'num_clauses', 'dep_distance', 'Eventfulness', 'I']
     
     results = {}
     for metric in metrics:
@@ -33,22 +33,22 @@ def analyze_tale(tale_data):
     
     return results
 
-def process_csv(file_path):
-    df = pd.read_csv(file_path)
+# def process_csv(file_path):
+#     df = pd.read_csv(file_path)
     
-    # Separate tale metrics and sentence metrics
-    tale_metrics = df[df['sentence'].isna()]
-    sentence_metrics = df[df['sentence'].notna()]
+#     # Separate tale metrics and sentence metrics
+#     #tale_metrics = df[df['sentence'].isna()]
+#     #sentence_metrics = df[df['sentence'].notna()]
     
-    tale_results = []
+#     sentence_results = []
     
-    for tale_id in sentence_metrics['tale_id'].unique():
-        tale_data = sentence_metrics[sentence_metrics['tale_id'] == tale_id]
-        results = analyze_tale(tale_data)
-        results['tale_id'] = tale_id
-        tale_results.append(results)
+#     for tale_id in sentence_metrics['tale_id'].unique():
+#         tale_data = sentence_metrics[sentence_metrics['tale_id'] == tale_id]
+#         results = analyze_tale(tale_data)
+#         results['tale_id'] = tale_id
+#         tale_results.append(results)
     
-    return pd.DataFrame(tale_results)
+#     return pd.DataFrame(tale_results)
 
 def plot_hurst_distribution(results, metric):
     plt.figure(figsize=(10, 6))
@@ -61,8 +61,26 @@ def plot_hurst_distribution(results, metric):
 
 # Main execution
 csv_file = 'grimm_sentences_metrics_en.csv'  # Replace with your CSV file path
-results = process_csv(csv_file)
+#results = process_csv(csv_file)
+# Load the data
+df = pd.read_csv('grimm_sentences_metrics_en.csv', sep=';')
 
+# Select numerical columns
+numerical_columns = ['num_words', 'num_clauses', 'dep_distance', 'Eventfulness', 'I']
+
+results = {}
+
+for column in numerical_columns:
+    series = df[column].values
+    H, p_value = analyze_tale(series)
+    
+    #results[column] = {'Hurst': H, 'KS_p_value': p_value}
+
+for column, metrics in results.items():
+    print(f"{column}:")
+    print(f"  Hurst exponent: {metrics['Hurst']:.4f}")
+    print(f"  KS test p-value: {metrics['KS_p_value']:.4f}")
+    print()
 # Save results to CSV
 results.to_csv('sentences_self_similarity_analysis.csv', index=False)
 
