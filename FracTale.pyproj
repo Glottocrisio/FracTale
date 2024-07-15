@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c6cc93ee-f797-45ec-aa91-32b274de45df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Fractal_Exp_SentenceTale.py</StartupFile>
+    <StartupFile>Moran.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,7 @@
     <Compile Include="Fractal_Exp_SentenceTale.py" />
     <Compile Include="Fractal_Exp_TaleCorpus.py" />
     <Compile Include="Functions.py" />
+    <Compile Include="Moran.py" />
     <Compile Include="Proppify.py" />
     <Compile Include="TaleScraping.py" />
   </ItemGroup>

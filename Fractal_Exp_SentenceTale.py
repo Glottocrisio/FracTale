@@ -6,6 +6,7 @@ from numpy.random import RandomState
 from hurst import compute_Hc
 import matplotlib.pyplot as plt
 import seaborn as sns
+import Functions as func
 
 def fbm(n, H, seed=None):
     """Generate fractional Brownian motion."""
@@ -95,7 +96,10 @@ def analyze_tale(tale_data):
         if n >= 100:
             H, _, _ = compute_Hc(data)
         else:
-            H = estimate_hurst(data)
+            try:
+                H = func.hurst_exponent(data)
+            except Exception as e:
+                H = estimate_hurst(data)
         
         if n < 2:  
             results[col] = {
@@ -180,3 +184,7 @@ for lang in languages:
 
     df_results = pd.DataFrame(csv_data)
     df_results.to_csv(f'tale_analysis_results_{lang}.csv', index=False)
+
+#The direct computation of the Hurst exponent will be performed on the dimension related series 
+#per every language, not per every tale.
+

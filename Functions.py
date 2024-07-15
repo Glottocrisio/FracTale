@@ -206,3 +206,38 @@ def simple_dependency_distance(sentence):
     dd = calculate_dependency_distance(graph)
     return dd
 
+import numpy as np
+
+def hurst_exponent(time_series):
+   
+    # Convert to numpy array and calculate returns
+    ts = np.array(time_series)
+    returns = np.diff(np.log(ts))
+    
+    # Calculate the range of cumulative deviate series
+    tau = []
+    lagvec = []
+    
+    # Step from 2 to max length / 4
+    max_lag = min(len(returns) // 2, 20)  
+    lags = range(2, max_lag)
+    
+    for lag in lags:
+        std = np.std(returns[:lag])
+        if std == 0:
+            continue
+        
+        mean_value = returns[:lag].mean()
+        cumsum = np.cumsum(returns[:lag] - mean_value)
+        rescaled_range = (max(cumsum) - min(cumsum)) / std
+        
+        tau.append(rescaled_range)
+        lagvec.append(lag)
+    
+    lagvec = np.log(lagvec)
+    tau = np.log(tau)
+    
+    hurst = np.polyfit(lagvec, tau, 1)[0]
+    
+    return hurst
+
