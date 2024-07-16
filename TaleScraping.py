@@ -55,6 +55,22 @@ def save_tales(tales, lang):
             f.write(f"{content}\n\n")
             f.write("-" * 50 + "\n\n")  
 
+
+tales=[f'grimm_tales_{lang}.txt' for lang in ['de', 'es', 'it']]
+
+for tale in tales:
+# Read the truncated text
+    with open(tale, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    # Pattern to match titles
+    titles = re.findall(r'Tale \d+: (.*?)\n', content)
+
+    # Display the extracted titles
+    print(titles)
+
+
+
 def main():
     for lang, path in languages.items():
         print(f"Scraping {lang.upper()} fairy tales...")
@@ -73,3 +89,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

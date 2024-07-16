@@ -184,7 +184,3 @@ for lang in languages:
 
     df_results = pd.DataFrame(csv_data)
     df_results.to_csv(f'tale_analysis_results_{lang}.csv', index=False)
-
-#The direct computation of the Hurst exponent will be performed on the dimension related series 
-#per every language, not per every tale.
-

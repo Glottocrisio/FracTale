@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c6cc93ee-f797-45ec-aa91-32b274de45df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Moran.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +36,7 @@
     <Content Include="beauty_vs_best_metric_en.png" />
     <Content Include="beauty_vs_best_metric_es.png" />
     <Content Include="beauty_vs_best_metric_it.png" />
+    <Content Include="corpus_analyisis_gen_final.csv" />
     <Content Include="corpus_analysis_results_de.csv" />
     <Content Include="corpus_analysis_results_en.csv" />
     <Content Include="corpus_analysis_results_es.csv" />

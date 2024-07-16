@@ -4,6 +4,69 @@ from scipy import stats
 import matplotlib.pyplot as plt
 import seaborn as sns
 from numpy.random import RandomState
+from scipy import optimize
+import os
+import csv 
+
+
+
+def calculate_D_h(row):
+    a = float(row['avg_sentences/episode'])
+    b = float(row['avg_clauses/sentence'])
+    c = float(row['avg_words/clause'])
+    D_h_a = np.log(3) / np.log(1 / a)
+    D_h_b = np.log(3) / np.log(1 / b)
+    D_h_c = np.log(3) / np.log(1 / c)
+    D_h = (D_h_a + D_h_b + D_h_c) / 3
+    return D_h
+
+# Example usage
+# N = 3
+# h = 0.1
+# D_h = calculate_D_h(N, h)
+# print(f"The calculated fractal dimension D_h is: {D_h}")
+
+def equation(d, a, b, c):
+    return a**d + b**d + c**d - 1
+
+def calculate_d(row):
+    a = float(row['avg_sentences/episode'])/10
+    b = float(row['avg_clauses/sentence'])/10
+    c = float(row['avg_words/clause'])/10
+
+    try:
+        # Ensure initial bracket [0, 10] has function values with different signs
+        if equation(0, a, b, c) * equation(10, a, b, c) >= 0:
+            print(f"Cannot find a valid root for a={a}, b={b}, c={c}")
+            return np.nan
+
+        result = optimize.root_scalar(equation, args=(a, b, c), bracket=[0, 10], method='secant')
+        return result.root if result.converged else np.nan
+    except Exception as e:
+        print(f"Error in calculation: {e}")
+        return np.nan
+
+def calculate_average_homotethy(row):
+    a = float(row['avg_sentences/episode'])
+    b = float(row['avg_clauses/sentence'])
+    c = float(row['avg_words/clause'])
+
+    return (a+b+c)/3
+
+def insert_fractality_csv(input_file, output_file):
+    df = pd.read_csv(input_file, delimiter=';')
+    df['Average_homotethy'] = df.apply(calculate_average_homotethy, axis=1)
+    df['D_h'] = df.apply(calculate_D_h, axis=1)
+    df['D'] = df.apply(calculate_d, axis=1)
+    df.to_csv(output_file, sep=';', index=False)
+
+    print(f"Results saved to {output_file}")
+    
+# corpora_metrics = ['grimm_tales_metrics_en.csv', 'grimm_tales_metrics_de.csv', 'grimm_tales_metrics_es.csv', 'grimm_tales_metrics_it.csv']
+
+# for corpus_metrics in corpora_metrics:
+#     insert_fractality_csv(corpus_metrics, corpus_metrics.replace('.csv', '_fractality.csv'))
+
 
 def fbm(n, H, seed=None):
     """Generate fractional Brownian motion."""
@@ -63,15 +126,14 @@ def analyze_corpus(df, columns_to_analyze):
     print(all_results)
     return all_results
 
-languages = ['en', 'de', 'es', 'it']
+languages = ['en']#, 'de', 'es', 'it']
 for lang in languages:
-    df = pd.read_csv(f'grimm_tales_metrics_{lang}.csv', delimiter=';', decimal='.')
+    df = pd.read_csv(f'grimm_tales_metrics_{lang}_fractality.csv', delimiter=';', decimal='.')
 
-    # Select relevant columns for analysis
-    columns_to_analyze = ['num_episodes', 'num_sentences', 'num_clauses', 'num_words', 
+    columns_to_analyze = ['num_episodes', 'num_sentences', 'num_clauses', 'num_words', 'avg_sentences/episode', 'avg_clauses/sentence', 'avg_words/clause',
                           'avg_episode_length', 'avg_sentence_length', 'avg_clause_length',
                           'avg_dep_distance_clause', 'avg_dep_distance_sentence', 'avg_dep_distance_episode',
-                          'Average_Eventfulness', 'Average_I'] #, 'CLI'] The Coleman-Liau index is reliable only for the English language
+                          'Average_Eventfulness', 'Average_I', 'CLI', 'Average_homotethy', 'D_h'] #, 'CLI'] The Coleman-Liau index is reliable only for the English language
 
     # Analyze metrics
     all_results = analyze_corpus(df, columns_to_analyze)
@@ -106,7 +168,7 @@ for lang in languages:
     elif lang == 'it':
         plt.title('Spearman Correlation Matrix for Italian Folktales')
     plt.tight_layout()
-    plt.savefig(f'correlation_matrix{lang}.png')
+    plt.savefig(f'correlation_matrix_def_{lang}.png')
     plt.close()
 
     print("Spearman Correlation Matrix:")
@@ -130,7 +192,6 @@ for lang in languages:
     plt.savefig(f'beauty_vs_best_metric_{lang}.png')
     plt.close()
 
-    # Create CSV output
     csv_data = []
     for _, row in df.iterrows():
         tale_data = {
@@ -148,7 +209,7 @@ for lang in languages:
         csv_data.append(tale_data)
 
     df_results = pd.DataFrame(csv_data)
-    df_results.to_csv(f'corpus_analysis_results_{lang}.csv', index=False)
+    #df_results.to_csv(f'corpus_analysis_results_{lang}.csv', index=False)
 
     print("\nResults:")
     for col, results in all_results.items():
