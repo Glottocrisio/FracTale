@@ -1,0 +1,1209 @@
+tale_id,episode_id,sentence,num_words,num_clauses,dep_distance,Eventfulness,I
+1,1,"A certain father had two sons, the elder of whom was smart and sensible, and could do everything, but the younger was stupid and could neither learn nor understand anything, and when people saw him they said, ""There's a fellow who will give his father some trouble!""",56,10,1384,0.125,173.0
+1,1,"When anything had to be done, it was always the elder who was forced to do it; but if his father bade him fetch anything when it was late, or in the night-time, and the way led through the churchyard, or any other dismal place, he answered ""Oh, no, father, I'll not go there, it makes me shudder!""",72,14,2418,0.125,302.25
+1,1,for he was afraid.,5,1,6,0.125,0.75
+1,1,"Or when stories were told by the fire at night which made the flesh creep, the listeners sometimes said ""Oh, it makes us shudder!""",29,6,331,0.125,41.375
+1,1,"The younger sat in a corner and listened with the rest of them, and could not imagine what they could mean.",23,3,148,0.125,18.5
+1,1,"""They are always saying 'it makes me shudder, it makes me shudder!'",16,4,94,0.125,11.75
+1,1,"It does not make me shudder,"" thought he.",11,3,46,0.125,5.75
+1,1,"""That, too, must be an art of which I understand nothing.""",16,2,66,0.125,8.25
+1,2,"Now it came to pass that his father said to him one day ""Hearken to me, thou fellow in the corner there, thou art growing tall and strong, and thou too must learn something by which thou canst earn thy living.",46,7,949,0.125,118.625
+1,2,"Look how thy brother works, but thou dost not even earn thy salt.""",16,3,120,0.125,15.0
+1,2,"- ""Well, father,"" he replied, ""I am quite willing to learn something - indeed, if it could but be managed, I should like to learn how to shudder.",37,8,442,0.125,55.25
+1,2,"I don't understand that at all yet.""",10,2,37,0.125,4.625
+1,2,"The elder brother smiled when he heard that, and thought to himself, ""Good God, what a blockhead that brother of mine is!",27,4,282,0.125,35.25
+1,2,He will never be good for anything as long as he lives.,13,2,51,0.125,6.375
+1,2,"He who wants to be a sickle must bend himself betimes.""",13,3,58,0.125,7.25
+1,2,"The father sighed, and answered him ""thou shalt soon learn what it is to shudder, but thou wilt not earn thy bread by that.""",29,6,354,0.125,44.25
+1,3,"Soon after this the sexton came to the house on a visit, and the father bewailed his trouble, and told him how his younger son was so backward in every respect that he knew nothing and learnt nothing.",41,5,645,0.043478260869565216,28.043478260869563
+1,3,"""Just think,"" said he, ""when I asked him how he was going to earn his bread, he actually wanted to learn to shudder.""",31,9,409,0.043478260869565216,17.782608695652172
+1,3,"- ""If that be all,"" replied the sexton, ""he can learn that with me.",20,3,130,0.043478260869565216,5.6521739130434785
+1,3,"Send him to me, and I will soon polish him.""",13,1,51,0.043478260869565216,2.217391304347826
+1,3,"The father was glad to do it, for he thought, ""It will train the boy a little.""",22,4,193,0.043478260869565216,8.391304347826086
+1,3,"The sexton therefore took him into his house, and he had to ring the bell.",17,3,97,0.043478260869565216,4.217391304347826
+1,3,"After a day or two, the sexton awoke him at midnight, and bade him arise and go up into the church tower and ring the bell.",29,5,246,0.043478260869565216,10.695652173913043
+1,3,"""Thou shalt soon learn what shuddering is,"" thought he, and secretly went there before him; and when the boy was at the top of the tower and turned round, and was just going to take hold of the bell rope, he saw a white figure standing on the stairs opposite the sounding hole.",61,12,1606,0.043478260869565216,69.82608695652173
+1,3,"""Who is there?""",6,1,9,0.043478260869565216,0.3913043478260869
+1,3,"cried he, but the figure made no reply, and did not move or stir.",17,5,136,0.043478260869565216,5.913043478260869
+1,3,"""Give an answer,"" cried the boy, ""or take thy self off, thou hast no business here at night.""",26,3,301,0.043478260869565216,13.08695652173913
+1,3,"The sexton, however, remained standing motionless that the boy might think he was a ghost.",18,4,93,0.043478260869565216,4.043478260869565
+1,3,"The boy cried a second time, ""What do you want here?",14,3,69,0.043478260869565216,3.0
+1,3,"- speak if thou art an honest fellow, or I will throw thee down the steps!""",19,3,115,0.043478260869565216,5.0
+1,3,"The sexton thought, ""he can't intend to be as bad as his words,"" uttered no sound and stood as if he were made of stone.",31,7,409,0.043478260869565216,17.782608695652172
+1,3,"Then the boy called to him for the third time, and as that was also to no purpose, he ran against him and pushed the ghost down the stairs, so that it fell down ten steps and remained lying there in a corner.",47,7,952,0.043478260869565216,41.391304347826086
+1,3,"Thereupon he rang the bell, went home, and without saying a word went to bed, and fell asleep.",22,5,193,0.043478260869565216,8.391304347826086
+1,3,"The sexton's wife waited a long time for her husband, but he did not come back.",19,3,115,0.043478260869565216,5.0
+1,3,"At length she became uneasy, and wakened the boy, and asked, ""Dost thou not know where my husband is?",24,5,216,0.043478260869565216,9.391304347826086
+1,3,"He climbed up the tower before thou didst.""",10,1,37,0.043478260869565216,1.608695652173913
+1,3,"- ""No, I don't know,"" replied the boy, ""but some one was standing by the sounding hole on the other side of the steps, and as he would neither give an answer nor go away, I took him for a scoundrel, and threw him downstairs, just go there and you will see if it was he.",68,14,1968,0.043478260869565216,85.56521739130434
+1,3,"I should be sorry if it were.""",9,2,24,0.043478260869565216,1.0434782608695652
+1,3,"The woman ran away and found her husband, who was lying moaning in the corner, and had broken his leg.",23,6,213,0.043478260869565216,9.26086956521739
+1,4,"She carried him down, and then with loud screams she hastened to the boy's father.",18,2,137,0.047619047619047616,6.523809523809524
+1,4,"""Your boy,"" cried she, ""has been the cause of a great misfortune!",18,3,93,0.047619047619047616,4.428571428571428
+1,4,He has thrown my husband down the steps and made him break his leg.,15,4,92,0.047619047619047616,4.3809523809523805
+1,4,"Take the good-for-nothing fellow away from our house.""",10,1,45,0.047619047619047616,2.142857142857143
+1,4,"The father was terrified, and ran thither and scolded the boy.",13,4,58,0.047619047619047616,2.761904761904762
+1,4,"""What wicked tricks are these?""",8,2,18,0.047619047619047616,0.8571428571428571
+1,4,"said he, ""the devil must have put this into thy head.""",15,3,105,0.047619047619047616,5.0
+1,4,"- ""Father,"" he replied, ""do listen to me.",14,3,49,0.047619047619047616,2.333333333333333
+1,4,I am quite innocent.,5,1,7,0.047619047619047616,0.3333333333333333
+1,4,He was standing there by night like one who is intending to do some evil.,16,5,106,0.047619047619047616,5.0476190476190474
+1,4,"I did not know who it was, and I entreated him three times either to speak or to go away.""",23,6,232,0.047619047619047616,11.047619047619047
+1,4,"- ""Ah,"" said the father, ""I have nothing but unhappiness with you.",18,2,93,0.047619047619047616,4.428571428571428
+1,4,Go out of my sight.,6,1,15,0.047619047619047616,0.7142857142857142
+1,4,"I will see thee no more.""",8,1,18,0.047619047619047616,0.8571428571428571
+1,4,"- ""Yes, father, right willingly, wait only until it is day.",16,2,66,0.047619047619047616,3.142857142857143
+1,4,"Then will I go forth and learn how to shudder, and then I shall, at any rate, understand one art which will support me.""",29,5,331,0.047619047619047616,15.761904761904761
+1,4,"- ""Learn what thou wilt,"" spake the father, ""it is all the same to me.",21,3,174,0.047619047619047616,8.285714285714285
+1,4,Here are fifty thalers for thee.,7,1,16,0.047619047619047616,0.7619047619047619
+1,4,"Take these and go into the wide world, and tell no one from whence thou comest, and who is thy father, for I have reason to be ashamed of thee.""",35,7,595,0.047619047619047616,28.333333333333332
+1,4,"- ""Yes, father, it shall be as you will.",13,1,46,0.047619047619047616,2.1904761904761902
+1,4,"If you desire nothing more than that, I can easily keep it in mind.""",17,2,108,0.047619047619047616,5.142857142857142
+1,5,"When day dawned, therefore, the boy put his fifty thalers into his pocket, and went forth on the great highway, and continually said to himself, ""If I could but shudder!",37,5,598,0.05263157894736842,31.473684210526315
+1,5,"If I could but shudder!""",7,1,13,0.05263157894736842,0.6842105263157894
+1,5,"Then a man approached who heard this conversation which the youth was holding with himself, and when they had walked a little farther to where they could see the gallows, the man said to him, ""Look, there is the tree where seven men have married the ropemaker's daughter, and are now learning how to fly.",63,15,1776,0.05263157894736842,93.47368421052632
+1,5,"Sit down below it, and wait till night comes, and you will soon learn how to shudder.""",21,3,111,0.05263157894736842,5.842105263157895
+1,5,"- ""If that is all that is wanted,"" answered the youth, ""it is easily done; but if I learn how to shudder as fast as that, thou shalt have my fifty thalers.",40,9,640,0.05263157894736842,33.68421052631579
+1,5,"Just come back to me early in the morning.""",11,1,46,0.05263157894736842,2.4210526315789473
+1,5,"Then the youth went to the gallows, sat down below it, and waited till evening came.",19,5,126,0.05263157894736842,6.63157894736842
+1,5,"And as he was cold, he lighted himself a fire, but at midnight the wind blew so sharply that in spite of his fire, he could not get warm.",33,4,441,0.05263157894736842,23.210526315789473
+1,5,"And as the wind knocked the hanged men against each other, and they moved backwards and forwards, he thought to himself ""Thou shiverest below by the fire, but how those up above must freeze and suffer!""",42,6,713,0.05263157894736842,37.526315789473685
+1,5,"And as he felt pity for them, he raised the ladder, and climbed up, unbound one of them after the other, and brought down all seven.",31,4,384,0.05263157894736842,20.210526315789473
+1,5,"Then he stirred the fire, blew it, and set them all round it to warm themselves.",19,5,139,0.05263157894736842,7.31578947368421
+1,5,"But they sat there and did not stir, and the fire caught their clothes.",16,4,94,0.05263157894736842,4.947368421052631
+1,5,"So he said, ""Take care, or I will hang you up again.""",17,2,108,0.05263157894736842,5.684210526315789
+1,5,"The dead men, however, did not hear, but were quite silent, and let their rags go on burning.",23,5,157,0.05263157894736842,8.263157894736842
+1,5,"On this he grew angry, and said, ""If you will not take care, I cannot help you, I will not be burnt with you,"" and he hung them up again each in his turn.",43,7,786,0.05263157894736842,41.368421052631575
+1,5,"Then he sat down by his fire and fell asleep, and the next morning the man came to him and wanted to have the fifty thalers, and said, ""Well, dost thou know how to shudder?""",42,8,783,0.05263157894736842,41.21052631578947
+1,5,"- ""No,"" answered he, ""how was I to get to know?",17,4,81,0.05263157894736842,4.263157894736842
+1,5,"Those fellows up there did not open their mouths, and were so stupid that they let the few old rags which they had on their bodies get burnt.""",31,7,436,0.05263157894736842,22.94736842105263
+1,5,"Then the man saw that he would not get the fifty thalers that day, and went away saying, ""One of this kind has never come my way before.""",33,6,441,0.05263157894736842,23.210526315789473
+1,6,"The youth likewise went his way, and once more began to mutter to himself, ""Ah, if I could but shudder!",25,4,237,0.04,9.48
+1,6,"Ah, if I could but shudder!""",9,1,24,0.04,0.96
+1,6,"A waggoner who was striding behind him heard that and asked, ""Who are you?""",18,5,111,0.04,4.44
+1,6,"- ""I don't know,"" answered the youth.",12,3,42,0.04,1.68
+1,6,"Then the waggoner asked, ""From whence comest thou?""",12,1,42,0.04,1.68
+1,6,"- ""I know not.""",7,1,12,0.04,0.48
+1,6,"- ""Who is thy father?""",8,1,16,0.04,0.64
+1,6,"- ""That I may not tell thee.""",10,1,27,0.04,1.08
+1,6,"- ""What is it that thou art always muttering between thy teeth.""",15,3,72,0.04,2.88
+1,6,"- ""Ah,"" replied the youth, ""I do so wish I could shudder, but no one can teach me how to do it.""",30,5,315,0.04,12.6
+1,6,"- ""Give up thy foolish chatter,"" said the waggoner.",13,2,58,0.04,2.32
+1,6,"""Come, go with me, I will see about a place for thee.""",17,2,97,0.04,3.88
+1,6,"The youth went with the waggoner, and in the evening they arrived at an inn where they wished to pass the night.",24,4,234,0.04,9.36
+1,6,"Then at the entrance of the room the youth again said quite loudly, ""If I could but shudder!",21,2,110,0.04,4.4
+1,6,"If I could but shudder!""",7,1,13,0.04,0.52
+1,6,"The host who heard this, laughed and said, ""If that is your desire, there ought to be a good opportunity for you here.""",29,5,331,0.04,13.24
+1,6,"- ""Ah, be silent,"" said the hostess, ""so many inquisitive persons have already lost their lives, it would be a pity and a shame if such beautiful eyes as these should never see the daylight again.""",45,6,830,0.04,33.2
+1,6,"But the youth said, ""However difficult it may be, I will learn it and for this purpose indeed have I journeyed forth.""",27,5,282,0.04,11.28
+1,6,"He let the host have no rest, until the latter told him, that not far from thence stood a haunted castle where any one could very easily learn what shuddering was, if he would but watch in it for three nights.",45,8,947,0.04,37.88
+1,6,"The King had promised that he who would venture should have his daughter to wife, and she was the most beautiful maiden the sun shone on.",28,5,328,0.04,13.120000000000001
+1,6,"Great treasures likewise lay in the castle, which were guarded by evil spirits, and these treasures would then be freed, and would make a poor man rich enough.",32,6,438,0.04,17.52
+1,6,"Already many men had gone into the castle, but as yet none had come out again.",18,4,111,0.04,4.44
+1,6,Then the youth went next morning to the King and said if he were allowed he would watch three nights in the haunted castle.,25,5,237,0.04,9.48
+1,6,"The King looked at him, and as the youth pleased him, he said, ""Thou mayest ask for three things to take into the castle with thee, but they must be things without life.""",40,5,706,0.04,28.240000000000002
+1,6,"Then he answered, ""Then I ask for a fire, a turning lathe, and a cutting-board with the knife.""",24,3,234,0.04,9.36
+1,7,The King had these things carried into the castle for him during the day.,15,2,81,0.03571428571428571,2.892857142857143
+1,7,"When night was drawing near, the youth went up and made himself a bright fire in one of the rooms, placed the cutting-board and knife beside it, and seated himself by the turning-lathe.",37,6,598,0.03571428571428571,21.357142857142858
+1,7,"""Ah, if I could but shudder!""",10,1,31,0.03571428571428571,1.107142857142857
+1,7,"said he, ""but I shall not learn it here either.""",14,2,91,0.03571428571428571,3.25
+1,7,"Towards midnight he was about to poke his fire, and as he was blowing it, something cried suddenly from one corner, ""Au, miau!",29,6,379,0.03571428571428571,13.535714285714285
+1,7,"how cold we are!""",6,1,9,0.03571428571428571,0.3214285714285714
+1,7,"- ""You simpletons!""",6,1,9,0.03571428571428571,0.3214285714285714
+1,7,"cried he, ""what are you crying about?",10,3,45,0.03571428571428571,1.607142857142857
+1,7,"If you are cold, come and take a seat by the fire and warm yourselves.""",18,3,123,0.03571428571428571,4.392857142857142
+1,7,"And when he had said that, two great black cats came with one tremendous leap and sat down on each side of him, and looked savagely at him with their fiery eyes.",35,5,502,0.03571428571428571,17.928571428571427
+1,7,"After a short time, when they had warmed themselves, they said, ""Comrade, shall we have a game at cards?""",26,4,199,0.03571428571428571,7.107142857142857
+1,7,"- ""Why not?""",6,1,15,0.03571428571428571,0.5357142857142857
+1,7,"he replied, ""but just show me your paws.""",12,2,56,0.03571428571428571,2.0
+1,7,Then they stretched out their claws.,7,1,13,0.03571428571428571,0.46428571428571425
+1,7,"""Oh,"" said he, ""what long nails you have!",14,2,55,0.03571428571428571,1.9642857142857142
+1,7,"Wait, I must first cut them for you.""",11,1,30,0.03571428571428571,1.0714285714285714
+1,7,"Thereupon he seized them by the throats, put them on the cutting-board and screwed their feet fast.",19,3,139,0.03571428571428571,4.964285714285714
+1,7,"""I have looked at your fingers,"" said he, ""and my fancy for card-playing has gone,"" and he struck them dead and threw them out into the water.",35,7,531,0.03571428571428571,18.96428571428571
+1,7,"But when he had made away with these two, and was about to sit down again by his fire, out from every hole and corner came black cats and black dogs with red-hot chains, and more and more of them came until he could no longer stir, and they yelled horribly, and got on his fire, pulled it to pieces, and tried to put it out.",74,12,2491,0.03571428571428571,88.96428571428571
+1,7,"He watched them for a while quietly, but at last when they were going too far, he seized his cutting-knife, and cried, ""Away with ye, vermin,"" and began to cut them down.",41,7,781,0.03571428571428571,27.892857142857142
+1,7,"Part of them ran away, the others he killed, and threw out into the fish-pond.",18,3,111,0.03571428571428571,3.964285714285714
+1,7,When he came back he fanned the embers of his fire again and warmed himself.,16,3,94,0.03571428571428571,3.3571428571428568
+1,7,"And as he thus sat, his eyes would keep open no longer, and he felt a desire to sleep.",22,4,163,0.03571428571428571,5.821428571428571
+1,7,Then he looked round and saw a great bed in the corner.,13,2,58,0.03571428571428571,2.071428571428571
+1,7,"""That is the very thing for me,"" said he, and got into it.",18,3,123,0.03571428571428571,4.392857142857142
+1,7,"When he was just going to shut his eyes, however, the bed began to move of its own accord, and went over the whole of the castle.",31,6,409,0.03571428571428571,14.607142857142856
+1,7,"""That's right,"" said he, ""but go faster.""",15,3,81,0.03571428571428571,2.892857142857143
+1,7,"Then the bed rolled on as if six horses were harnessed to it, up and down, over thresholds and steps, but suddenly hop, hop, it turned over upside down, and lay on him like a mountain.",43,5,786,0.03571428571428571,28.07142857142857
+1,8,"But he threw quilts and pillows up in the air, got out and said, ""Now any one who likes, may drive,"" and lay down by his fire, and slept till it was day.",41,10,744,0.1,74.4
+1,8,"In the morning the King came, and when he saw him lying there on the ground, he thought the evil spirits had killed him and he was dead.",31,7,340,0.1,34.0
+1,8,"Then said he, ""After all it is a pity, he is a handsome man.""",19,3,154,0.1,15.4
+1,8,"The youth heard it, got up, and said, ""It has not come to that yet.""",21,5,174,0.1,17.400000000000002
+1,8,"Then the King was astonished, but very glad, and asked how he had fared.",17,5,97,0.1,9.700000000000001
+1,8,"""Very well indeed,"" answered he; ""one night is past, the two others will get over likewise.""",24,3,174,0.1,17.400000000000002
+1,8,"Then he went to the innkeeper, who opened his eyes very wide, and said, ""I never expected to see thee alive again!",27,5,303,0.1,30.3
+1,8,"Hast thou learnt how to shudder yet?""",9,2,24,0.1,2.4000000000000004
+1,8,"- ""No,"" said he, ""it is all in vain.",15,2,60,0.1,6.0
+1,8,"If some one would but tell me.""",9,1,21,0.1,2.1
+1,9,"The second night he again went up into the old castle, sat down by the fire, and once more began his old song, ""If I could but shudder.""",34,4,421,0.03333333333333333,14.033333333333333
+1,9,"When midnight came, an uproar and noise of tumbling about was heard; at first it was low, but it grew louder and louder.",27,6,303,0.03333333333333333,10.1
+1,9,"Then it was quiet for awhile, and at length with a loud scream, half a man came down the chimney and fell before him.",27,3,303,0.03333333333333333,10.1
+1,9,"""Hollo!""",4,1,6,0.03333333333333333,0.2
+1,9,"cried he, ""another half belongs to this.",10,2,45,0.03333333333333333,1.5
+1,9,"This is too little!""",6,1,11,0.03333333333333333,0.36666666666666664
+1,9,"Then the uproar began again, there was a roaring and howling, and the other half fell down likewise.",21,3,159,0.03333333333333333,5.3
+1,9,"""Wait,"" said he, ""I will just blow up the fire a little for thee.""",21,2,146,0.03333333333333333,4.866666666666666
+1,9,"When he had done that and looked round again, the two pieces were joined together, and a frightful man was sitting in his place.",27,7,303,0.03333333333333333,10.1
+1,9,"""That is no part of our bargain,"" said the youth, ""the bench is mine.""",21,3,174,0.03333333333333333,5.8
+1,9,"The man wanted to push him away; the youth, however, would not allow that, but thrust him off with all his strength, and seated himself again in his own place.",36,5,564,0.03333333333333333,18.8
+1,9,"Then still more men fell down, one after the other; they brought nine dead men's legs and two skulls, and set them up and played at nine-pins with them.",34,4,445,0.03333333333333333,14.833333333333334
+1,9,"The youth also wanted to play and said ""Hark you, can I join you?""",18,4,111,0.03333333333333333,3.6999999999999997
+1,9,"- ""Yes, if thou hast any money.""",11,1,55,0.03333333333333333,1.8333333333333333
+1,9,"- ""Money enough,"" replied he, ""but your balls are not quite round.""",19,2,99,0.03333333333333333,3.3
+1,9,Then he took the skulls and put them in the lathe and turned them till they were round.,19,4,139,0.03333333333333333,4.633333333333333
+1,9,"""There, now, they will roll better!""",11,1,34,0.03333333333333333,1.1333333333333333
+1,9,said he.,3,1,3,0.03333333333333333,0.1
+1,9,"""Hurrah!",3,1,3,0.03333333333333333,0.1
+1,9,"Now it goes merrily!""",6,1,9,0.03333333333333333,0.3
+1,9,"He played with them and lost some of his money, but when it struck twelve, everything vanished from his sight.",23,5,232,0.03333333333333333,7.733333333333333
+1,9,He lay down and quietly fell asleep.,8,2,22,0.03333333333333333,0.7333333333333333
+1,9,Next morning the King came to inquire after him.,10,2,25,0.03333333333333333,0.8333333333333334
+1,9,"""How has it fared with you this time?""",11,2,39,0.03333333333333333,1.3
+1,9,asked he.,3,1,3,0.03333333333333333,0.1
+1,9,"""I have been playing at nine-pins,"" he answered, ""and have lost a couple of farthings.""",22,6,193,0.03333333333333333,6.433333333333334
+1,9,"- ""Hast thou not shuddered then?""",9,1,21,0.03333333333333333,0.7
+1,9,"- ""Eh, what?""",7,1,21,0.03333333333333333,0.7
+1,9,"said he, ""I have made merry.",9,3,36,0.03333333333333333,1.2
+1,9,"If I did but know what it was to shudder!""",12,4,48,0.03333333333333333,1.6
+1,10,"The third night he sat down again on his bench and said quite sadly, ""If I could but shudder.""",23,3,181,0.058823529411764705,10.647058823529411
+1,10,"When it grew late, six tall men came in and brought a coffin.",15,3,81,0.058823529411764705,4.764705882352941
+1,10,"Then said he, ""Ha, ha, that is certainly my little cousin, who died only a few days ago,"" and he beckoned with his finger, and cried ""Come, little cousin, come.""",43,6,862,0.058823529411764705,50.705882352941174
+1,10,"They placed the coffin on the ground, but he went to it and took the lid off, and a dead man lay therein.",26,4,301,0.058823529411764705,17.705882352941178
+1,10,"He felt his face, but it was cold as ice.",12,3,56,0.058823529411764705,3.2941176470588234
+1,10,"""Stop,"" said he, ""I will warm thee a little,"" and went to the fire and warmed his hand and laid it on the dead man's face, but he remained cold.",40,8,742,0.058823529411764705,43.64705882352941
+1,10,"Then he took him out, and sat down by the fire and laid him on his breast and rubbed his arms that the blood might circulate again.",29,5,354,0.058823529411764705,20.823529411764707
+1,10,"As this also did no good, he thought to himself ""When two people lie in bed together, they warm each other,"" and carried him to the bed, covered him over and lay down by him.",42,7,747,0.058823529411764705,43.94117647058823
+1,10,"After a short time the dead man became warm too, and began to move.",16,3,64,0.058823529411764705,3.764705882352941
+1,10,"Then said the youth, ""See, little cousin, have I not warmed thee?""",18,4,137,0.058823529411764705,8.058823529411764
+1,10,"The dead man, however, got up and cried, ""Now will I strangle thee.""",19,3,99,0.058823529411764705,5.823529411764706
+1,10,"- ""What!""",5,1,10,0.058823529411764705,0.5882352941176471
+1,10,"said he, ""is that the way thou thankest me?",12,2,66,0.058823529411764705,3.8823529411764706
+1,10,"Thou shalt at once go into thy coffin again,"" and he took him up, threw him into it, and shut the lid.",27,4,263,0.058823529411764705,15.470588235294118
+1,10,Then came the six men and carried him away again.,11,2,46,0.058823529411764705,2.7058823529411766
+1,10,"""I cannot manage to shudder,"" said he.",12,3,38,0.058823529411764705,2.235294117647059
+1,10,"""I shall never learn it here as long as I live.""",14,2,55,0.058823529411764705,3.235294117647059
+1,11,"Then a man entered who was taller than all others, and looked terrible.",15,3,72,0.037037037037037035,2.6666666666666665
+1,11,"He was old, however, and had a long white beard.",13,2,67,0.037037037037037035,2.4814814814814814
+1,11,"""Thou wretch,"" cried he, ""thou shalt soon learn what it is to shudder, for thou shalt die.""",25,4,205,0.037037037037037035,7.592592592592593
+1,11,"- ""Not so fast,"" replied the youth.",11,1,34,0.037037037037037035,1.259259259259259
+1,11,"""If I am to die, I shall have to have a say in it.""",18,4,111,0.037037037037037035,4.111111111111111
+1,11,"- ""I will soon seize thee,"" said the fiend.",13,2,43,0.037037037037037035,1.5925925925925926
+1,11,"""Softly, softly, do not talk so big.",11,2,30,0.037037037037037035,1.1111111111111112
+1,11,"I am as strong as thou art, and perhaps even stronger.""",14,1,79,0.037037037037037035,2.9259259259259256
+1,11,"- ""We shall see,"" said the old man.",12,2,38,0.037037037037037035,1.4074074074074074
+1,11,"""If thou art stronger, I will let thee go - come, we will try.""",19,4,91,0.037037037037037035,3.3703703703703702
+1,11,"Then he led him by dark passages to a smith's forge, took an axe, and with one blow struck an anvil into the ground.",28,3,328,0.037037037037037035,12.148148148148147
+1,11,"""I can do better than that,"" said the youth, and went to the other anvil.",20,3,142,0.037037037037037035,5.259259259259259
+1,11,"The old man placed himself near and wanted to look on, and his white beard hung down.",19,4,126,0.037037037037037035,4.666666666666666
+1,11,"Then the youth seized the axe, split the anvil with one blow, and struck the old man's beard in with it.",25,3,237,0.037037037037037035,8.777777777777777
+1,11,"""Now I have thee,"" said the youth.",11,3,34,0.037037037037037035,1.259259259259259
+1,11,"""Now it is thou who will have to die.""",12,4,42,0.037037037037037035,1.5555555555555554
+1,11,"Then he seized an iron bar and beat the old man till he moaned and entreated him to stop, and he would give him great riches.",28,6,328,0.037037037037037035,12.148148148148147
+1,11,The youth drew out the axe and let him go.,11,3,39,0.037037037037037035,1.4444444444444444
+1,11,"The old man led him back into the castle, and in a cellar showed him three chests full of gold.",22,2,177,0.037037037037037035,6.555555555555555
+1,11,"""Of these,"" said he, ""one part is for the poor, the other for the king, the third is thine.""",28,3,268,0.037037037037037035,9.925925925925926
+1,11,"In the meantime it struck twelve, and the spirit disappeared; the youth, therefore, was left in darkness.",22,4,163,0.037037037037037035,6.037037037037036
+1,11,"""I shall still be able to find my way out,"" said he, and felt about, found the way into the room, and slept there by his fire.",34,6,445,0.037037037037037035,16.48148148148148
+1,11,"Next morning the King came and said ""Now thou must have learnt what shuddering is?""",18,7,101,0.037037037037037035,3.7407407407407405
+1,11,"- ""No,"" he answered; ""what can it be?",14,2,49,0.037037037037037035,1.8148148148148147
+1,11,"My dead cousin was here, and a bearded man came and showed me a great deal of money down below, but no one told me what it was to shudder.""",34,6,471,0.037037037037037035,17.444444444444443
+1,11,"- ""Then,"" said the King, ""thou hast delivered the castle, and shalt marry my daughter.""",23,3,168,0.037037037037037035,6.222222222222221
+1,11,"- ""That is all very well,"" said he, ""but still I do not know what it is to shudder.""",26,6,259,0.037037037037037035,9.592592592592592
+1,12,"Then the gold was brought up and the wedding celebrated; but howsoever much the young king loved his wife, and however happy he was, he still said always ""If I could but shudder - if I could but shudder.""",45,8,867,0.1111111111111111,96.33333333333333
+1,12,And at last she was angry at this.,9,1,20,0.1111111111111111,2.2222222222222223
+1,12,"Her waiting-maid said, ""I will find a cure for him; he shall soon learn what it is to shudder.""",24,5,234,0.1111111111111111,26.0
+1,12,"She went out to the stream which flowed through the garden, and had a whole bucketful of gudgeons brought to her.",23,4,232,0.1111111111111111,25.777777777777775
+1,12,"At night when the young king was sleeping, his wife was to draw the clothes off him and empty the bucketful of cold water with the gudgeons in it over him, so that the little fishes would sprawl about him.",43,6,687,0.1111111111111111,76.33333333333333
+1,12,"When this was done, he woke up and cried ""Oh, what makes me shudder so?",19,6,139,0.1111111111111111,15.444444444444443
+1,12,"What makes me shudder so, dear wife?",9,1,29,0.1111111111111111,3.222222222222222
+1,12,Ah!,2,1,1,0.1111111111111111,0.1111111111111111
+1,12,"now I know what it is to shudder!""",10,3,31,0.1111111111111111,3.444444444444444
+2,1,"There was once a girl who was lazy and would not spin, and her mother could not persuade her to it, do what she would.",28,5,352,0.16666666666666666,58.666666666666664
+2,1,"At last the mother became angry and out of patience, and gave her a good beating, so that she cried out loudly.",25,3,220,0.16666666666666666,36.666666666666664
+2,1,"At that moment the Queen was going by; as she heard the crying, she stopped; and, going into the house, she asked the mother why she was beating her daughter, so that every one outside in the street could hear her cries.",49,9,961,0.16666666666666666,160.16666666666666
+2,1,"The woman was ashamed to tell of her daughter's laziness, so she said, ""I cannot stop her from spinning; she is for ever at it, and I am poor and cannot furnish her with flax enough.""",46,9,949,0.16666666666666666,158.16666666666666
+2,1,"Then the Queen answered, ""I like nothing better than the sound of the spinning-wheel, and always feel happy when I hear its humming; let me take your daughter with me to the castle - I have plenty of flax, she shall spin there to her heart's content.""",55,8,1332,0.16666666666666666,222.0
+2,1,"The mother was only too glad of the offer, and the Queen took the girl with her.",19,2,139,0.16666666666666666,23.166666666666664
+2,2,When they reached the castle the Queen showed her three rooms which were filled with the finest flax as full as they could hold.,25,5,256,0.16666666666666666,42.666666666666664
+2,2,"""Now you can spin me this flax,"" said she, ""and when you can show it me all done you shall have my eldest son for bridegroom; you may be poor, but I make nothing of that - your industry is dowry enough.""",51,8,1091,0.16666666666666666,181.83333333333331
+2,2,"The girl was inwardly terrified, for she could not have spun the flax, even if she were to live to be a hundred years old, and were to sit spinning every day of her life from morning to evening.",43,9,823,0.16666666666666666,137.16666666666666
+2,2,"And when she found herself alone she began to weep, and sat so for three days without putting her hand to it.",24,5,216,0.16666666666666666,36.0
+2,2,"On the third day the Queen came, and when she saw that nothing had been done of the spinning she was much surprised; but the girl excused herself by saying that she had not been able to begin because of the distress she was in at leaving her home and her mother.",55,15,1197,0.16666666666666666,199.5
+2,2,"The excuse contented the Queen, who said, however, as she went away, ""Tomorrow you must begin to work.""",25,6,256,0.16666666666666666,42.666666666666664
+2,3,"When the girl found herself alone again she could not tell how to help herself or what to do, and in her perplexity she went and gazed out of the window.",33,6,441,0.2,88.2
+2,3,"There she saw three women passing by, and the first of them had a broad flat foot, the second had a big under-lip that hung down over her chin, and the third had a remarkably broad thumb.",41,6,744,0.2,148.8
+2,3,"They all of them stopped in front of the window, and called out to know what it was that the girl wanted.",24,5,200,0.2,40.0
+2,3,"She told them all her need, and they promised her their help, and said, ""Then will you invite us to your wedding, and not be ashamed of us, and call us your cousins, and let us sit at your table; if you will promise this, we will finish off your flax-spinning in a very short time.""",67,11,2146,0.2,429.20000000000005
+2,3,"""With all my heart,"" answered the girl; ""only come in now, and begin at once.""",23,3,148,0.2,29.6
+2,4,"Then these same women came in, and she cleared a space in the first room for them to sit and carry on their spinning.",26,4,241,0.2,48.2
+2,4,"The first one drew out the thread and moved the treddle that turned the wheel, the second moistened the thread, the third twisted it, and rapped with her finger on the table, and as often as she rapped a heap of yarn fell to the ground, and it was most beautifully spun.",58,9,1261,0.2,252.20000000000002
+2,4,"But the girl hid the three spinsters out of the Queen's sight, and only showed her, as often as she came, the heaps of well-spun yarn; and there was no end to the praises she received.",42,5,747,0.2,149.4
+2,4,"When the first room was empty they went on to the second, and then to the third, so that at last all was finished.",27,4,263,0.2,52.6
+2,4,"Then the three women took their leave, saying to the girl, ""Do not forget what you have promised, and it will be all the better for you.""",33,7,416,0.2,83.2
+2,5,"So when the girl took the Queen and showed her the empty rooms, and the great heaps of yarn, the wedding was at once arranged, and the bridegroom rejoiced that he should have so clever and diligent a wife, and praised her exceedingly.",48,8,956,0.3333333333333333,318.66666666666663
+2,5,"""I have three cousins,"" said the girl, ""and as they have shown me a great deal of kindness, I would not wish to forget them in my good fortune; may I be allowed to invite them to the wedding, and to ask them to sit at the table with us?""",60,11,1656,0.3333333333333333,552.0
+2,5,"The Queen and the bridegroom said at once, ""There is no reason against it.""",18,2,93,0.3333333333333333,31.0
+2,6,"So when the feast began in came the three spinsters in strange guise, and the bride said, ""Dear cousins, you are welcome.""",28,4,286,0.16666666666666666,47.666666666666664
+2,6,"""Oh,"" said the bridegroom, ""how come you to have such dreadfully ugly relations?""",20,3,130,0.16666666666666666,21.666666666666664
+2,6,"And then he went up to the first spinster and said, ""How is it that you have such a broad flat foot?""",26,4,259,0.16666666666666666,43.166666666666664
+2,6,"""With treading,"" answered she, ""with treading.""",13,1,43,0.16666666666666666,7.166666666666666
+2,6,"Then he went up to the second and said, ""How is it that you have such a great hanging lip?""",24,4,234,0.16666666666666666,39.0
+2,6,"""With licking,"" answered she, ""with licking.""",13,1,43,0.16666666666666666,7.166666666666666
+2,7,"Then he asked the third, ""How is it that you have such a broad thumb?""",19,3,139,0.25,34.75
+2,7,"""With twisting thread,"" answered she, ""with twisting thread.""",15,3,81,0.25,20.25
+2,7,Then the bridegroom said that from that time forward his beautiful bride should never touch a spinning-wheel.,18,3,111,0.25,27.75
+2,7,And so she escaped that tiresome flax-spinning.,8,1,16,0.25,4.0
+3,1,"There was once on a time a poor man, who could no longer support his only son.",19,2,154,0.0625,9.625
+3,1,"Then said the son, ""Dear father, things go so badly with us that I am a burden to you.",23,3,232,0.0625,14.5
+3,1,"I would rather go away and see how I can earn my bread.""",15,3,72,0.0625,4.5
+3,1,"So the father gave him his blessing, and with great sorrow took leave of him.",17,2,97,0.0625,6.0625
+3,1,"At this time the King of a mighty empire was at war, and the youth took service with him, and with him went out to fight.",29,4,235,0.0625,14.6875
+3,1,"And when he came before the enemy, there was a battle, and great danger, and it rained shot until his comrades fell on all sides, and when the leader also was killed, those left were about to take flight, but the youth stepped forth, spoke boldly to them, and cried, ""We will not let our fatherland be ruined!""",70,15,2217,0.0625,138.5625
+3,1,"Then the others followed him, and he pressed on and conquered the enemy.",15,3,72,0.0625,4.5
+3,1,"When the King heard that he owed the victory to him alone, he raised him above all the others, gave him great treasures, and made him the first in the kingdom.The King had a daughter who was very beautiful, but she was also very strange.",50,7,967,0.0625,60.4375
+3,1,She had made a vow to take no one as her lord and husband who did not promise to let himself be buried alive with her if she died first.,31,9,436,0.0625,27.25
+3,1,"""If he loves me with all his heart,"" said she, ""of what use will life be to him afterwards?""",26,3,259,0.0625,16.1875
+3,1,"On her side she would do the same, and if he died first, would go down to the grave with him.",24,3,186,0.0625,11.625
+3,1,"This strange oath had up to this time frightened away all wooers, but the youth became so charmed with her beauty that he cared for nothing, but asked her father for her.",35,5,502,0.0625,31.375
+3,1,"""But dost thou know what thou must promise?""",11,2,31,0.0625,1.9375
+3,1,said the King.,4,1,6,0.0625,0.375
+3,1,"""I must be buried with her,"" he replied, ""if I outlive her, but my love is so great that I do not mind the danger.""",33,7,441,0.0625,27.5625
+3,1,"Then the King consented, and the wedding was solemnized with great splendour.",14,3,61,0.0625,3.8125
+3,2,"They lived now for a while happy and contented with each other, and then it befell that the young Queen was attacked by a severe illness, and no physician could save her.",35,6,562,0.25,140.5
+3,2,"And as she lay there dead, the young King remembered what he had been obliged to promise, and was horrified at having to lie down alive in the grave, but there was no escape.",38,11,601,0.25,150.25
+3,2,"The King had placed sentries at all the gates, and it was not possible to avoid his fate.",20,4,156,0.25,39.0
+3,2,"When the day came when the corpse was to be buried, he was taken down into the royal vault with it and then the door was shut and bolted.",31,9,384,0.25,96.0
+3,3,"Near the coffin stood a table on which were four candles, four loaves of bread, and four bottles of wine, and when this provision came to an end, he would have to die of hunger.",40,5,672,0.06666666666666667,44.8
+3,3,"And now he sat there full of pain and grief, ate every day only a little piece of bread, drank only a mouthful of wine, and nevertheless saw death daily drawing nearer.",36,4,534,0.06666666666666667,35.6
+3,3,"Whilst he thus gazed before him, he saw a snake creep out of a corner of the vault and approach the dead body.",25,3,237,0.06666666666666667,15.799999999999999
+3,3,"And as he thought it came to gnaw at it, he drew his sword and said, ""As long as I live, thou shalt not touch her,"" and hewed the snake in three pieces.",40,8,672,0.06666666666666667,44.8
+3,3,"After a time a second snake crept out of the hole, and when it saw the other lying dead and cut in pieces, it went back, but soon came again with three green leaves in its mouth.",41,7,616,0.06666666666666667,41.06666666666666
+3,3,"Then it took the three pieces of the snake, laid them together, as they ought to go, and placed one of the leaves on each wound.",30,4,381,0.06666666666666667,25.4
+3,3,"Immediately the severed parts joined themselves together, the snake moved, and became alive again, and both of them hastened away together.",25,4,220,0.06666666666666667,14.666666666666666
+3,3,"The leaves were left lying on the ground, and a desire came into the mind of the unhappy man who had been watching all this, to know if the wondrous power of the leaves which had brought the snake to life again, could not likewise be of service to a human being.",56,13,1434,0.06666666666666667,95.6
+3,3,"So he picked up the leaves and laid one of them on the mouth of his dead wife, and the two others on her eyes.",27,2,303,0.06666666666666667,20.2
+3,3,"And hardly had he done this than the blood stirred in her veins, rose into her pale face, and coloured it again.",25,5,256,0.06666666666666667,17.066666666666666
+3,3,"Then she drew breath, opened her eyes, and said, ""Ah, God, where am I?""",22,4,193,0.06666666666666667,12.866666666666667
+3,3,"- ""Thou art with me, dear wife,"" he answered, and told her how everything had happened, and how he had brought her back again to life.",33,6,288,0.06666666666666667,19.2
+3,3,"Then he gave her some wine and bread, and when she had regained her strength, he raised her up and they went to the door and knocked, and called so loudly that the sentries heard it, and told the King.",45,9,906,0.06666666666666667,60.4
+3,3,"The King came down himself and opened the door, and there he found both strong and well, and rejoiced with them that now all sorrow was over.",30,5,381,0.06666666666666667,25.4
+3,3,"The young King, however, took the three snake-leaves with him, gave them to a servant and said, ""Keep them for me carefully, and carry them constantly about thee; who knows in what trouble they may yet be of service to us!""",50,7,967,0.06666666666666667,64.46666666666667
+3,4,"A change had, however, taken place in his wife; after she had been restored to life, it seemed as if all love for her husband had gone out of her heart.",36,8,564,0.14285714285714285,80.57142857142857
+3,4,"After some time, when he wanted to make a voyage over the sea, to visit his old father, and they had gone on board a ship, she forgot the great love and fidelity which he had shown her, and which had been the means of rescuing her from death, and conceived a wicked inclination for the skipper.",64,12,1674,0.14285714285714285,239.14285714285714
+3,4,"And once when the young King lay there asleep, she called in the skipper and seized the sleeper by the head, and the skipper took him by the feet, and thus they threw him down into the sea.",42,4,531,0.14285714285714285,75.85714285714285
+3,4,"When the shameful deed was done, she said, ""Now let us return home, and say that he died on the way.",26,7,241,0.14285714285714285,34.42857142857142
+3,4,"I will extol and praise thee so to my father that he will marry me to thee, and make thee the heir to his crown.""",28,5,328,0.14285714285714285,46.857142857142854
+3,4,"But the faithful servant who had seen all that they did, unseen by them, unfastened a little boat from the ship, got into it, sailed after his master, and let the traitors go on their way.",42,8,681,0.14285714285714285,97.28571428571428
+3,4,"He fished up the dead body, and by the help of the three snake-leaves which he carried about with him, and laid on the eyes and mouth, he fortunately brought the young King back to life.",40,4,742,0.14285714285714285,106.0
+3,5,"They both rowed with all their strength day and night, and their little boat flew so swiftly that they reached the old King before the others did.",29,4,354,0.07692307692307693,27.230769230769234
+3,5,"He was astonished when he saw them come alone, and asked what had happened to them.",18,7,137,0.07692307692307693,10.538461538461538
+3,5,"When he learnt the wickedness of his daughter he said, ""I cannot believe that she has behaved so ill, but the truth will soon come to light,"" and bade both go into a secret chamber and keep themselves hidden from every one.",49,9,1084,0.07692307692307693,83.38461538461539
+3,5,"Soon afterwards the great ship came sailing in, and the godless woman appeared before her father with a troubled countenance.",22,3,151,0.07692307692307693,11.615384615384617
+3,5,"He said, ""Why dost thou come back alone?",11,2,46,0.07692307692307693,3.5384615384615388
+3,5,"Where is thy husband?""",6,1,11,0.07692307692307693,0.8461538461538463
+3,5,"- ""Ah, dear father,"" she replied, ""I come home again in great grief; during the voyage, my husband became suddenly ill and died, and if the good skipper had not given me his help, it would have gone ill with me.",52,9,1138,0.07692307692307693,87.53846153846155
+3,5,"He was present at his death, and can tell you all.""",14,2,79,0.07692307692307693,6.0769230769230775
+3,5,"The King said, ""I will make the dead alive again,"" and opened the chamber, and bade the two come out.",26,5,279,0.07692307692307693,21.461538461538463
+3,5,"When the woman saw her husband, she was thunderstruck, and fell on her knees and begged for mercy.",21,5,159,0.07692307692307693,12.230769230769232
+3,5,"The King said, ""There is no mercy.",10,2,31,0.07692307692307693,2.3846153846153846
+3,5,"He was ready to die with thee and restored thee to life again, but thou hast murdered him in his sleep, and shalt receive the reward that thou deservest.""",33,7,497,0.07692307692307693,38.23076923076923
+3,5,"Then she was placed with her accomplice in a ship which had been pierced with holes, and sent out to sea, where they soon sank amid the waves.",31,7,409,0.07692307692307693,31.461538461538463
+4,1,"There was once on a time an old king who was ill, and thought to himself, ""I am lying on what must be my death-bed.""",30,6,407,0.09090909090909091,37.0
+4,1,"Then said he, "" Tell Faithful John to come to me.""",14,2,79,0.09090909090909091,7.181818181818182
+4,1,"Faithful John was his favourite servant, and was so called, because he had for his whole life long been so true to him.",26,5,279,0.09090909090909091,25.363636363636363
+4,1,"When therefore he came beside the bed, the King said to him, ""Most faithful John, I feel my end approaching, and have no anxiety except about my son.",34,4,471,0.09090909090909091,42.81818181818182
+4,1,"He is still of tender age, and cannot always know how to guide himself.",17,3,121,0.09090909090909091,11.0
+4,1,"If thou dost not promise me to teach him everything that he ought to know, and to be his foster-father, I cannot close my eyes in peace.""",32,6,466,0.09090909090909091,42.36363636363637
+4,1,"Then answered Faithful John, ""I will not forsake him, and will serve him with fidelity, even if it should cost me my life.""",29,4,379,0.09090909090909091,34.45454545454545
+4,1,"On this, the old King said, ""Now I die in comfort and peace.""",18,2,87,0.09090909090909091,7.909090909090909
+4,1,"Then he added, ""After my death, thou shalt show him the whole castle: all the chambers, halls, and vaults, and all the treasures which lie therein, but the last chamber in the long gallery, in which is the picture of the princess of the Golden Dwelling, shalt thou not show.",61,6,1714,0.09090909090909091,155.8181818181818
+4,1,"If he sees that picture, he will fall violently in love with her, and will drop down in a swoon, and go through great danger for her sake, therefore thou must preserve him from that.""",41,5,744,0.09090909090909091,67.63636363636364
+4,1,"And when Faithful John had once more given his promise to the old King about this, the King said no more, but laid his head on his pillow, and died.",34,5,445,0.09090909090909091,40.45454545454545
+4,2,"When the old King had been carried to his grave, Faithful John told the young King all that he had promised his father on his deathbed, and said, ""This will I assuredly perform, and will be faithful to thee as I have been faithful to him, even if it should cost me my life.""",62,13,1663,0.08333333333333333,138.58333333333331
+4,2,"When the mourning was over, Faithful John said to him, ""It is now time that thou shouldst see thine inheritance.",24,4,216,0.08333333333333333,18.0
+4,2,"I will show thee thy father's palace.""",10,1,31,0.08333333333333333,2.583333333333333
+4,2,"Then he took him about everywhere, up and down, and let him see all the riches, and the magnificent apartments, only there was one room which he did not open, that in which hung the dangerous picture.",43,7,823,0.08333333333333333,68.58333333333333
+4,2,"The picture was, however, so placed that when the door was opened you looked straight on it, and it was so admirably painted that it seemed to breathe and live, and there was nothing more charming or more beautiful in the whole world.",48,11,1038,0.08333333333333333,86.5
+4,2,"The young King, however, plainly remarked that Faithful John always walked past this one door, and said, ""Why dost thou never open this one for me?""",33,4,353,0.08333333333333333,29.416666666666664
+4,2,"- ""There is something within it,"" he replied, ""which would terrify thee.""",19,3,126,0.08333333333333333,10.5
+4,2,"But the King answered, ""I have seen all the palace, and I will know what is in this room also,"" and he went and tried to break open the door by force.",38,8,601,0.08333333333333333,50.08333333333333
+4,2,"Then Faithful John held him back and said, ""I promised thy father before his death that thou shouldst not see that which is in this chamber, it might bring the greatest misfortune on thee and on me.""",42,6,747,0.08333333333333333,62.25
+4,2,"- ""Ah, no,"" replied the young King, ""if I do not go in, it will be my certain destruction.",27,4,218,0.08333333333333333,18.166666666666664
+4,2,I should have no rest day or night until I had seen it with my own eyes.,18,3,123,0.08333333333333333,10.25
+4,2,"I shall not leave the place now until thou hast unlocked the door.""",15,2,72,0.08333333333333333,6.0
+4,3,"Then Faithful John saw that there was no help for it now, and with a heavy heart and many sighs, sought out the key from the great bunch.",31,3,384,0.08333333333333333,32.0
+4,3,"When he had opened the door, he went in first, and thought by standing before him he could hide the portrait so that the King should not see it in front of him, but what availed that?",41,8,744,0.08333333333333333,62.0
+4,3,The King stood on tip-toe and saw it over his shoulder.,12,2,48,0.08333333333333333,4.0
+4,3,"And when he saw the portrait of the maiden, which was so magnificent and shone with gold and precious stones, he fell fainting to the ground.",29,4,331,0.08333333333333333,27.583333333333332
+4,3,"Faithful John took him up, carried him to his bed, and sorrowfully thought, ""The misfortune has befallen us, Lord God, what will be the end of it?""",35,6,531,0.08333333333333333,44.25
+4,3,"Then he strengthened him with wine, until he came to himself again.",14,2,69,0.08333333333333333,5.75
+4,3,"The first words the King said were, ""Ah, the beautiful portrait!",15,2,60,0.08333333333333333,5.0
+4,3,"whose it it?""",5,1,10,0.08333333333333333,0.8333333333333333
+4,3,"- ""That is the princess of the Golden Dwelling,"" answered Faithful John.",16,2,84,0.08333333333333333,7.0
+4,3,"Then the King continued, ""My love for her is so great, that if all the leaves on all the trees were tongues, they could not declare it.",32,4,412,0.08333333333333333,34.33333333333333
+4,3,I will give my life to win her.,9,2,24,0.08333333333333333,2.0
+4,3,"Thou art my most Faithful John, thou must help me.""",13,2,67,0.08333333333333333,5.583333333333333
+4,4,"The faithful servant considered within himself for a long time how to set about the matter, for it was difficult even to obtain a sight of the King's daughter.",32,4,412,0.16666666666666666,68.66666666666666
+4,4,"At length he thought of a way, and said to the King, ""Everything which she has about her is of gold - tables, chairs, dishes, glasses, bowls, and household furniture.",39,4,636,0.16666666666666666,106.0
+4,4,"Among thy treasures are five tons of gold; let one of the goldsmiths of the Kingdom work these up into all manner of vessels and utensils, into all kinds of birds, wild beasts and strange animals, such as may please her, and we will go there with them and try our luck.""",59,4,1546,0.16666666666666666,257.66666666666663
+4,4,"The King ordered all the goldsmiths to be brought to him, and they had to work night and day until at last the most splendid things were prepared.",30,7,381,0.16666666666666666,63.5
+4,4,"When everything was stowed on board a ship, Faithful John put on the dress of a merchant, and the King was forced to do the same in order to make himself quite unrecognizable.",36,7,564,0.16666666666666666,94.0
+4,4,"Then they sailed across the sea, and sailed on until they came to the town wherein dwelt the princess of the Golden Dwelling.",25,4,256,0.16666666666666666,42.666666666666664
+4,5,"Faithful John bade the King stay behind on the ship, and wait for him.",16,1,94,0.0625,5.875
+4,5,"""Perhaps I shall bring the princess with me,"" said he, ""therefore see that everything is in order; have the golden vessels set out and the whole ship decorated.""",36,7,506,0.0625,31.625
+4,5,"Then he gathered together in his apron all kinds of gold things, went on shore and walked straight to the royal palace.",24,3,234,0.0625,14.625
+4,5,"When he entered the courtyard of the palace, a beautiful girl was standing there by the well with two golden buckets in her hand, drawing water with them.",31,4,409,0.0625,25.5625
+4,5,"And when she was just turning round to carry away the sparkling water she saw the stranger, and asked who he was.",24,6,216,0.0625,13.5
+4,5,"So he answered, ""I am a merchant,"" and opened his apron, and let her look in.",22,4,193,0.0625,12.0625
+4,5,"Then she cried, ""Oh, what beautiful gold things!""",13,1,58,0.0625,3.625
+4,5,and put her pails down and looked at the golden wares one after the other.,16,2,106,0.0625,6.625
+4,5,"Then said the girl, ""The princess must see these, she has such great pleasure in golden things, that she will buy all you have.""",30,5,407,0.0625,25.4375
+4,5,"She took him by the hand and led him upstairs, for she was the waiting-maid.",17,3,121,0.0625,7.5625
+4,5,"When the King's daughter saw the wares, she was quite delighted and said, ""They are so beautifully worked, that I will buy them all of thee.""",33,6,393,0.0625,24.5625
+4,5,"But Faithful John said, ""I am only the servant of a rich merchant.",16,2,84,0.0625,5.25
+4,5,The things I have here are not to be compared with those my master has in his ship.,19,5,126,0.0625,7.875
+4,5,"They are the most beautiful and valuable things that have ever been made in gold.""",17,4,121,0.0625,7.5625
+4,5,"She wanted to have everything brought to her there, but he said, ""There are so many of them that it would take a great many days to do that, and so many rooms would be required to exhibit them, that your house is not big enough.""",53,10,1327,0.0625,82.9375
+4,5,"Then her curiosity and longing were still more excited, until at last she said, ""Conduct me to the ship, I will go there myself, and behold the treasures of thine master.""",38,5,543,0.0625,33.9375
+4,6,"On this Faithful John was quite delighted, and led her to the ship, and when the King saw her, he perceived that her beauty was even greater than the picture had represented it to be, and thought no other than that his heart would burst in twain.",52,10,1138,0.08333333333333333,94.83333333333333
+4,6,"Then she got into the ship, and the King led her within.",14,2,69,0.08333333333333333,5.75
+4,6,"Faithful John, however, remained behind with the pilot, and ordered the ship to be pushed off, saying, ""Set all sail, till it fly like a bird in air.""",37,7,511,0.08333333333333333,42.58333333333333
+4,6,"Within, however, the King showed her the golden vessels, every one of them, also the wild beasts and strange animals.",25,1,192,0.08333333333333333,16.0
+4,6,"Many hours went by whilst she was seeing everything, and in her delight she did not observe that the ship was sailing away.",25,7,256,0.08333333333333333,21.333333333333332
+4,6,"After she had looked at the last, she thanked the merchant and wanted to go home, but when she came to the side of the ship, she saw that it was on the deep sea far from land, and hurrying onwards with all sail set.",50,10,1131,0.08333333333333333,94.25
+4,6,"""Ah,"" cried she in her alarm, ""I am betrayed!",15,3,65,0.08333333333333333,5.416666666666666
+4,6,"I am carried away and have fallen into the power of a merchant - I would die rather!""",20,5,172,0.08333333333333333,14.333333333333332
+4,6,"The King, however, seized her hand, and said, ""I am not a merchant.",19,3,106,0.08333333333333333,8.833333333333332
+4,6,"I am a king, and of no meaner origin than thou art, and if I have carried thee away with subtlety, that has come to pass because of my exceeding great love for thee.",38,7,667,0.08333333333333333,55.58333333333333
+4,6,"The first time that I looked on thy portrait, I fell fainting to the ground.""",18,3,93,0.08333333333333333,7.75
+4,6,"When the princess of the Golden Dwelling heard that, she was comforted, and her heart was inclined unto him, so that she willingly consented to be his wife.",32,6,276,0.08333333333333333,23.0
+4,7,"It so happened, however, while they were sailing onwards over the deep sea, that Faithful John, who was sitting on the fore part of the vessel, making music, saw three ravens in the air, which came flying towards them.",47,9,993,0.045454545454545456,45.13636363636364
+4,7,"On this he stopped playing and listened to what they were saying to each other, for that he well understood.",22,5,177,0.045454545454545456,8.045454545454545
+4,7,"One cried, ""Oh, there he is carrying home the princess of the Golden Dwelling.""",19,3,154,0.045454545454545456,7.0
+4,7,"- ""Yes,"" replied the second, ""but he has not got her yet.""",19,3,106,0.045454545454545456,4.818181818181818
+4,7,"Said the third, ""But he has got her, she is sitting beside him in the ship.""",21,5,210,0.045454545454545456,9.545454545454545
+4,7,"Then the first began again, and cried, ""What good will that do him?",17,3,97,0.045454545454545456,4.409090909090909
+4,7,"When they reach land a chestnut horse will leap forward to meet him, and the prince will want to mount it, but if he does that, it will run away with him, and rise up into the air with him, and he will never see his maiden more.""",55,10,1381,0.045454545454545456,62.77272727272727
+4,7,"Spake the second, ""But is there no escape?""",12,2,66,0.045454545454545456,3.0
+4,7,"- ""Oh, yes, if any one else gets on it swiftly, and takes out the pistol which must be in its holster, and shoots the horse dead with it, the young King is saved.",41,6,520,0.045454545454545456,23.636363636363637
+4,7,But who knows that?,5,1,6,0.045454545454545456,0.2727272727272727
+4,7,"And whosoever does know it, and tells it to him, will be turned to stone from the toe to the knee.""",25,6,256,0.045454545454545456,11.636363636363637
+4,7,"Then said the second, ""I know more than that; even if the horse be killed, the young King will still not keep his bride.",29,5,379,0.045454545454545456,17.227272727272727
+4,7,"When they go into the castle together, a wrought bridal garment will be lying there in a dish, and looking as if it were woven of gold and silver; it is, however, nothing but sulphur and pitch, and if he put it on, it will burn him to the very bone and marrow.""",62,9,1773,0.045454545454545456,80.5909090909091
+4,7,"Said the third, ""Is there no escape at all?""",13,2,78,0.045454545454545456,3.5454545454545454
+4,7,"- ""Oh, yes,"" replied the second, ""if any one with gloves on seizes the garment and throws it into the fire and burns it, the young King will be saved.",38,4,493,0.045454545454545456,22.40909090909091
+4,7,"""But what avails that?""",7,1,12,0.045454545454545456,0.5454545454545454
+4,7,"Whosoever knows it and tells it to him, half his body will become stone from the knee to the heart.""",23,3,232,0.045454545454545456,10.545454545454545
+4,7,"Then said the third, ""I know still more; even if the bridal garment be burnt, the young King will still not have his bride.",29,5,379,0.045454545454545456,17.227272727272727
+4,7,"After the wedding, when the dancing begins and the young queen is dancing, she will suddenly turn pale and fall down as if dead, and if some one does not lift her up and draw three drops of blood from her right breast and spit them out again, she will die.",56,10,1204,0.045454545454545456,54.72727272727273
+4,7,"But if any one who knows that were to declare it, he would become stone from the crown of his head to the sole of his foot.""",30,4,315,0.045454545454545456,14.318181818181818
+4,7,"When the ravens had spoken of this together, they flew onwards, and Faithful John had well understood everything, but from that time forth he became quiet and sad, for if he concealed what he had heard from his master, the latter would be unfortunate, and if he discovered it to him, he himself must sacrifice his life.",65,12,1897,0.045454545454545456,86.22727272727273
+4,7,"At length, however, he said to himself, ""I will save my master, even if it bring destruction on myself.""",26,3,211,0.045454545454545456,9.590909090909092
+4,8,"When therefore they came to shore, all happened as had been foretold by the ravens, and a magnificent chestnut horse sprang forward.",25,6,237,0.058823529411764705,13.941176470588236
+4,8,"""Good,"" said the King, ""he shall carry me to my palace,"" and was about to mount it when Faithful John got before him, jumped quickly on it, drew the pistol out of the holster, and shot the horse.",49,8,1000,0.058823529411764705,58.8235294117647
+4,8,"Then the other attendants of the King, who after all were not very fond of Faithful John, cried, ""How shameful to kill the beautiful animal, that was to have carried the King to his palace.""",42,6,531,0.058823529411764705,31.235294117647058
+4,8,"But the King said, ""Hold your peace and leave him alone, he is my most faithful John, who knows what may be the good of that!""",32,6,412,0.058823529411764705,24.235294117647058
+4,8,"They went into the palace, and in the hall there stood a dish, and therein lay the bridal garment looking no otherwise than as if it were made of gold and silver.",35,6,562,0.058823529411764705,33.05882352941176
+4,8,"The young King went towards it and was about to take hold of it, but Faithful John pushed him away, seized it with gloves on, carried it quickly to the fire and burnt it.",38,7,601,0.058823529411764705,35.35294117647059
+4,8,"The other attendants again began to murmur, and said, ""Behold, now he is even burning the King's bridal garment!""",26,5,241,0.058823529411764705,14.176470588235293
+4,8,"But the young King said, ""Who knows what good he may have done, leave him alone, he is my most faithful John.""",28,7,286,0.058823529411764705,16.823529411764707
+4,8,"And now the wedding was solemnized: the dance began, and the bride also took part in it; then Faithful John was watchful and looked into her face, and suddenly she turned pale and fell to the ground, as if she were dead.",48,9,956,0.058823529411764705,56.23529411764706
+4,8,"On this he ran hastily to her, lifted her up and bore her into a chamber - then he laid her down, and knelt and sucked the three drops of blood from her right breast, and spat them out.",43,6,786,0.058823529411764705,46.23529411764706
+4,8,"Immediately she breathed again and recovered herself, but the young King had seen this, and being ignorant why Faithful John had done it, was angry and cried, ""Throw him into a dungeon.""",39,10,669,0.058823529411764705,39.35294117647059
+4,8,"Next morning Faithful John was condemned, and led to the gallows, and when he stood on high, and was about to be executed, he said, ""Every one who has to die is permitted before his end to make one last speech; may I too claim the right?""",56,14,1336,0.058823529411764705,78.58823529411765
+4,8,"- ""Yes,"" answered the King, ""it shall be granted unto thee.""",18,3,93,0.058823529411764705,5.470588235294118
+4,8,"Then said Faithful John, ""I am unjustly condemned, and have always been true to thee,"" and he related how he had hearkened to the conversation of the ravens when on the sea, and how he had been obliged to do all these things in order to save his master.",56,14,1486,0.058823529411764705,87.41176470588235
+4,8,"Then cried the King, ""Oh, my most Faithful John.",13,1,67,0.058823529411764705,3.941176470588235
+4,8,"Pardon, pardon - bring him down.""",9,1,36,0.058823529411764705,2.1176470588235294
+4,8,But as Faithful John spoke the last word he had fallen down lifeless and become a stone.,18,4,101,0.058823529411764705,5.9411764705882355
+4,9,"Thereupon the King and the Queen suffered great anguish, and the King said, ""Ah, how ill I have requited great fidelity!""",27,4,231,0.05555555555555555,12.833333333333332
+4,9,and ordered the stone figure to be taken up and placed in his bedroom beside his bed.,18,4,137,0.05555555555555555,7.611111111111111
+4,9,"And as often as he looked on it he wept and said, ""Ah, if I could bring thee to life again, my most faithful John.""",31,4,340,0.05555555555555555,18.88888888888889
+4,9,"Some time passed and the Queen bore twins, two sons who grew fast and were her delight.",19,3,139,0.05555555555555555,7.722222222222221
+4,9,"Once when the Queen was at church and the two children were sitting playing beside their father, the latter full of grief again looked at the stone figure, sighed and said, ""Ah, if I could but bring thee to life again, my most faithful John.""",53,8,1186,0.05555555555555555,65.88888888888889
+4,9,"Then the stone began to speak and said, ""Thou canst bring me to life again if thou wilt use for that purpose what is dearest to thee.""",31,6,384,0.05555555555555555,21.333333333333332
+4,9,"Then cried the King, ""I will give everything I have in the world for thee.""",19,3,154,0.05555555555555555,8.555555555555555
+4,9,"The stone continued, ""If thou wilt will cut off the heads of thy two children with thine own hand, and sprinkle me with their blood, I shall be restored to life.""",37,5,598,0.05555555555555555,33.22222222222222
+4,9,"The King was terrified when he heard that he himself must kill his dearest children, but he thought of faithful John's great fidelity, and how he had died for him, drew his sword, and with his own hand cut off the children's heads.",50,9,1131,0.05555555555555555,62.83333333333333
+4,9,"And when he had smeared the stone with their blood, life returned to it, and Faithful John stood once more safe and healthy before him.",28,4,306,0.05555555555555555,17.0
+4,9,"He said to the King, ""Thy truth shall not go unrewarded,"" and took the heads of the children, put them on again, and rubbed the wounds with their blood, on which they became whole again immediately, and jumped about, and went on playing as if nothing had happened.",58,10,1597,0.05555555555555555,88.72222222222221
+4,9,"Then the King was full of joy, and when he saw the Queen coming he hid Faithful John and the two children in a great cupboard.",28,4,306,0.05555555555555555,17.0
+4,9,"When she entered, he said to her, ""Hast thou been praying in the church?""",19,4,139,0.05555555555555555,7.722222222222221
+4,9,"- ""Yes,"" answered she, ""but I have constantly been thinking of Faithful John and what misfortune has befallen him through us.""",28,6,268,0.05555555555555555,14.888888888888888
+4,9,"Then said he, ""Dear wife, we can give him his life again, but it will cost us our two little sons, whom we must sacrifice.""",32,4,466,0.05555555555555555,25.888888888888886
+4,9,"The Queen turned pale, and her heart was full of terror, but she said, ""We owe it to him, for his great fidelity.""",30,4,381,0.05555555555555555,21.166666666666664
+4,9,"Then the King was rejoiced that she thought as he had thought, and went and opened the cupboard, and brought forth Faithful John and the children, and said, ""God be praised, he is delivered, and we have our little sons again also,"" and told her how everything had occurred.",59,17,1546,0.05555555555555555,85.88888888888889
+4,9,Then they dwelt together in much happiness until their death.,11,1,39,0.05555555555555555,2.1666666666666665
+5,1,"The cock once said to the hen, ""It is now the time when our nuts are ripe, so let us go to the hill together and for once eat our fill before the squirrel takes them all away.""",43,6,786,0.125,98.25
+5,1,"- ""Yes,"" replied the hen, ""come, we will have some pleasure together.""",20,3,120,0.125,15.0
+5,1,"Then they went away to the hill, and on it was a bright day they stayed till evening.",20,3,156,0.125,19.5
+5,1,"Now I do not know whether it was that they had eaten till they were too fat, or whether they had become proud, but they would not go home on foot, and the cock had to build a little carriage of nut-shells.",46,11,949,0.125,118.625
+5,1,"When it was ready, the little hen seated herself in it and said to the cock, ""Thou canst just harness thyself to it.""",28,4,328,0.125,41.0
+5,1,"- ""I like that!""",7,1,12,0.125,1.5
+5,1,"said the cock, ""I would rather go home on foot than let myself be harnessed to it; no, that is not our bargain.",28,6,378,0.125,47.25
+5,1,"I do not mind being coachman and sitting on the box, but drag it myself I will not.""",21,5,191,0.125,23.875
+5,2,"As they were thus disputing, a duck quacked to them, ""You thieving folks, who bade you go to my nut-hill?",25,6,256,0.045454545454545456,11.636363636363637
+5,2,"Well, you shall suffer for it!""",9,1,20,0.045454545454545456,0.9090909090909092
+5,2,and ran with open beak at the cock.,9,1,36,0.045454545454545456,1.6363636363636365
+5,2,"But the cock also was not idle, and fell boldly on the duck, and at last wounded her so with his spurs that she also begged for mercy, and willingly let herself be harnessed to the carriage as a punishment.",44,7,790,0.045454545454545456,35.909090909090914
+5,2,"The little cock now seated himself on the box and was coachman, and thereupon they went off in a gallop, with ""Duck, go as fast as thou canst.""",34,4,445,0.045454545454545456,20.227272727272727
+5,2,"When they had driven a part of the way they met two foot-passengers, a pin and a needle.",20,3,156,0.045454545454545456,7.090909090909091
+5,2,"They cried, ""Stop!",6,2,11,0.045454545454545456,0.5
+5,2,"stop!""",3,1,3,0.045454545454545456,0.13636363636363635
+5,2,"and said that it would soon be as dark as pitch, and then they could not go a step further, and that it was so dirty on the road, and asked if they could not get into the carriage for a while.",46,6,991,0.045454545454545456,45.04545454545455
+5,2,"They had been at the tailor's public- house by the gate, and had stayed too long over the beer.",22,4,211,0.045454545454545456,9.590909090909092
+5,2,"As they were thin people, who did not take up much room, the cock let them both get in, but they had to promise him and his little hen not to step on their feet.",39,8,669,0.045454545454545456,30.40909090909091
+5,2,"Late in the evening they came to an inn, and as they did not like to go further by night, and as the duck also was not strong on her feet, and fell from one side to the other, they went in.",47,6,876,0.045454545454545456,39.81818181818182
+5,2,"The host at first made many objections, his house was already full, besides he thought they could not be very distinguished persons; but at last, as they made pleasant speeches, and told him that he should have the egg which the little hen has laid on the way, and should likewise keep the duck, which laid one every day, he at length said that they might stay the night.",78,14,2711,0.045454545454545456,123.22727272727273
+5,2,"And now they had themselves well served, and feasted and rioted.",13,4,51,0.045454545454545456,2.3181818181818183
+5,2,"Early in the morning, when day was breaking, and every one was asleep, the cock awoke the hen, brought the egg, pecked it open, and they ate it together, but they threw the shell on the hearth.",45,8,731,0.045454545454545456,33.22727272727273
+5,2,"Then they went to the needle which was still asleep, took it by the head and stuck it into the cushion of the landlord's chair, and put the pin in his towel, and at the last without more ado they flew away over the heath.",50,6,1131,0.045454545454545456,51.409090909090914
+5,2,"The duck who liked to sleep in the open air and had stayed in the yard, heard them going away, made herself merry and found a stream, down which she swam, which was a much quicker way of travelling than being harnessed to a carriage.",50,13,1087,0.045454545454545456,49.409090909090914
+5,2,"The host did not get out of bed for two hours after this; he washed himself and wanted to dry himself, then the pin went over his face and made a red streak from one ear to the other.",42,7,783,0.045454545454545456,35.59090909090909
+5,2,"After this he went into the kitchen and wanted to light a pipe, but when he came to the hearth the egg-shell darted into his eyes.",28,5,306,0.045454545454545456,13.90909090909091
+5,2,"""This morning everything attacks my head, "" said he, and angrily sat down on his grandfather's chair, but he quickly started up again and cried, ""Woe is me, "" for the needle had pricked him still worse than the pin, and not in the head.",55,7,1080,0.045454545454545456,49.09090909090909
+5,2,"Now he was thoroughly angry, and suspected the guests who had come so late the night before, and when he went and looked about for them, they were gone.",33,8,468,0.045454545454545456,21.272727272727273
+5,2,"Then he made a vow to take no more ragamuffins into his house, for they consume much, pay for nothing, and play mischievous tricks into the bargain by way of gratitude.",35,5,531,0.045454545454545456,24.136363636363637
+6,1,"There was once a wonderful musician, who went quite alone through a forest and thought of all manner of things, and when nothing was left for him to think about, he said to himself, ""Time is beginning to pass heavily with me here in the forest, I will fetch hither a good companion for myself.""",63,10,1892,0.07692307692307693,145.53846153846155
+6,1,"Then he took his fiddle from his back, and played so that it echoed through the trees.",19,3,139,0.07692307692307693,10.692307692307693
+6,1,It was not long before a wolf came trotting through the thicket towards him.,15,4,92,0.07692307692307693,7.0769230769230775
+6,1,"""Ah, here is a wolf coming!",9,2,20,0.07692307692307693,1.5384615384615385
+6,1,"I have no desire for him!""",8,1,22,0.07692307692307693,1.6923076923076925
+6,1,"said the musician; but the wolf came nearer and said to him, ""Ah, dear musician, how beautifully thou dost play.",26,4,325,0.07692307692307693,25.0
+6,1,"I should like to learn that, too.""",10,2,31,0.07692307692307693,2.3846153846153846
+6,1,"- ""It is soon learnt,"" the musician replied, ""thou hast only to do all that I bid thee.""",25,4,237,0.07692307692307693,18.230769230769234
+6,1,"- ""Oh, musician,"" said the wolf, ""I will obey thee as a scholar obeys his master.""",24,2,164,0.07692307692307693,12.615384615384617
+6,1,"The musician bade him follow, and when they had gone part of the way together, they came to an old oak-tree which was hollow inside, and cleft in the middle.",34,5,445,0.07692307692307693,34.23076923076923
+6,1,"""Look,"" said the musician, ""if thou wilt learn to fiddle, put thy fore paws into this crevice.""",25,4,277,0.07692307692307693,21.30769230769231
+6,1,"The wolf obeyed, but the musician quickly picked up a stone and with one blow wedged his two paws so fast that he was forced to stay there like a prisoner.",33,6,468,0.07692307692307693,36.0
+6,1,"""Stay there until I come back again,"" said the musician, and went his way.",19,4,154,0.07692307692307693,11.846153846153847
+6,2,"After a while he again said to himself, ""Time is beginning to pass heavily with me here in the forest, I will fetch hither another companion,"" and took his fiddle and again played in the forest.",42,7,681,0.0625,42.5625
+6,2,It was not long before a fox came creeping through the trees towards him.,15,4,92,0.0625,5.75
+6,2,"""Ah, there's a fox coming!""",10,2,25,0.0625,1.5625
+6,2,said the musician.,4,1,6,0.0625,0.375
+6,2,"""I have no desire for him.""",9,1,24,0.0625,1.5
+6,2,"The fox came up to him and said, ""Oh, dear musician, how beautifully thou dost play!",21,3,174,0.0625,10.875
+6,2,"I should like to learn that too.""",9,2,24,0.0625,1.5
+6,2,"- ""That is soon learnt,"" said the musician.",12,2,42,0.0625,2.625
+6,2,"""Thou hast only to do everything that I bid thee.""",13,2,43,0.0625,2.6875
+6,2,"- ""Oh, musician,"" then said the fox, ""I will obey thee as a scholar obeys his master.""",25,2,172,0.0625,10.75
+6,2,"- ""Follow me,"" said the musician; and when they had walked a part of the way, they came to a footpath, with high bushes on both sides of it.",36,4,456,0.0625,28.5
+6,2,"There the musician stood still, and from one side bent a young hazel-bush down to the ground, and put his foot on the top of it, then he bent down a young tree from the other side as well, and said, ""Now little fox, if thou wilt learn something, give me thy left front paw.""",65,6,1897,0.0625,118.5625
+6,2,"The fox obeyed, and the musician fastened his paw to the left bough.",15,3,81,0.0625,5.0625
+6,2,"""Little fox,"" said he, ""now reach me thy right paw"" and he tied it to the right bough.",25,3,205,0.0625,12.8125
+6,2,"When he had examined whether they were firm enough, he let go, and the bushes sprang up again, and jerked up the little fox, so that it hung struggling in the air.",37,9,598,0.0625,37.375
+6,2,"""Wait there till I come back again,"" said the musician, and went his way.",19,4,126,0.0625,7.875
+6,3,"Again he said to himself, ""Time is beginning to pass heavily with me here in the forest, I will fetch hither another companion,"" so he took his fiddle, and the sound echoed through the forest.",42,7,783,0.09090909090909091,71.18181818181819
+6,3,Then a little hare came springing towards him.,9,2,20,0.09090909090909091,1.8181818181818183
+6,3,"""Why, a hare is coming,"" said the musician, ""I do not want him.""",21,5,135,0.09090909090909091,12.272727272727273
+6,3,"- ""Ah, dear musician,"" said the hare, ""how beautifully thou dost fiddle; I too, should like to learn that.""",29,4,246,0.09090909090909091,22.363636363636363
+6,3,"- ""That is soon learnt,"" said the musician, ""thou hast only to do everything that I bid thee.""",25,4,237,0.09090909090909091,21.545454545454547
+6,3,"- ""Oh, musician,"" replied the little hare, ""I will obey thee as a scholar obeys his master.""",25,2,181,0.09090909090909091,16.454545454545453
+6,3,"They went a part of the way together until they came to an open space in the forest, where stood an aspen tree.",25,3,277,0.09090909090909091,25.181818181818183
+6,3,"The musician tied a long string round the little hare's neck, the other end of which he fastened to the tree.",24,3,234,0.09090909090909091,21.272727272727273
+6,3,"""Now briskly, little hare, run twenty times round the tree!""",15,2,56,0.09090909090909091,5.090909090909091
+6,3,"cried the musician, and the little hare obeyed, and when it had run round twenty times, it had twisted the string twenty times round the trunk of the tree, and the little hare was caught, and let it pull and tug as it liked, it only made the string cut into its tender neck.",61,14,1830,0.09090909090909091,166.36363636363637
+6,3,"""Wait there till I come back,"" said the musician, and went onwards.",17,4,97,0.09090909090909091,8.818181818181818
+6,4,"The wolf, in the meantime, had pushed and pulled and bitten at the stone, and had worked so long that he had set his feet at liberty and had drawn them once more out of the cleft.",41,10,589,0.2,117.80000000000001
+6,4,Full of anger and rage he hurried after the musician and wanted to tear him to pieces.,18,3,87,0.2,17.400000000000002
+6,4,"When the fox saw him running, he began to lament, and cried with all his might, ""Brother wolf, come to my help, the musician has betrayed me!""",35,8,502,0.2,100.4
+6,4,"The wolf drew down the little tree, bit the cord in two, and freed the fox, who went with him to take revenge on the musician.",30,5,381,0.2,76.2
+6,4,"They found the tied-up hare, whom likewise they delivered, and then they all sought the enemy together.",20,4,172,0.2,34.4
+6,5,"The musician had once more played his fiddle as he went on his way, and this time he had been more fortunate.",24,5,234,0.125,29.25
+6,5,"The sound reached the ears of a poor wood-cutter, who instantly, whether he would or no, gave up his work and came with his hatchet under his arm to listen to the music.",37,4,598,0.125,74.75
+6,5,"""At last comes the right companion,"" said the musician, ""for I was seeking a human being, and no wild beast.""",28,5,306,0.125,38.25
+6,5,"And he began and played so beautifully and delightfully that the poor man stood there as if bewitched, and his heart leaped with gladness.",26,5,279,0.125,34.875
+6,5,"And as he thus stood, the wolf, the fox, and the hare came up, and he saw well that they had some evil design.",29,4,310,0.125,38.75
+6,5,"So he raised his glittering axe and placed himself before the musician, as if to say, ""Whoso wishes to touch him let him beware, for he will have to do with me!""",38,9,633,0.125,79.125
+6,5,Then the beasts were terrified and ran back into the forest.,12,3,42,0.125,5.25
+6,5,"The musician, however, played once more to the man out of gratitude, and then went onwards.",20,2,120,0.125,15.0
+7,1,"A cat had made the acquaintance of a mouse, and had said so much to her about the great love and friendship that he felt for her, that at last the mouse agreed that they should live and keep house together.",44,8,864,0.03333333333333333,28.8
+7,1,"""But we must make preparations for winter, or else we shall suffer from hunger,"" said the cat, ""and you, little mouse, cannot venture out everywhere, or in the end you will be caught in a trap.""",48,5,956,0.03333333333333333,31.866666666666667
+7,1,"This good advice was followed, and they bought a pot of fat, but they did not know where to store it.",24,6,216,0.03333333333333333,7.2
+7,1,"Finally, after much consideration, the cat said, ""I know of no place where it will be better stored up than in the church.",28,4,226,0.03333333333333333,7.533333333333333
+7,1,No one dares take anything away from there.,9,2,24,0.03333333333333333,0.8
+7,1,"We will put it beneath the altar, and not touch it until we are need it.""",19,3,139,0.03333333333333333,4.633333333333333
+7,1,"So the pot was stored safely away, but it was not long before the cat took a great longing for it, and said to the mouse, ""I wanted to tell you, little mouse, that my cousin has brought a little son into the world, and she has asked me to be his godfather.",61,12,1659,0.03333333333333333,55.3
+7,1,"He is white with brown spots, and I am to hold him over the baptismal font.",18,3,137,0.03333333333333333,4.566666666666666
+7,1,"Let me go out today, and you look after the house by yourself.""",16,3,120,0.03333333333333333,4.0
+7,1,"- ""Yes, yes,"" answered the mouse.",11,1,34,0.03333333333333333,1.1333333333333333
+7,1,"""By all means go, and if you get anything good to eat, think of me.",19,3,115,0.03333333333333333,3.8333333333333335
+7,1,"I would like to drink a drop of sweet red christening wine myself.""",15,2,81,0.03333333333333333,2.7
+7,1,"All this, however, was untrue.",8,1,18,0.03333333333333333,0.6
+7,1,"The cat had no cousin, and had not been asked to be godfather.",15,5,81,0.03333333333333333,2.7
+7,1,"He went straight to the church, crept up to the pot of fat, began to lick at it, and licked off the top of the fat.",30,5,407,0.03333333333333333,13.566666666666666
+7,1,"Then he went for a stroll on the roofs of the town, looked out for opportunities, and then stretched out in the sun, licking his whiskers whenever he thought of the pot of fat.",38,5,633,0.03333333333333333,21.1
+7,1,He did not return home until it was evening.,10,4,37,0.03333333333333333,1.2333333333333334
+7,1,"""Well, here you are again,"" said the mouse.",13,2,43,0.03333333333333333,1.4333333333333333
+7,1,"""You must have had a happy day.""",10,2,27,0.03333333333333333,0.9
+7,1,"- ""Everything went well,"" answered the cat.",11,2,34,0.03333333333333333,1.1333333333333333
+7,1,"""What name did they give the child?""",10,2,27,0.03333333333333333,0.9
+7,1,asked the mouse.,4,1,6,0.03333333333333333,0.2
+7,1,"""Top-Off,"" said the cat quite coolly.",10,1,25,0.03333333333333333,0.8333333333333334
+7,1,"""Top-Off?""",4,1,6,0.03333333333333333,0.2
+7,1,cried the mouse.,4,1,6,0.03333333333333333,0.2
+7,1,"""That is a very odd and uncommon name.",10,1,31,0.03333333333333333,1.0333333333333332
+7,1,"Is it a usual one in your family?""",10,1,45,0.03333333333333333,1.5
+7,1,"- ""What does that matter?""",8,1,16,0.03333333333333333,0.5333333333333333
+7,1,said the cat.,4,1,6,0.03333333333333333,0.2
+7,1,"""It is no worse than Crumb-Thief, as your godchildren are called.""",15,3,81,0.03333333333333333,2.7
+7,2,Before long the cat was seized by another fit of longing.,12,2,38,0.08333333333333333,3.1666666666666665
+7,2,"He said to the mouse, ""You must do me a favor, and once more manage the house alone for a day.",25,2,277,0.08333333333333333,23.083333333333332
+7,2,"I have been asked again to be godfather, and since the child has a white ring around its neck, I cannot refuse.""",27,6,326,0.08333333333333333,27.166666666666664
+7,2,The good mouse consented.,5,1,7,0.08333333333333333,0.5833333333333333
+7,2,"However, the cat crept behind the town wall to the church, and devoured half the pot of fat.",21,1,126,0.08333333333333333,10.5
+7,2,"""Nothing tastes as good as that which one eats by oneself,"" he said, and was quite satisfied with his day's work.",27,2,186,0.08333333333333333,15.5
+7,2,"When he arrived home the mouse asked, ""What name was this child christened with?""",18,4,123,0.08333333333333333,10.25
+7,2,"- ""Half-Gone,"" answered the cat.",9,1,21,0.08333333333333333,1.75
+7,2,"""Half-Gone?",3,1,3,0.08333333333333333,0.25
+7,2,What are you saying?,5,2,7,0.08333333333333333,0.5833333333333333
+7,2,I have never heard that name in all my life.,11,2,46,0.08333333333333333,3.833333333333333
+7,2,"I'll wager it is not in the almanac.""",11,2,39,0.08333333333333333,3.25
+7,3,The cat's mouth soon again began to water for the delicious goods.,14,1,49,0.041666666666666664,2.0416666666666665
+7,3,"""All good things come in threes,"" he said to the mouse.",15,2,65,0.041666666666666664,2.708333333333333
+7,3,"""I have been asked to be godfather again.",10,4,31,0.041666666666666664,1.2916666666666665
+7,3,"The child is totally black, only it has white paws.",12,2,48,0.041666666666666664,2.0
+7,3,Otherwise it has not a single white hair on its whole body.,13,1,58,0.041666666666666664,2.4166666666666665
+7,3,This only happens once every few years.,8,1,18,0.041666666666666664,0.75
+7,3,"You will let me go, won't you?""",11,2,39,0.041666666666666664,1.625
+7,3,"- ""Top-Off.",4,1,6,0.041666666666666664,0.25
+7,3,"Half-Gone,"" answered the mouse.",7,1,12,0.041666666666666664,0.5
+7,3,"""They are such odd names, that they make me stop and think.""",16,4,94,0.041666666666666664,3.9166666666666665
+7,3,"- ""Here you sit at home,"" said the cat, ""with your dark gray fur coat and long braid of hair capturing fantasies.",28,3,286,0.041666666666666664,11.916666666666666
+7,3,"That is because you do not go out in the daytime.""",13,3,67,0.041666666666666664,2.7916666666666665
+7,3,"During the cat's absence the mouse cleaned the house, and put it in order, but the greedy cat devoured all the rest of the fat.",29,3,259,0.041666666666666664,10.791666666666666
+7,3,"""One has peace only after everything is eaten up,"" he said to himself.",17,4,108,0.041666666666666664,4.5
+7,3,"Well filled and fat, he did not return home until nighttime.",13,3,67,0.041666666666666664,2.7916666666666665
+7,3,The mouse immediately asked what name had been given to the third child.,14,4,61,0.041666666666666664,2.5416666666666665
+7,3,"""You will not like it either,"" said the cat.",13,2,46,0.041666666666666664,1.9166666666666665
+7,3,"""His name is All-Gone.""",7,1,12,0.041666666666666664,0.5
+7,3,"- ""All-Gone!,"" cried the mouse.",10,1,27,0.041666666666666664,1.125
+7,3,"""That is the most worrisome name of all.",10,1,31,0.041666666666666664,1.2916666666666665
+7,3,I have never seen it in print.,8,2,22,0.041666666666666664,0.9166666666666666
+7,3,All-Gone!,2,1,1,0.041666666666666664,0.041666666666666664
+7,3,"What can that mean?""",6,1,9,0.041666666666666664,0.375
+7,3,"Then she shook her head, curled herself up, and lay down to sleep.",16,4,94,0.041666666666666664,3.9166666666666665
+7,4,"From this time forth no one invited the cat to be godfather, but when winter had come and there was no longer anything to be found outside, the mouse thought of their stored food, and said, ""Come cat, we will go to our pot of fat which we have stored up for ourselves.",60,13,1602,0.06666666666666667,106.8
+7,4,"It will taste good now.""",7,1,13,0.06666666666666667,0.8666666666666667
+7,4,"- ""Yes,"" answered the cat.",9,1,21,0.06666666666666667,1.4
+7,4,"""You will enjoy it as much as you would enjoy sticking that dainty tongue of yours out of the window.""",23,3,196,0.06666666666666667,13.066666666666666
+7,4,"They set out on their way, but when they arrived, the pot of fat, to be sure, was still in its place, but it was empty.",32,5,466,0.06666666666666667,31.066666666666666
+7,4,"""Alas,"" said the mouse, ""now I see what has happened.",16,4,76,0.06666666666666667,5.066666666666666
+7,4,Now it comes to light.,6,1,9,0.06666666666666667,0.6
+7,4,You are a true friend.,6,1,11,0.06666666666666667,0.7333333333333333
+7,4,You ate everything when you were serving as a godfather.,11,3,46,0.06666666666666667,3.0666666666666664
+7,4,"First top off, then half done, then..."" - ""Be quiet!""",17,3,121,0.06666666666666667,8.066666666666666
+7,4,cried the cat.,4,1,6,0.06666666666666667,0.4
+7,4,"""One more word, and I will eat you too.""",13,1,46,0.06666666666666667,3.0666666666666664
+7,4,"""All gone,"" was already on the poor mouse's lips.",14,2,69,0.06666666666666667,4.6
+7,4,"She had scarcely spoken it before the cat sprang on her, seized her, and swallowed her down.",20,4,172,0.06666666666666667,11.466666666666667
+7,4,"You see, that is the way of the world.",11,2,46,0.06666666666666667,3.0666666666666664
+8,1,"There was once a man, whose wife was dead, and a woman, whose husband was dead; and the man had a daughter, and so had the woman.",33,5,497,0.25,124.25
+8,1,"The girls were acquainted with each other, and used to play together sometimes in the woman's house.",20,4,156,0.25,39.0
+8,1,"So the woman said to the man's daughter, ""Listen to me, tell your father that I will marry him, and then you shall have milk to wash in every morning and wine to drink, and my daughter shall have water to wash in and water to drink.""",55,10,1332,0.25,333.0
+8,1,The girl went home and told her father what the woman had said.,14,4,69,0.25,17.25
+8,2,"The man said, ""What shall I do!",10,2,31,0.25,7.75
+8,2,"Marriage is a joy, and also a torment.""",11,1,46,0.25,11.5
+8,2,"At last, as he could come to no conclusion, he took off his boot, and said to his daughter, ""Take this boot, it has a hole in the sole; go up with it into the loft, hang it on the big nail and pour water in it.",56,7,1246,0.25,311.5
+8,2,"If it holds water, I will once more take to me a wife; if it lets out the water, so will I not.""",28,2,328,0.25,82.0
+8,3,"The girl did as she was told, but the water held the hole together, and the boot was full up to the top.",26,5,279,0.3333333333333333,93.0
+8,3,So she went and told her father how it was.,11,3,39,0.3333333333333333,13.0
+8,3,"And he went up to see with his own eyes, and as there was no mistake about it, he went to the widow and courted her, and then they had the wedding.",36,6,564,0.3333333333333333,188.0
+8,4,"The next morning, when the two girls awoke, there stood by the bedside of the man's daughter milk to wash in and wine to drink, and by the bedside of the woman's daughter there stood water to wash in and water to drink.",49,7,769,0.2,153.8
+8,4,On the second morning there stood water to wash in and water to drink for both of them alike.,20,3,120,0.2,24.0
+8,4,"On the third morning there stood water to wash in and water to drink for the man's daughter, and milk to wash in and wine to drink for the woman's daughter; and so it remained ever after.",42,7,681,0.2,136.20000000000002
+8,4,"The woman hated her stepdaughter, and never knew how to treat her badly enough from one day to another.",21,3,174,0.2,34.800000000000004
+8,4,"And she was jealous because her stepdaughter was pleasant and pretty, and her real daughter was ugly and hateful.",21,3,174,0.2,34.800000000000004
+8,5,"Once in winter, when it was freezing hard, and snow lay deep on hill and valley, the woman made a frock out of paper, called her stepdaughter, and said, ""Here, put on this frock, go out into the wood and fetch me a basket of strawberries; I have a great wish for some.""",65,9,1732,0.14285714285714285,247.42857142857142
+8,5,"""Oh dear,"" said the girl, ""there are no strawberries to be found in winter; the ground is frozen, and the snow covers everything.",31,5,340,0.14285714285714285,48.57142857142857
+8,5,And why should I go in the paper frock?,10,1,25,0.14285714285714285,3.571428571428571
+8,5,"it is so cold out of doors that one's breath is frozen; the wind will blow through it, and the thorns will tear it off my back!""",32,4,466,0.14285714285714285,66.57142857142857
+8,5,"""How dare you contradict me!""",8,1,16,0.14285714285714285,2.2857142857142856
+8,5,"cried the stepmother, ""be off, and don't let me see you again till you bring me a basket of strawberries.""",26,7,325,0.14285714285714285,46.42857142857142
+8,5,"Then she gave her a little piece of hard bread, and said, ""That will do for you to eat during the day,"" and she thought to herself, ""She is sure to be frozen or starved to death out of doors, and I shall never set eyes on her again.""",59,10,1599,0.14285714285714285,228.42857142857142
+8,6,"So the girl went obediently, put on the paper frock, and started out with the basket.",19,3,126,0.07142857142857142,9.0
+8,6,"The snow was lying everywhere, far and wide, and there was not a blade of green to be seen.",22,5,193,0.07142857142857142,13.785714285714285
+8,6,When she entered the wood she saw a little house with three little men peeping out of it.,19,3,139,0.07142857142857142,9.928571428571429
+8,6,"She wished them good day, and knocked modestly at the door.",13,2,67,0.07142857142857142,4.785714285714286
+8,6,"They called her in, and she came into the room and sat down by the side of the oven to warm herself and eat her breakfast.",28,5,352,0.07142857142857142,25.142857142857142
+8,6,"The little men said, ""Give us some of it.""",13,2,51,0.07142857142857142,3.642857142857143
+8,6,"""Willingly,"" answered she, breaking her little piece of bread in two, and giving them half.",21,3,146,0.07142857142857142,10.428571428571429
+8,6,"They then said, ""What are you doing here in the wood this winter time in your little thin frock?""",23,3,213,0.07142857142857142,15.214285714285714
+8,6,"""Oh,"" answered she, ""I have to get a basket of strawberries, and I must not go home without them.""",27,4,263,0.07142857142857142,18.785714285714285
+8,6,"When she had eaten her bread they gave her a broom, and told her to go and sweep the snow away from the back door.",27,6,303,0.07142857142857142,21.642857142857142
+8,6,"When she had gone outside to do it the little men talked among themselves about what they should do for her, as she was so good and pretty, and had shared her bread with them.",38,8,633,0.07142857142857142,45.214285714285715
+8,6,"Then the first one said, ""She shall grow prettier every day.""",15,2,65,0.07142857142857142,4.642857142857142
+8,6,"The second said, ""Each time she speaks a piece of gold shall fall from her mouth.""",20,3,156,0.07142857142857142,11.142857142857142
+8,6,"The third said, ""A king shall come and take her for his wife.""",17,3,108,0.07142857142857142,7.7142857142857135
+8,7,"In the meanwhile the girl was doing as the little men had told her, and had cleared the snow from the back of the little house, and what do you suppose she found?",36,9,480,0.1,48.0
+8,7,"fine ripe strawberries, showing dark red against the snow!",11,1,31,0.1,3.1
+8,7,"Then she joyfully filled her little basket full, thanked the little men, shook hands with them all, and ran home in haste to bring her stepmother the thing she longed for.",35,6,502,0.1,50.2
+8,7,"As she went in and said, ""Good evening,"" a piece of gold fell from her mouth at once.",23,3,213,0.1,21.3
+8,7,"Then she related all that had happened to her in the wood, and at each word that she spoke gold pieces fell out of her mouth, so that soon they were scattered all over the room.",39,7,669,0.1,66.9
+8,7,"""Just look at her pride and conceit!""",10,1,45,0.1,4.5
+8,7,"cried the stepsister, ""throwing money about in this way!""",13,2,78,0.1,7.800000000000001
+8,7,"but in her heart she was jealous because of it, and wanted to go too into the wood to fetch strawberries.",23,4,168,0.1,16.8
+8,7,"But the mother said, ""No, my dear little daughter, it is too cold, you will be frozen to death.""",26,3,259,0.1,25.900000000000002
+8,7,"But she left her no peace, so at last the mother gave in, got her a splendid fur coat to put on, and gave her bread and butter and cakes to eat on the way.",39,6,669,0.1,66.9
+8,8,The girl went into the wood and walked straight up to the little house.,15,3,81,0.1,8.1
+8,8,"The three little men peeped out again, but she gave them no greeting, and without looking round or taking any notice of them she came stumping into the room, sat herself down by the oven, and began to eat her bread and butter and cakes.",50,9,1045,0.1,104.5
+8,8,"""Give us some of that,"" cried the little men, but she answered, ""I've not enough for myself; how can I give away any?""",33,5,497,0.1,49.7
+8,8,"Now when she had done with her eating, they said, ""Here is a broom, go and sweep all clean by the back door.""",29,7,331,0.1,33.1
+8,8,"""Oh, go and do it yourselves,"" answered she; ""I am not your housemaid.""",21,4,159,0.1,15.9
+8,8,"But when she saw that they were not going to give her anything, she went out to the door.",21,5,159,0.1,15.9
+8,8,"Then the three little men said among themselves, ""What shall we do to her, because she is so unpleasant, and has such a wicked jealous heart, grudging everybody everything?""",36,6,480,0.1,48.0
+8,8,"The first said, ""She shall grow uglier every day.""",13,2,58,0.1,5.800000000000001
+8,8,"The second said, ""Each time she speaks a toad shall jump out of her mouth at every word.""",22,3,193,0.1,19.3
+8,8,"The third said, ""She shall die a miserable death.""",13,2,58,0.1,5.800000000000001
+8,9,"The girl was looking outside for strawberries, but as she found none, she went sulkily home.",19,4,139,0.5,69.5
+8,9,"And directly she opened her mouth to tell her mother what had happened to her in the wood a toad sprang out of her mouth at each word, so that every one who came near her was quite disgusted.",41,7,709,0.5,354.5
+8,10,"The stepmother became more and more set against the man's daughter, whose beauty increased day by day, and her only thought was how to do her some injury.",32,5,438,0.2,87.60000000000001
+8,10,"So at last she took a kettle, set it on the fire, and scalded some yarn in it.",21,3,146,0.2,29.200000000000003
+8,10,"When it was ready she hung it over the poor girl's shoulder, and gave her an axe, and she was to go to the frozen river and break a hole in the ice, and there to rinse the yarn.",44,7,864,0.2,172.8
+8,10,"She obeyed, and went and hewed a hole in the ice, and as she was about it there came by a splendid coach, in which the King sat.",32,5,466,0.2,93.2
+8,10,"The coach stood still, and the King said, ""My child, who art thou, and what art thou doing there?""",26,4,279,0.2,55.800000000000004
+8,11,"She answered, ""I am a poor girl, and am rinsing yarn.""",16,4,106,0.3333333333333333,35.33333333333333
+8,11,"Then the King felt pity for her, and as he saw that she was very beautiful, he said, ""Will you go with me?""",29,5,331,0.3333333333333333,110.33333333333333
+8,11,"""Oh yes, with all my heart,"" answered she; and she felt very glad to be out of the way of her mother and sister.",30,3,245,0.3333333333333333,81.66666666666666
+8,12,"So she stepped into the coach and went off with the King; and when they reached his castle the wedding was celebrated with great splendour, as the little men in the wood had foretold.At the end of a year the young Queen had a son; and as the stepmother had heard of her great good fortune she came with her daughter to the castle, as if merely to pay the King and Queen a visit.",80,11,3006,0.3333333333333333,1002.0
+8,12,"One day, when the King had gone out, and when nobody was about, the bad woman took the Queen by the head, and her daughter took her by the heels, and dragged her out of bed, and threw her out of the window into a stream that flowed beneath it.",57,8,1296,0.3333333333333333,432.0
+8,12,"Then the old woman put her ugly daughter in the bed, and covered her up to her chin.",20,2,130,0.3333333333333333,43.33333333333333
+8,13,"When the King came back, and wanted to talk to his wife a little, the old woman cried, ""Stop, stop!",26,4,259,0.25,64.75
+8,13,"she is sleeping nicely; she must be kept quiet to day.""",14,4,79,0.25,19.75
+8,13,"The King dreamt of nothing wrong, and came again the next morning; and as he spoke to his wife, and she answered him, there jumped each time out of her mouth a toad instead of the piece of gold as heretofore.",46,4,739,0.25,184.75
+8,13,"Then he asked why that should be, and the old woman said it was because of her great weakness, and that it would pass away.",28,5,328,0.25,82.0
+8,14,"But in the night, the boy who slept in the kitchen saw how something in the likeness of a duck swam up the gutter, and said, ""My King, what mak'st thou?Sleepest thou, or wak'st thou?""",45,6,702,1.0,702.0
+8,15,But there was no answer.,6,1,9,0.5,4.5
+8,15,"Then it said, ""What cheer my two guests keep they?""",14,3,69,0.5,34.5
+8,16,"So the kitchen-boy answered, ""In bed all soundly sleep they.""",14,2,61,1.0,61.0
+8,17,"It asked again, ""And my little baby, how does he?""",15,2,92,1.0,92.0
+8,18,"And he answered, ""He sleeps in his cradle quietly.""",13,2,58,1.0,58.0
+8,19,"Then the duck took the shape of the Queen and went to the child, and gave him to drink, smoothed his little bed, covered him up again, and then, in the likeness of a duck, swam back down the gutter.",47,7,952,0.3333333333333333,317.3333333333333
+8,19,"In this way she came two nights, and on the third she said to the kitchen-boy, ""Go and tell the King to brandish his sword three times over me on the threshold!""",37,5,538,0.3333333333333333,179.33333333333331
+8,19,"Then the kitchen-boy ran and told the King, and he came with his sword and brandished it three times over the duck, and at the third time his wife stood before him living, and hearty, and sound, as she had been before.",48,6,918,0.3333333333333333,306.0
+8,20,"The King was greatly rejoiced, but he hid the Queen in a chamber until the Sunday came when the child was to be baptized.",26,7,279,0.5,139.5
+8,20,"And after the baptism he said, ""What does that person deserve who drags another out of; bed and throws him in the water?""",28,5,268,0.5,134.0
+8,21,"And the old woman answered, ""No better than to be put into a cask with iron nails in it, and to be rolled in it down the hill into the water.""",36,5,506,0.5,253.0
+8,21,"Then said the King, ""You have spoken your own sentence;""and he ordered a cask to be fetched, and the old woman and her daughter were put into it, and the top hammered down, and the cask was rolled down the hill into the river.",53,11,1327,0.5,663.5
+9,1,"There were once on a time a king and a queen who lived happily together and had twelve children, but they were all boys.",26,5,301,0.3333333333333333,100.33333333333333
+9,1,"Then said the King to his wife, ""If the thirteenth child which thou art about to bring into the world, is a girl, the twelve boys shall die, in order that her possessions may be great, and that the kingdom may fall to her alone.""",53,7,1327,0.3333333333333333,442.3333333333333
+9,1,"He caused likewise twelve coffins to be made, which were already filled with shavings, and in each lay the little pillow for the dead, and he had them taken into a locked-up room, and then he gave the Queen the key of it, and bade her not to speak of this to any one.",60,11,1712,0.3333333333333333,570.6666666666666
+9,2,"The mother, however, now sat and lamented all day long, until the youngest son, who was always with her, and whom she had named Benjamin, from the Bible, said to her, ""Dear mother, why art thou so sad?""",50,6,967,0.125,120.875
+9,2,"""Dearest child,"" she answered, ""I may not tell thee.""",16,2,66,0.125,8.25
+9,2,"But he let her have no rest until she went and unlocked the room, and showed him the twelve coffins ready filled with shavings.",26,7,279,0.125,34.875
+9,2,"Then she said, my dearest Benjamin, thy father has had these coffins made for thee and for thy eleven brothers, for if I bring a little girl into the world, you are all to be killed and buried in them.""",46,9,949,0.125,118.625
+9,2,"And as she wept while she was saying this, the son comforted her and said, ""Weep not, dear mother, we will save ourselves, and go hence.""",34,7,471,0.125,58.875
+9,2,"But she said, ""Go forth into the forest with thy eleven brothers, and let one sit constantly on the highest tree which can be found, and keep watch, looking towards the tower here in the castle.",42,7,783,0.125,97.875
+9,2,"If I give birth to a little son, I will put up a white flag, and then you may venture to come back, but if I bear a daughter, I will hoist a red flag, and then fly hence as quickly as you are able, and may the good God protect you.",59,7,1599,0.125,199.875
+9,2,"And every night I will rise up and pray for you -- in winter that you may be able to warm yourself at a fire, and in summer that you may not faint away in the heat.""",40,5,610,0.125,76.25
+9,3,"After she had blessed her sons therefore, they went forth into the forest.",15,3,81,0.16666666666666666,13.5
+9,3,"They each kept watch in turn, and sat on the highest oak and looked towards the tower.",19,3,139,0.16666666666666666,23.166666666666664
+9,3,"When eleven days had passed and the turn came to Benjamin, he saw that a flag was being raised.",21,7,159,0.16666666666666666,26.5
+9,3,"It was, however, not the white, but the blood-red flag which announced that they were all to die.",22,4,211,0.16666666666666666,35.166666666666664
+9,3,"When the brothers heard that, they were very angry and said, ""Are we all to suffer death for the sake of a girl?",27,5,282,0.16666666666666666,47.0
+9,3,"We swear that we will avenge ourselves!-- wheresoever we find a girl, her red blood shall flow.""",22,4,211,0.16666666666666666,35.166666666666664
+9,4,"Thereupon they went deeper into the forest, and in the midst of it, where it was the darkest, they found a little bewitched hut, which was standing empty.",33,5,468,0.25,117.0
+9,4,"Then said they, ""Here we will dwell, and thou Benjamin, who art the youngest and weakest, thou shalt stay at home and keep house, we others will go out and get food.""",40,6,742,0.25,185.5
+9,4,"Then they went into the forest and shot hares, wild deer, birds and pigeons, and whatsoever there was to eat; this they took to Benjamin, who had to dress it for them in order that they might appease their hunger.",46,7,949,0.25,237.25
+9,4,"They lived together ten years in the little hut, and the time did not appear long to them.",20,3,172,0.25,43.0
+9,5,"The little daughter which their mother the Queen had given birth to, was now grown up; she was good of heart, and fair of face, and had a golden star on her forehead.",38,6,471,0.14285714285714285,67.28571428571428
+9,5,"Once, when it was the great washing, she saw twelve men's shirts among the things, and asked her mother, ""To whom do these twelve shirts belong, for they are far too small for father?""",43,6,751,0.14285714285714285,107.28571428571428
+9,5,"Then the Queen answered with a heavy heart, ""Dear child, these belong to thy twelve brothers.""",21,2,159,0.14285714285714285,22.71428571428571
+9,5,"Said the maiden, ""Where are my twelve brothers, I have never yet heard of them?""",20,4,190,0.14285714285714285,27.142857142857142
+9,5,"She replied, ""God knows where they are, they are wandering about the world.""",18,5,137,0.14285714285714285,19.57142857142857
+9,5,"Then she took the maiden and opened the chamber for her, and showed her the twelve coffins with the shavings, and pillows for the head.",28,4,328,0.14285714285714285,46.857142857142854
+9,5,"""These coffins,"" said she, ""were destined for thy brothers, but they went away secretly before thou wert born,"" and she related to her how everything had happened; then said the maiden, ""Dear mother, weep not, I will go and seek my brothers.""",57,11,1341,0.14285714285714285,191.57142857142856
+9,6,"So she took the twelve shirts and went forth, and straight into the great forest.",17,2,108,0.08333333333333333,9.0
+9,6,"She walked the whole day, and in the evening she came to the bewitched hut.",17,3,121,0.08333333333333333,10.083333333333332
+9,6,"Then she entered it and found a young boy, who asked, ""From whence comest thou, and whither art thou bound?""",26,3,279,0.08333333333333333,23.25
+9,6,"and was astonished that she was so beautiful, and wore royal garments, and had a star on her forehead.",22,5,211,0.08333333333333333,17.583333333333332
+9,6,"And she answered, ""I am a king's daughter, and am seeking my twelve brothers, and I will walk as far as the sky is blue until I find them.""",36,7,564,0.08333333333333333,47.0
+9,6,She likewise showed him the twelve shirts which belonged to them.,12,2,48,0.08333333333333333,4.0
+9,6,"Then Benjamin saw that she was his sister, and said, ""I am Benjamin, thy youngest brother.""",22,4,193,0.08333333333333333,16.083333333333332
+9,6,"And she began to weep for joy, and Benjamin wept also, and they kissed and embraced each other with the greatest love.",25,4,256,0.08333333333333333,21.333333333333332
+9,6,"But after this he said, ""Dear sister, there is still one difficulty.",16,2,76,0.08333333333333333,6.333333333333333
+9,6,"We have agreed that every maiden whom we meet shall die, because we have been obliged to leave our kingdom on account of a girl.""",28,8,352,0.08333333333333333,29.333333333333332
+9,6,"Then said she, ""I will willingly die, if by so doing I can deliver my twelve brothers.""",22,4,211,0.08333333333333333,17.583333333333332
+9,6,"""No,"" answered he, ""thou shalt not die, seat thyself beneath this tub until our eleven brothers come, and then I will soon come to an agreement with them.""",37,5,538,0.08333333333333333,44.83333333333333
+9,7,"She did so, and when it was night the others came from hunting, and their dinner was ready.",21,4,191,0.125,23.875
+9,7,"And as they were sitting at table, and eating, they asked, ""What news is there?""",21,5,159,0.125,19.875
+9,7,"Said Benjamin, ""Don't you know anything?""",11,2,31,0.125,3.875
+9,7,"- ""No,"" they answered.",8,1,22,0.125,2.75
+9,7,"He continued, ""You have been in the forest and I have stayed at home, and yet I know more than you do.""",27,7,326,0.125,40.75
+9,7,"- ""Tell us then,"" they cried.",10,2,31,0.125,3.875
+9,7,"He answered, ""But promise me that the first maiden who meets us shall not be killed.""",20,5,172,0.125,21.5
+9,7,"- ""Yes,"" they all cried, ""she shall have mercy, only do tell us.""",21,4,119,0.125,14.875
+9,8,"Then said he, ""Our sister is here,"" and he lifted up the tub, and the King's daughter came forth in her royal garments with the golden star on her forehead, and she was beautiful, delicate and fair.",46,5,991,0.5,495.5
+9,8,"Then they were all rejoiced, and fell on her neck, and kissed and loved her with all their hearts.",22,5,193,0.5,96.5
+9,9,Now she stayed at home with Benjamin and helped him with the work.,14,2,69,0.25,17.25
+9,9,"The eleven went into the forest and caught game, and deer, and birds, and wood-pigeons that they might have food, and the little sister and Benjamin took care to make it ready for them.",39,4,669,0.25,167.25
+9,9,"She sought for the wood for cooking and herbs for vegetables, and put the pans on the fire so that the dinner was always ready when the eleven came.",31,4,436,0.25,109.0
+9,9,"She likewise kept order in the little house, and put beautifully white clean coverings on the little beds, and the brothers were always contented and lived in great harmony with her.",34,5,499,0.25,124.75
+9,10,"Once on a time the two at home had prepared a beautiful entertainment, and when they were all together, they sat down and ate and drank and were full of gladness.",34,5,361,0.1111111111111111,40.11111111111111
+9,10,"There was, however, a little garden belonging to the bewitched house wherein stood twelve lily flowers, which are likewise called students.",25,5,277,0.1111111111111111,30.777777777777775
+9,10,"She wished to give her brothers pleasure, and plucked the twelve flowers, and thought she would present each brother with one while at dinner.",27,5,326,0.1111111111111111,36.22222222222222
+9,10,"But at the self-same moment that she plucked the flowers the twelve brothers were changed into twelve ravens, and flew away over the forest, and the house and garden vanished likewise.",34,5,379,0.1111111111111111,42.11111111111111
+9,10,"And now the poor maiden was alone in the wild forest, and when she looked around, an old woman was standing near her who said, ""My child, what hast thou done?",37,7,511,0.1111111111111111,56.77777777777777
+9,10,Why didst thou not leave the twelve white flowers growing?,11,2,31,0.1111111111111111,3.444444444444444
+9,10,"They were thy brothers, who are now for evermore changed into ravens.""",15,3,92,0.1111111111111111,10.222222222222221
+9,10,"The maiden said, weeping, ""Is there no way of delivering them?""",16,4,94,0.1111111111111111,10.444444444444445
+9,10,"""No,"" said the woman, ""there is but one in the whole world, and that is so hard that thou wilt not deliver them by it, for thou must be dumb for seven years, and mayst not speak or laugh, and if thou speakest one single word, and only an hour of the seven years is wanting, all is in vain, and thy brothers will be killed by the one word.""",84,14,3170,0.1111111111111111,352.22222222222223
+9,11,"Then said the maiden in her heart, ""I know with certainty that I shall set my brothers free,"" and went and sought a high tree and seated herself in it and span, and neither spoke nor laughed.",43,10,862,0.1,86.2
+9,11,"Now it so happened that a king was hunting in the forest, who had a great greyhound which ran to the tree on which the maiden was sitting, and sprang about it, whining, and barking at her.",42,9,747,0.1,74.7
+9,11,"Then the King came by and saw the beautiful King's daughter with the golden star on her brow, and was so charmed with her beauty that he called to ask her if she would be his wife.",40,6,672,0.1,67.2
+9,11,"She made no answer, but nodded a little with her head.",13,2,67,0.1,6.7
+9,11,"So he climbed up the tree himself, carried her down, placed her on his horse, and bore her home.",23,3,213,0.1,21.3
+9,11,"Then the wedding was solemnized with great magnificence and rejoicing, but the bride neither spoke nor smiled.",19,4,126,0.1,12.600000000000001
+9,11,"When they had lived happily together for a few years, the King's mother, who was a wicked woman, began to slander the young Queen, and said to the King, ""This is a common beggar girl whom thou hast brought back with thee.",50,9,1131,0.1,113.10000000000001
+9,11,Who knows what impious tricks she practises secretly!,9,2,29,0.1,2.9000000000000004
+9,11,"Even if she be dumb, and not able to speak, she still might laugh for once; but those who do not laugh have bad consciences.""",30,5,357,0.1,35.7
+9,11,"At first the King would not believe it, but the old woman urged this so long, and accused her of so many evil things, that at last the King let himself be persuaded and sentenced her to death.",42,6,651,0.1,65.10000000000001
+9,12,"And now a great fire was lighted in the courtyard in which she was to be burnt, and the King stood above at the window and looked on with tearful eyes, because he still loved her so much.",41,8,645,0.14285714285714285,92.14285714285714
+9,12,"And when she was bound fast to the stake, and the fire was licking at her clothes with its red tongue, the last instant of the seven years expired.",32,5,412,0.14285714285714285,58.857142857142854
+9,12,"Then a whirring sound was heard in the air, and twelve ravens came flying towards the place, and sank downwards, and when they touched the earth they were her twelve brothers, whom she had delivered.",40,11,706,0.14285714285714285,100.85714285714285
+9,12,"They tore the fire asunder, extinguished the flames, set their dear sister free, and kissed and embraced her.",22,5,211,0.14285714285714285,30.142857142857142
+9,12,"And now as she dared to open her mouth and speak, she told the King why she had been dumb, and had never laughed.",27,7,263,0.14285714285714285,37.57142857142857
+9,12,"The King rejoiced when he heard that she was innocent, and they all lived in great unity until their death.",22,4,193,0.14285714285714285,27.57142857142857
+9,12,"The wicked step-mother was taken before the judge, and put into a barrel filled with boiling oil and venomous snakes, and died an evil death.",28,5,306,0.14285714285714285,43.714285714285715
+10,1,"There was once a peasant who had driven his cow to the fair, and sold her for seven thalers.",21,4,191,0.043478260869565216,8.304347826086957
+10,1,"On the way home he had to pass a pond, and already from afar he heard the frogs crying, ""Aik, aik, aik, aik.""",31,3,340,0.043478260869565216,14.782608695652174
+10,1,"- ""Well,"" said he to himself, ""they are talking without rhyme or reason, it is seven that I have received, not eight.""",31,6,340,0.043478260869565216,14.782608695652174
+10,1,"When he got to the water, he cried to them, ""Stupid animals that you are!",19,3,139,0.043478260869565216,6.043478260869565
+10,1,Don't you know better than that?,8,2,28,0.043478260869565216,1.2173913043478262
+10,1,"It is seven thalers and not eight.""",9,1,29,0.043478260869565216,1.2608695652173914
+10,1,"The frogs, however, stood to their, ""aik aik, aik, aik.""",18,1,93,0.043478260869565216,4.043478260869565
+10,1,"- ""Come, then, if you won't believe it, I can count it out to you.""",22,2,121,0.043478260869565216,5.260869565217392
+10,1,"And he took his money out of his pocket and counted out the seven thalers, always reckoning four and twenty groschen to a thaler.",26,3,279,0.043478260869565216,12.130434782608695
+10,1,"The frogs, however, paid no attention to his reckoning, but still cried, ""aik, aik, aik, aik.""",26,2,225,0.043478260869565216,9.782608695652174
+10,1,"- ""What,"" cried the peasant, quite angry, ""since you are determined to know better than I, count it yourselves,"" and threw all the money into the water to them.",39,6,576,0.043478260869565216,25.043478260869563
+10,1,"He stood still and wanted to wait until they were done and had brought him his own again, but the frogs maintained their opinion and cried continually, ""aik, aik, aik, aik,"" and besides that, did not throw the money out again.",51,11,1226,0.043478260869565216,53.30434782608695
+10,1,He still waited a long while until evening came on and he was forced to go home.,18,6,123,0.043478260869565216,5.3478260869565215
+10,1,"Then he abused the frogs and cried, ""You water-splashers, you thick-heads, you goggle-eyes, you have great mouths and can screech till you hurt one's ears, but you cannot count seven thalers!",40,9,706,0.043478260869565216,30.695652173913043
+10,1,"Do you think I'm going to stand here till you get done?""",15,8,105,0.043478260869565216,4.565217391304348
+10,1,"And with that he went away, but the frogs still cried, ""aik, aik, aik, aik,"" after him till he went home quite angry.After a while he bought another cow, which he killed, and he made the calculation that if he sold the meat well he might gain as much as the two cows were worth, and have the skin into the bargain.",74,11,2425,0.043478260869565216,105.43478260869566
+10,1,"When therefore he got to the town with the meat, a great troop of dogs were gathered together in front of the gate, with a large greyhound at the head of them, which jumped at the meat, snuffed at it, and barked, ""Wow, wow, wow.""",56,6,1384,0.043478260869565216,60.17391304347826
+10,1,"As there was no stopping him, the peasant said to him, ""Yes, yes, I know quite well that thou art saying, 'wow, wow, wow,' because thou wantest some of the meat; but I should fare badly if I were to give it to thee.""",57,9,1488,0.043478260869565216,64.69565217391305
+10,1,"The dog, however, answered nothing but ""wow, wow.""",14,1,51,0.043478260869565216,2.217391304347826
+10,1,"- ""Wilt thou promise not to devour it all then, and wilt thou go bail for thy companions?""",22,3,133,0.043478260869565216,5.782608695652174
+10,1,"- ""Wow, wow, wow,"" said the dog.",13,1,51,0.043478260869565216,2.217391304347826
+10,1,"""Well, if thou insistest on it, I will leave it for thee; I know thee well, and know who is thy master; but this I tell thee, I must have my money in three days or else it will go ill with thee; thou must just bring it out to me.""",61,8,1291,0.043478260869565216,56.130434782608695
+10,1,"Thereupon he unloaded the meat and turned back again, the dogs fell upon it and loudly barked, ""wow, wow.""",25,4,256,0.043478260869565216,11.130434782608695
+10,2,"The countryman, who heard them from afar, said to himself, ""Hark, now they all want some, but the big one is responsible to me for it.""",34,4,445,1.0,445.0
+10,3,"When three days had passed, the countryman thought, ""To-night my money will be in my pocket,"" and was quite delighted.",26,5,259,0.05555555555555555,14.388888888888888
+10,3,But no one would come and pay it.,9,2,20,0.05555555555555555,1.1111111111111112
+10,3,"""There is no trusting any one now,"" said he; and at last he lost patience, and went into the town to the butcher and demanded his money.",33,6,468,0.05555555555555555,26.0
+10,3,"The butcher thought it was a joke, but the peasant said, ""Jesting apart, I will have my money!",23,5,213,0.05555555555555555,11.833333333333332
+10,3,"Did not the great dog bring you the whole of the slaughtered cow three days ago?""",18,1,153,0.05555555555555555,8.5
+10,3,"Then the butcher grew angry, snatched a broomstick and drove him out.",14,3,61,0.05555555555555555,3.388888888888889
+10,3,"""Wait a while,"" said the peasant, ""there is still some justice in the world!""",21,3,191,0.05555555555555555,10.61111111111111
+10,3,and went to the royal palace and begged for an audience.,12,2,56,0.05555555555555555,3.1111111111111107
+10,3,"He was led before the King, who sat there with his daughter, and asked him what injury he had suffered.",23,6,232,0.05555555555555555,12.888888888888888
+10,3,"""Alas!""",4,1,6,0.05555555555555555,0.3333333333333333
+10,3,"said he, ""the frogs and the dogs have taken from me what is mine, and the butcher has paid me for it with the stick,"" and he related at full length all that had happened.",41,9,820,0.05555555555555555,45.55555555555555
+10,3,"Thereupon the King's daughter began to laugh heartily, and the King said to him, ""I cannot give you justice in this, but you shall have my daughter to wife for it, -- in her whole life she has never yet laughed as she has just done at thee, and I have promised her to him who could make her laugh.",69,11,2031,0.05555555555555555,112.83333333333333
+10,3,"Thou mayst thank God for thy good fortune!""",10,1,45,0.05555555555555555,2.5
+10,3,"""Oh,"" answered the peasant, ""I will not have her, I have a wife already, and she is one too many for me; when I go home, it is just as bad as if I had a wife standing in every corner.""",52,7,1138,0.05555555555555555,63.22222222222222
+10,3,"Then the King grew angry, and said, ""Thou art a boor.""",16,2,84,0.05555555555555555,4.666666666666666
+10,3,"- ""Ah, Lord King,"" replied the peasant, ""what can you expect from an ox, but beef?""",25,2,172,0.05555555555555555,9.555555555555555
+10,3,"- ""Stop,"" answered the King, ""thou shalt have another reward.",16,3,94,0.05555555555555555,5.222222222222222
+10,3,"Be off now, but come back in three days, and then thou shalt have five hundred counted out in full.""",24,6,276,0.05555555555555555,15.333333333333332
+10,4,"When the peasant went out by the gate, the sentry said, ""Thou hast made the King's daughter laugh, so thou wilt certainly receive something good.""",32,3,412,0.041666666666666664,17.166666666666664
+10,4,"- ""Yes, that is what I think,"" answered the peasant; ""five hundred are to be counted out to me.""",27,6,246,0.041666666666666664,10.25
+10,4,"- ""Hark thee,"" said the soldier, ""give me some of it.",17,2,76,0.041666666666666664,3.1666666666666665
+10,4,"What canst thou do with all that money?""",10,1,27,0.041666666666666664,1.125
+10,4,"- ""As it is thou,"" said the peasant, ""thou shalt have two hundred; present thyself in three days' time before the King, and let it be paid to thee.""",39,8,605,0.041666666666666664,25.208333333333332
+10,4,"A Jew, who was standing by and had heard the conversation, ran after the peasant, held him by the coat, and said, ""Oh, wonder!",32,6,388,0.041666666666666664,16.166666666666664
+10,4,what a luck-child thou art!,6,1,15,0.041666666666666664,0.625
+10,4,"I will change it for thee, I will change it for thee into small coins, what dost thou want with the great thalers?""",27,3,303,0.041666666666666664,12.625
+10,4,"- ""Jew,"" said the countryman, ""three hundred canst thou still have; give it to me at once in coin, in three days from this, thou wilt be paid for it by the King.""",43,7,718,0.041666666666666664,29.916666666666664
+10,4,"The Jew was delighted with the profit, and brought the sum in bad groschen, three of which were worth two good ones.",25,4,256,0.041666666666666664,10.666666666666666
+10,4,"After three days had passed, according to the King's command, the peasant went before the King.",20,4,142,0.041666666666666664,5.916666666666666
+10,4,"""Pull his coat off,"" said the latter, ""and he shall have his five hundred.""",21,4,191,0.041666666666666664,7.958333333333333
+10,4,"- ""Ah!""",5,1,10,0.041666666666666664,0.41666666666666663
+10,4,"said the peasant, ""they no longer belong to me; I presented two hundred of them to the sentinel, and three hundred the Jew has changed for me, so by right nothing at all belongs to me.""",43,5,903,0.041666666666666664,37.625
+10,4,"In the meantime the soldier and the Jew entered and claimed what they had gained from the peasant, and they received the blows strictly counted out.",28,6,226,0.041666666666666664,9.416666666666666
+10,4,"The soldier bore it patiently and knew already how it tasted, but the Jew said sorrowfully, ""Alas, alas, are these the heavy thalers?""",30,4,297,0.041666666666666664,12.375
+10,4,"The King could not help laughing at the peasant, and as all his anger was gone, he said, ""As thou hast already lost thy reward before it fell to thy lot, I will give thee something in the place of it.",47,9,913,0.041666666666666664,38.041666666666664
+10,4,"Go into my treasure chamber and get some money for thyself, as much as thou wilt.""",19,1,99,0.041666666666666664,4.125
+10,4,"The peasant did not need to be told twice, and stuffed into his big pockets whatsoever would go in.",21,6,174,0.041666666666666664,7.25
+10,4,Afterwards he went to an inn and counted out his money.,12,2,48,0.041666666666666664,2.0
+10,4,"The Jew had crept after him and heard how he muttered to himself, ""That rogue of a King has cheated me after all, why could he not have given me the money himself, and then I should have known what I had?",47,11,993,0.041666666666666664,41.375
+10,4,"How can I tell now if what I have had the luck to put in my pockets is right or not?""",23,5,196,0.041666666666666664,8.166666666666666
+10,4,"- ""Good heavens!""",6,1,15,0.041666666666666664,0.625
+10,4,"said the Jew to himself, ""that man is speaking disrespectfully of our lord the King, I will run and inform, and then I shall get a reward, and he will be punished as well.""",41,8,820,0.041666666666666664,34.166666666666664
+10,5,"When the King heard of the peasant's words he fell into a passion, and commanded the Jew to go and bring the offender to him.",28,4,208,0.14285714285714285,29.71428571428571
+10,5,"The Jew ran to the peasant, ""You are to go at once to the lord King in the very clothes you have on.""",27,4,303,0.14285714285714285,43.285714285714285
+10,5,"- ""I know what's right better than that,"" answered the peasant, ""I shall have a new coat made first.",26,5,259,0.14285714285714285,37.0
+10,5,"Dost thou think that a man with so much money in his pocket is to go there in his ragged old coat?""",24,3,234,0.14285714285714285,33.42857142857142
+10,5,"The Jew, as he saw that the peasant would not stir without another coat, and as he feared that if the King's anger cooled, he himself would lose his reward, and the peasant his punishment, said, ""I will out of pure friendship lend thee a coat for the short time.",59,7,1446,0.14285714285714285,206.57142857142856
+10,5,"What will people not do for love!""",9,1,20,0.14285714285714285,2.8571428571428568
+10,5,"The peasant was contented with this, put the Jew's coat on, and went off with him.",20,4,156,0.14285714285714285,22.285714285714285
+10,6,The King reproached the countryman because of the evil speaking of which the Jew had informed him.,18,3,123,0.1111111111111111,13.666666666666666
+10,6,"""Ah,"" said the peasant, ""what a Jew says is always false -- no true word ever comes out of his mouth!",27,4,263,0.1111111111111111,29.22222222222222
+10,6,"That rascal there is capable of maintaining that I have his coat on.""",15,3,72,0.1111111111111111,8.0
+10,6,"""What is that?""",6,1,9,0.1111111111111111,1.0
+10,6,shrieked the Jew.,4,1,6,0.1111111111111111,0.6666666666666666
+10,6,"""Is the coat not mine?",7,2,16,0.1111111111111111,1.7777777777777777
+10,6,"Have I not lent it to thee out of pure friendship, in order that thou might appear before the lord King?""",24,4,276,0.1111111111111111,30.666666666666664
+10,6,"When the King heard that, he said, ""The Jew has assuredly deceived one or the other of us, either myself or the peasant,"" and again he ordered something to be counted out to him in hard thalers.",44,6,694,0.1111111111111111,77.1111111111111
+10,6,"The peasant, however, went home in the good coat, with the good money in his pocket, and said to himself, ""This time I have hit it!""",34,4,421,0.1111111111111111,46.77777777777778
+11,1,"The brother took his sister's hand and said to her, ""Since our mother died we have had no good days; our stepmother beats us every day, and if we go near her she kicks us away; we have nothing to eat but hard crusts of bread left over; the dog under the table fares better,"" he gets a good piece every now and then.",74,12,2559,0.2,511.8
+11,1,"If our mother only knew, how she would pity us!",12,2,38,0.2,7.6000000000000005
+11,1,"Come, let us go together out into the wide world!""",13,2,58,0.2,11.600000000000001
+11,1,"So they went, and journeyed the whole day through fields and meadows and stony places, and if it rained the sister said, ""The skies and we are weeping together.""",35,6,531,0.2,106.2
+11,1,"In the evening they came to a great wood, and they were so weary with hunger and their long journey, that they climbed up into a high tree and fell asleep.",34,4,445,0.2,89.0
+11,2,"The next morning, when they awoke, the sun was high in heaven, and shone brightly through the leaves.",22,2,141,0.3333333333333333,47.0
+11,2,"Then said the brother, ""Sister, I am thirsty; if I only knew where to find a brook, that I might go and drink!",29,6,379,0.3333333333333333,126.33333333333333
+11,2,"I almost think that I hear one rushing.""",10,2,31,0.3333333333333333,10.333333333333332
+11,3,"So the brother got down and led his sister by the hand, and they went to seek the brook.",21,4,159,0.5,79.5
+11,3,"But their wicked stepmother was a witch, and had known quite well that the two children had run away, and had sneaked after them, as only witches can, and had laid a spell on all the brooks in the forest.",45,9,830,0.5,415.0
+11,4,"So when they found a little stream flowing smoothly over its pebbles, the brother was going to drink of it; but the sister heard how it said in its rushing, ""He a tiger will be who drinks of me, Who drinks of me a tiger will be!""",54,10,1281,1.0,1281.0
+11,5,"Then the sister cried, ""Pray, dear brother, do not drink, or you will become a wild beast, and will tear me in pieces.""",31,5,384,1.0,384.0
+11,6,"So the brother refrained from drinking, though his thirst was great, and he said he would wait till he came to the next brook.",27,5,282,0.5,141.0
+11,6,"When they came to a second brook the sister heard it say, ""He a wolf will be who drinks of me, Who drinks of me a wolf will be!""",34,7,499,0.5,249.5
+11,7,"Then the sister cried, ""Pray, dear brother, do not drink, or you will be turned into a wolf, and will eat me up!""",31,6,384,1.0,384.0
+11,8,"So the brother refrained from drinking, and said, ""I will wait until we come to the next brook, and then I must drink, whatever you say; my thirst is so great.""",39,7,636,1.0,636.0
+11,9,"And when they came to the third brook the sister heard how in its rushing it said, ""Who drinks of me a fawn will be, He a fawn will be who drinks of me!""",39,7,636,1.0,636.0
+11,10,"Then the sister said, ""O my brother, I pray drink not, or you will be turned into a fawn, and run away far from me.""",32,5,412,1.0,412.0
+11,11,"But he had already kneeled by the side of the brook and stooped and drunk of the water, and as the first drops passed his lips he became a fawn.",32,5,438,1.0,438.0
+11,12,"And the sister wept over her poor lost brother, and the fawn wept also, and stayed sadly beside her.",22,2,133,0.14285714285714285,19.0
+11,12,"At last the maiden said, ""Be comforted, dear fawn, indeed I will never leave you.""",21,3,146,0.14285714285714285,20.857142857142858
+11,12,"Then she untied her golden girdle and bound it round the fawn's neck, and went and gathered rushes to make a soft cord, which she fastened to him; and then she led him on, and they went deeper into the forest.",47,9,993,0.14285714285714285,141.85714285714286
+11,12,"And when they had gone a long long way, they came at last to a little house, and the maiden looked inside, and as it was empty she thought, ""We might as well live here.""",42,7,747,0.14285714285714285,106.71428571428571
+11,12,"And she fetched leaves and moss to make a soft bed for the fawn, and every morning she went out and gathered roots and berries and nuts for herself, and fresh grass for the fawn, who ate out of her hand with joy, frolicking round her.",51,5,1179,0.14285714285714285,168.42857142857142
+11,12,"At night, when the sister was tired, and had said her prayers, she laid her head on the fawn's back, which served her for a pillow, and softly fell asleep.",37,7,486,0.14285714285714285,69.42857142857143
+11,12,"And if only the brother could have got back his own shape again, it would have been a charming life.",22,4,141,0.14285714285714285,20.142857142857142
+11,13,So they lived a long while in the wilderness alone.,11,1,39,0.1,3.9000000000000004
+11,13,Now it happened that the King of that country held a great hunt in the forest.,17,2,108,0.1,10.8
+11,13,"The blowing of the horns, the barking of the dogs, and the lusty shouts of the huntsmen sounded through the wood, and the fawn heard them and was eager to be among them.",37,4,343,0.1,34.300000000000004
+11,13,"""Oh,"" said he to his sister,"" do let me go to the hunt; I cannot stay behind any longer,"" and begged so long that at last she consented.",38,7,571,0.1,57.1
+11,13,"""But mind,"" said she to him,"" come back to me at night.",18,2,93,0.1,9.3
+11,13,"I must lock my door against the wild hunters, so, in order that I may know you, you must knock and say, ' Little sister, let me in,' and unless I hear that I shall not unlock the door.""",48,7,1038,0.1,103.80000000000001
+11,13,"Then the fawn sprang out, and felt glad and merry in the open air.",16,2,84,0.1,8.4
+11,13,"The King and his huntsmen saw the beautiful animal, and began at once to pursue him, but they could not come within reach of him, for when they thought they were certain of him he sprang away over the bushes and disappeared.",46,8,835,0.1,83.5
+11,13,"As soon as it was dark he went back to the little house, knocked at the door, and said, ""Little sister, let me in.""",31,5,361,0.1,36.1
+11,13,"Then the door was opened to him, and he went in, and rested the whole night long on his soft bed.",24,4,216,0.1,21.6
+11,14,"The next morning the hunt began anew, and when the fawn heard the hunting-horns and the tally-ho of the huntsmen he could rest no longer, and said, ""Little sister, let me out, I must go""",42,6,681,1.0,681.0
+11,15,"The sister opened the door and said, ""Now, mind you must come back at night and say the same words.""",25,4,256,0.2,51.2
+11,15,"When the King and his hunters saw the fawn with the golden collar again, they chased him closely, but he was too nimble and swift for them.",30,3,297,0.2,59.400000000000006
+11,15,"This lasted the whole day, and at last the hunters surrounded him, and one of them wounded his foot a little, so that he was obliged to limp and to go slowly.",36,7,596,0.2,119.2
+11,15,"Then a hunter slipped after him to the little house, and heard how he called out,"" Little sister, let me in,"" and saw the door open and shut again after him directly., The hunter noticed all this carefully, went to the King, and told him all he had seen and heard.",61,11,1659,0.2,331.8
+11,15,"Then said the King, ""To-morrow we will hunt again.""",13,2,67,0.2,13.4
+11,16,But the sister was very terrified when she saw that her fawn was wounded.,15,4,72,0.25,18.0
+11,16,"She washed his foot, laid cooling leaves round it, and said,"" Lie down on your bed, dear fawn, and rest, that you may be soon well.""",35,6,562,0.25,140.5
+11,16,"The wound was very slight, so that the fawn felt nothing of it the next morning.",18,2,123,0.25,30.75
+11,16,"And when he heard the noise of the hunting outside, he said, ""I cannot stay in, I must go after them; I shall not be taken easily again!""",36,6,534,0.25,133.5
+11,17,"The sister began to weep, and said, ""I know you will be killed, and I left alone here in the forest, and forsaken of everybody.",31,7,409,0.3333333333333333,136.33333333333331
+11,17,"I cannot let you go!""",8,2,16,0.3333333333333333,5.333333333333333
+11,17,"""Then I shall die here with longing,"" answered the fawn;"" when I hear the sound of the horn I feel as if I should leap out of my skin.""",36,5,506,0.3333333333333333,168.66666666666666
+11,18,"Then the sister, seeing there was no help for it, unlocked the door with a heavy heart, and the fawn bounded away into the forest, well and merry.",33,4,416,1.0,416.0
+11,19,"When the King saw him, he said to his hunters, ""Now, follow him up all day long till the night comes, and see that you do him no hurt.""",36,6,534,0.1,53.400000000000006
+11,19,"So as soon as the sun had gone down, the King said to the huntsmen:"" Now, come and show me the little house in the wood.""",32,5,346,0.1,34.6
+11,19,"And when he got to the door he knocked at it, and cried, ""Little sister, let me in!""",24,4,216,0.1,21.6
+11,19,"Then the door opened, and the King went in, and there stood a maiden more beautiful than any he had seen before.",25,5,237,0.1,23.700000000000003
+11,19,"The maiden shrieked out when she saw, instead of the fawn, a man standing there with a gold crown on his head.",25,3,256,0.1,25.6
+11,19,"But the King looked kindly on her, took her by the hand, and said, ""Will you go with me to my castle, and be my dear wife?""",34,5,471,0.1,47.1
+11,19,"""Oh yes,"" answered the maiden, ""but the fawn must come too.",17,2,81,0.1,8.1
+11,19,"I could not leave him.""",7,1,12,0.1,1.2000000000000002
+11,19,"And the King said, ""He shall remain with you as long as you live, and shall lack nothing.""",23,4,196,0.1,19.6
+11,19,"Then the fawn came bounding in, and the sister tied the cord of rushes to him, and led him by her own hand out of the little house.",31,4,384,0.1,38.400000000000006
+11,20,"The King put the beautiful maiden on his horse, and carried her to his castle, where the wedding was held with great pomp; so she became lady Queen, and they lived together happily for a long while; the fawn was well tended and cherished, and he gambolled about the castle garden.",58,10,1543,0.1,154.3
+11,20,"Now the wicked stepmother, whose fault it was that the children were driven out into the world, never dreamed but that the sister had been eaten up by wild beasts in the forest, and that the brother, in the likeness of a fawn, had been slain by the hunters.",55,10,1117,0.1,111.7
+11,20,"But when she heard that they were so happy, and that things had gone so well with them, jealousy and envy arose in her heart, and left her no peace, and her chief thought was how to bring misfortune upon them.",46,7,909,0.1,90.9
+11,20,"Her own daughter, who was as ugly as sin, and had only one eye, complained to her, and said, ""I never had the chance of being a Queen.""",36,6,480,0.1,48.0
+11,20,"""Never mind,"" said the old woman, to satisfy her;"" when the time comes, I shall be at hand.""",27,4,246,0.1,24.6
+11,20,"After a while the Queen brought a beautiful baby-boy into the world, and that day the King was out hunting.",22,2,151,0.1,15.100000000000001
+11,20,"The old witch took the shape of the bedchamber woman, and went into the room where the Queen lay, and said to her, ""Come, the bath is ready; it will give you refreshment and new strength.",43,6,786,0.1,78.60000000000001
+11,20,"Quick, or it will be cold.""",9,1,21,0.1,2.1
+11,20,"Her daughter was within call, so they carried the sick Queen into the bath-room, and left her there.",21,3,174,0.1,17.400000000000002
+11,20,"And in the bath-room they had made a great fire, so as to suffocate the beautiful young Queen.",20,3,120,0.1,12.0
+11,21,"When that was managed, the old woman took her daughter, put a cap on her, and laid her in the bed in the Queen's place, gave her also the Queen's form and countenance, only she could not restore the lost eye.",49,8,1084,0.2,216.8
+11,21,"So, in order that the King might not remark it, she had to lie on the side where there was no eye.",25,4,165,0.2,33.0
+11,21,"In the evening, when the King came home and heard that a little son was born to him, he rejoiced with all his heart, and was going at once to his dear wife's bedside to see how she did.",44,8,694,0.2,138.8
+11,21,"Then the old woman cried hastily, ""For your life, do not draw back the curtains, to let in the light upon her; she must be kept quiet.""",34,6,445,0.2,89.0
+11,21,"So the King went away, and never knew that a false Queen was lying in the bed.",19,4,126,0.2,25.200000000000003
+11,22,"Now, when it was midnight, and every one was asleep, the nurse, who was sitting by the cradle in the nursery and watching there alone, saw the door open, and the true Queen come in.",42,7,713,0.2,142.6
+11,22,"She took the child out of the cradle, laid it in her bosom, and fed it.",19,3,154,0.2,30.8
+11,22,"Then she shook out its little pillow, put the child back again, and covered it with the coverlet.",21,3,174,0.2,34.800000000000004
+11,22,"She did not forget the fawn either: she went to him where he lay in the corner, and stroked his back tenderly.",25,5,277,0.2,55.400000000000006
+11,22,"Then she went in perfect silence out at the door, and the nurse next morning asked the watchmen if any one had entered the castle during the night, but they said they had seen no one.",39,7,669,0.2,133.8
+11,23,"And the Queen came many nights, and never said a word; the nurse saw her always, but she did not dare speak of it to any one.",31,5,384,1.0,384.0
+11,24,"After some time had gone by in this manner, the Queen seemed to find voice, and said one night, ""My child my fawn twice more I come to see,Twice more I come, and then the end must be.""",47,9,952,1.0,952.0
+11,25,"The nurse said nothing, but as soon as the Queen had disappeared she went to the King and told him all.",23,5,213,0.2,42.6
+11,25,"The King said, ""Ah, heaven!",9,1,24,0.2,4.800000000000001
+11,25,what do I hear!,5,2,7,0.2,1.4000000000000001
+11,25,"I will myself watch by the child to-morrow night.""",11,1,39,0.2,7.800000000000001
+11,25,"So at evening he went into the nursery, and at midnight the Queen appeared, and said, ""My child my fawn once more I come to see,Once more I come, and then the end must be.""",44,8,864,0.2,172.8
+11,26,"And she tended the child, as she was accustomed to do, before she vanished.",17,5,108,0.5,54.0
+11,26,"The King dared not speak to her, but he watched again the following night, and heard her say, ""My child my fawn this once I come to see,This once I come, and now the end must be.""",46,7,949,0.5,474.5
+11,27,"Then the King could contain himself no longer, but rushed towards her, saying, ""You are no other than my dear wife!""",27,4,263,1.0,263.0
+11,28,"Then she answered, ""Yes, I am your dear wife,"" and in that moment, by the grace of heaven, her life returned to her, and she was once more well and strong.",40,4,706,0.5,353.0
+11,28,Then she told the King the snare that the wicked witch and her daughter had laid for her.,19,3,139,0.5,69.5
+11,29,"The King had them both brought to judgment, and sentence was passed upon them.",16,4,94,0.3333333333333333,31.333333333333332
+11,29,"The daughter was sent away into the wood, where she was devoured by the wild beasts, and the witch was burned, and ended miserably.",28,7,328,0.3333333333333333,109.33333333333333
+11,29,"And as soon as her body was in ashes the spell was removed from the fawn, and he took human shape again; and then the sister and brother lived happily together until the end.",37,5,486,0.3333333333333333,162.0
+12,1,"One summer morning a little tailor was sitting on his board near the window, and working cheerfully with all his might, when an old woman came down the street crying, ""Good jelly to sell!",39,5,549,0.3333333333333333,183.0
+12,1,"good jelly to sell!""",6,1,9,0.3333333333333333,3.0
+12,1,"The cry sounded pleasant in the little tailor's ears, so he put his head out of the window, and called out, ""Here, my good woman, come here, if you want a customer.""",42,5,783,0.3333333333333333,261.0
+12,2,"So the poor woman climbed the steps with her heavy basket, and was obliged to unpack and display all her pots to the tailor.",26,5,241,0.25,60.25
+12,2,"He looked at every one of them, and lifting all the lids, applied his nose to each, and said at last, ""The jelly seems pretty good; you may weigh me out four half ounces, or I don't mind having a quarter of a pound.""",54,9,1379,0.25,344.75
+12,2,"The woman, who had expected to find a good customer, gave him what he asked for, but went off angry and grumbling.",26,6,241,0.25,60.25
+12,2,"""This jelly is the very thing for me,"" cried the little tailor; ""it will give me strength and cunning; ""and he took down the bread from the cupboard, cut a whole round of the loaf, and spread the jelly on it, laid it near him, and went on stitching more gallantly than ever.",65,9,1897,0.25,474.25
+12,3,"All the while the scent of the sweet jelly was spreading throughout the room, where there were quantities of flies, who were attracted by it and flew to partake.",32,7,298,0.0625,18.625
+12,3,"""Now then, who asked you to come?""",11,2,30,0.0625,1.875
+12,3,"said the tailor, and drove the unbidden guests away.",11,2,55,0.0625,3.4375
+12,3,"But the flies, not understanding his language, were not to be got rid of like that, and returned in larger numbers than before.",27,5,246,0.0625,15.375
+12,3,"Then the tailor, not being able to stand it any longer, took from his chimney-corner a ragged cloth, and saying, ""Now, I'll let you have it!""",35,6,450,0.0625,28.125
+12,3,beat it among them unmercifully.,6,1,15,0.0625,0.9375
+12,3,"When he ceased, and counted the slain, he found seven lying dead before him.",17,4,108,0.0625,6.75
+12,3,"""This is indeed somewhat,"" he said, wondering at his own gallantry; ""the whole town shall know this.""",25,4,256,0.0625,16.0
+12,3,"So he hastened to cut out a belt, and he stitched it^ and put on it in large capitals ""Seven at one blow!""",27,4,303,0.0625,18.9375
+12,3,"""The town, did I say!""",9,2,20,0.0625,1.25
+12,3,"said the little tailor; ""the whole world shall know it!""",14,2,91,0.0625,5.6875
+12,3,"And his heart quivered with joy, like a lamb's tail.",13,1,51,0.0625,3.1875
+12,3,"The tailor fastened the belt round him, and began to think of going out into the world, for his workshop seemed too small for his worship.",29,6,354,0.0625,22.125
+12,3,"So he looked about in all the house for something that it would be useful to take with him, but he found nothing but an old cheese, which he put in his pocket.",36,5,564,0.0625,35.25
+12,3,"Outside the door he noticed that a bird had got caught in the bushes, so he took that and put it in his pocket with the cheese.",29,6,310,0.0625,19.375
+12,3,"Then he set out gallantly on his way, and as he was light and active he felt no fatigue.",21,3,174,0.0625,10.875
+12,4,"The way led over a mountain, and when he reached the topmost peak he saw a terrible giant sitting there, and looking about him at his ease.",30,5,381,0.25,95.25
+12,4,"The tailor went bravely up to him, called out to him, and said, ""Comrade, good day!",22,3,193,0.25,48.25
+12,4,there you sit looking over the wide world!,9,2,24,0.25,6.0
+12,4,"I am on the way thither to seek my fortune: have you a fancy to go with me?""",21,4,191,0.25,47.75
+12,5,"The giant looked at the tailor contemptuously, and said, ""You little rascal!",16,2,94,0.1,9.4
+12,5,"you miserable fellow!""",5,1,10,0.1,1.0
+12,5,"- ""That may be!""",7,1,13,0.1,1.3
+12,5,"answered the little tailor, and undoing his coat he showed the giant his belt; ""you can read there whether I am a man or not!""",30,5,435,0.1,43.5
+12,5,"The giant read: ""Seven at one blow!""",11,1,55,0.1,5.5
+12,5,"and thinking it meant men that the tailor had killed, felt at once more respect for the little fellow.",21,4,191,0.1,19.1
+12,5,"But as he wanted to prove him, he took up a stone and squeezed it so hard that water came out of it.",25,5,237,0.1,23.700000000000003
+12,5,"""Now you can do that,"" said the giant, ""that is, if you have the strength for it.""",25,4,220,0.1,22.0
+12,5,"""That's not much,"" said the little tailor, ""I call that play,"" and he put his hand in his pocket and took out the cheese and squeezed it, so that the whey ran out of it.",45,7,906,0.1,90.60000000000001
+12,5,"""Well,"" said he, ""what do you think of that?""",16,3,76,0.1,7.6000000000000005
+12,6,"The giant did not know what to say to it, for he could not have believed it of the little man.",23,5,213,0.07142857142857142,15.214285714285714
+12,6,Then the giant took up a stone and threw it so high that it was nearly out of sight.,20,3,142,0.07142857142857142,10.142857142857142
+12,6,"""Now, little fellow, suppose you do that!""",12,2,36,0.07142857142857142,2.571428571428571
+12,6,"""Well thrown,"" said the tailor; ""but the stone fell back to earth again, I will throw you one that will never come back.""",31,5,340,0.07142857142857142,24.285714285714285
+12,6,"So he felt in his pocket, took out the bird, and threw it into the air.",19,3,139,0.07142857142857142,9.928571428571429
+12,6,"And the bird, when it found itself at liberty, took wing, flew off, and returned no more.",22,4,141,0.07142857142857142,10.071428571428571
+12,6,"""What do you think of that, comrade?""",11,3,39,0.07142857142857142,2.7857142857142856
+12,6,asked the tailor.,4,1,6,0.07142857142857142,0.42857142857142855
+12,6,"""There is no doubt that you can throw,"" said the giant; ""but we will see if you can carry.""",26,5,279,0.07142857142857142,19.928571428571427
+12,6,"He led the little tailor to a mighty oak-tree which had been felled, and was lying on the ground, and said, ""Now, if you are strong enough, help me to carry this tree out of the wood.""",45,10,947,0.07142857142857142,67.64285714285714
+12,6,"""Willingly,"" answered the little man; ""you take the trunk on your shoulders, I will take the branches with all their foliage, that is much the most difficult.""",36,4,506,0.07142857142857142,36.14285714285714
+12,6,"So the giant took the trunk on his shoulders, and the tailor seated himself on a branch, and the giant, who could not see what he was doing, had the whole tree to carry, and the little man on it as well.",48,7,996,0.07142857142857142,71.14285714285714
+12,6,"And the little man was very cheerful and merry, and whistled the tune: ""There were three tailors riding by"" as if carrying the tree was mere child's play.",34,6,445,0.07142857142857142,31.785714285714285
+12,6,"The giant, when he had struggled on under his heavy load a part of the way, was tired out, and cried, ""Look here, I must let go the tree!""",37,8,511,0.07142857142857142,36.5
+12,7,"The tailor jumped off quickly, and taking hold of the tree with both arms, as if he were carrying it, said to the giant, ""You see you can't carry the tree though you are such a big fellow!""",46,8,949,1.0,949.0
+12,8,"They went on together a little farther, and presently they came to a cherry-tree, and the giant took hold of the topmost branches, where the ripest fruit hung, and pulling them downwards, gave them to the tailor to hold, bidding him eat.",49,7,1129,0.125,141.125
+12,8,"But the little tailor was much too weak to hold the tree, and as the giant let go, the tree sprang back, and the tailor was caught up into the air.",35,5,475,0.125,59.375
+12,8,"And when he dropped down again without any damage, the giant said to him, ""How is this?",21,3,159,0.125,19.875
+12,8,"haven't you strength enough to hold such a weak sprig as that?""",15,2,105,0.125,13.125
+12,8,"""It is not strength that is lacking,"" answered the little tailor; ""how should it to one who has slain seven at one blow!",29,6,354,0.125,44.25
+12,8,I just jumped over the tree because the hunters are shooting down there in the bushes.,17,3,108,0.125,13.5
+12,8,"You jump it too, if you can.""",10,1,37,0.125,4.625
+12,8,"The giant made the attempt, and not being able to vault the tree, he remained hanging in the branches, so that once more the little tailor got the better of him.",35,6,531,0.125,66.375
+12,9,"Then said the giant, ""As you are such a gallant fellow, suppose you come with me to our den, and stay the night.""",29,5,379,0.16666666666666666,63.166666666666664
+12,9,"The tailor was quite willing, and he followed him.",11,2,39,0.16666666666666666,6.5
+12,9,"When they reached the den there sat some other giants by the fire, and each had a roasted sheep in his hand, and was eating it.",29,5,354,0.16666666666666666,59.0
+12,9,"The little tailor looked round and thought, ""There is more elbow-room here than in my workshop.""",20,2,142,0.16666666666666666,23.666666666666664
+12,9,"And the giant showed him a bed, and told him he had better lie down upon it and go to sleep.",23,6,196,0.16666666666666666,32.666666666666664
+12,9,"The bed was, however, too big for the tailor, so he did not stay in it, but crept into a corner to sleep.",28,5,328,0.16666666666666666,54.666666666666664
+12,10,"As soon as it was midnight the giant got up, took a great staff of iron and beat the bed through with one stroke, and supposed he had made an end of that grasshopper of a tailor.",40,8,640,1.0,640.0
+12,11,"Very early in the morning the giants went into the wood and forgot all about the little tailor, and when they saw him coming after them alive and merry, they were terribly frightened, and, thinking he was going to kill them, they ran away in all haste.",53,11,1063,1.0,1063.0
+12,12,"So the little tailor marched on, always following his nose.",12,2,38,0.14285714285714285,5.428571428571428
+12,12,"And after he had gone a great way he entered the courtyard belonging to a King's palace, and there he felt so overpowered with fatigue that he lay down and fell asleep.",35,7,502,0.14285714285714285,71.71428571428571
+12,12,"In the meanwhile came various people, who looked at him very curiously, and read on his belt, ""Seven at one blow!""",27,3,282,0.14285714285714285,40.285714285714285
+12,12,"- ""Oh!""",5,1,10,0.14285714285714285,1.4285714285714284
+12,12,"said they, ""why should this great lord come here in time of peace?",16,1,120,0.14285714285714285,17.142857142857142
+12,12,"what a mighty champion he must be.""",9,1,24,0.14285714285714285,3.4285714285714284
+12,12,"Then they went and told the King about him, and they thought that if war should break out what a worthy and useful man he would be, and that he ought not to be allowed to depart at any price.",43,8,823,0.14285714285714285,117.57142857142857
+12,13,"The King then summoned his council, and sent one of his courtiers to the little tailor to beg him, so soon as he should wake up, to consent to serve in the King's army.",39,6,636,0.08333333333333333,53.0
+12,13,"So the messenger stood and waited at the sleeper's side until his limbs began to stretch, and his eyes to open, and then he carried his answer back.",32,6,412,0.08333333333333333,34.33333333333333
+12,13,"And the answer was, ""That was the reason for which I came,"" said the little tailor, ""I am ready to enter the King's service.""",33,6,441,0.08333333333333333,36.75
+12,13,"So he was received into it very honourably, and a separate dwelling set apart for him.",18,3,123,0.08333333333333333,10.25
+12,13,"But the rest of the soldiers were very much set against the little tailor, and they wished him a thousand miles away.",24,2,174,0.08333333333333333,14.5
+12,13,"""What shall be done about it?""",9,2,21,0.08333333333333333,1.75
+12,13,"they said among themselves; ""if we pick a quarrel and fight with him then seven of us will fall at each blow.",25,3,277,0.08333333333333333,23.083333333333332
+12,13,"That will be of no good to us.""",10,1,31,0.08333333333333333,2.583333333333333
+12,13,"So they came to a resolution, and went all together to the King to ask for their discharge.",20,3,156,0.08333333333333333,13.0
+12,13,"""We never intended,"" said they, ""to serve with a man who kills seven at a blow.""",23,4,196,0.08333333333333333,16.333333333333332
+12,13,"The King felt sorry to lose all his faithful servants because of one man, and he wished that he had never seen him, and would willingly get rid of him if he might.",36,6,564,0.08333333333333333,47.0
+12,13,"But he did not dare to dismiss the little tailor for fear he should kill all the King's people, and place himself upon the throne.",28,4,328,0.08333333333333333,27.333333333333332
+12,14,"He thought a long while about it, and at last made up his mind what to do.",19,3,154,0.2,30.8
+12,14,"He sent for the little tailor, and told him that as he was so great a warrior he had a proposal to make to him.",27,5,326,0.2,65.2
+12,14,"He told him that in a wood in his dominions dwelt two giants, who did great damage by robbery, murder, and fire, and that no man durst go near them for fear of his life.",40,4,742,0.2,148.4
+12,14,"But that if the tailor should overcome and slay both these giants the King would give him his only daughter in marriage, and half his kingdom as dowry, and that a hundred horsemen should go with him to give him assistance.",44,5,724,0.2,144.8
+12,14,"""That would be something for a man like me 1""thought the little tailor, ""a beautiful princess and half a kingdom are not to be had every day.""",34,5,471,0.2,94.2
+12,15,"And he said to the King, ""Oh yes, I can soon overcome the giants, and yet have no need of the hundred horsemen; he who can kill seven at one blow has no need to be afraid of two.""",46,7,949,1.0,949.0
+12,16,"So the little tailor set out, and the hundred horsemen followed him.",14,2,55,0.03125,1.71875
+12,16,"When he came to the border of the wood he said to his escort, ""Stay here while I go to attack the giants.""",27,4,303,0.03125,9.46875
+12,16,"Then he sprang into the wood, and looked about him right and left.",15,3,81,0.03125,2.53125
+12,16,"After a while he caught sight of the two giants; they were lying down under a tree asleep, and snoring so that all the branches shook.",29,4,310,0.03125,9.6875
+12,16,"The little tailor, all alive, filled both his pockets with stones and climbed up into the tree, and made his way to an overhanging bough, so that he could seat himself just above the sleepers; and from there he let one stone after another fall on the chest of one of the giants.",59,6,1354,0.03125,42.3125
+12,16,"For a long time the giant was quite unaware of this, but at last he waked up and pushed his comrade, and said, ""What are you hitting me for?""",35,6,427,0.03125,13.34375
+12,16,"""You are dreaming,"" said the other, ""I am not touching you.""",18,5,123,0.03125,3.84375
+12,16,"And they composed themselves again to sleep, and the tailor let fall a stone on the other giant.",20,4,156,0.03125,4.875
+12,16,"""What can that be?""",7,1,13,0.03125,0.40625
+12,16,"cried he, ""what are you casting at me?""",12,3,66,0.03125,2.0625
+12,16,"""I am casting nothing at you,"" answered the first, grumbling.",15,3,81,0.03125,2.53125
+12,16,"They disputed about it for a while, but as they were tired, they gave it up at last, and their eyes closed once more.",28,5,352,0.03125,11.0
+12,16,"Then the little tailor began his game anew, picked out a heavier stone and threw it down with force upon the first giant's chest.",27,3,263,0.03125,8.21875
+12,16,"""This is too much!""",7,1,13,0.03125,0.40625
+12,16,"cried he, and sprang up like a madman and struck his companion such a blow that the tree shook above them.",23,3,253,0.03125,7.90625
+12,16,"The other paid him back with ready coin, and they fought with such fury that they tore up trees by their roots to use for weapons against each other, so that at last they both of them lay dead upon the ground.",45,5,906,0.03125,28.3125
+12,16,And now the little tailor got down.,8,1,18,0.03125,0.5625
+12,16,"""Another piece of luck!""",7,1,21,0.03125,0.65625
+12,16,"said he, ""that the tree I was sitting in did not get torn up too, or else I should have had to jump like a squirrel from one tree to another.""",36,9,630,0.03125,19.6875
+12,16,"Then he drew his sword and gave each of the giants a few hacks in the breast, and went back to the horsemen and said, ""The deed is done, I have made an end of both of them: but it went hard with me, in the struggle they rooted up trees to defend themselves, but it was of no use, they had to do with a man who can kill seven at one blow.""",84,15,3324,0.03125,103.875
+12,16,"""Then are you not wounded?""",8,2,18,0.03125,0.5625
+12,16,asked the horsemen.,4,1,6,0.03125,0.1875
+12,16,"""Nothing of the sort!""",7,1,21,0.03125,0.65625
+12,16,"answered the tailor, ""I have not turned a hair.""",13,3,78,0.03125,2.4375
+12,16,"The horsemen still would not believe it, and rode into the wood to see, and there they found the giants wallowing in their blood, and all about them lying the uprooted trees.",36,6,480,0.03125,15.0
+12,16,"The little tailor then claimed the promised boon, but the King repented him of his offer, and he sought again how to rid himself of the hero.",30,4,335,0.03125,10.46875
+12,16,"""Before you can possess my daughter and the half of my kingdom,"" said he to the tailor, ""you must perform another heroic act.",29,3,310,0.03125,9.6875
+12,16,"In the wood lives a unicorn who does great damage; you must secure him.""",17,3,97,0.03125,3.03125
+12,16,"""A unicorn does not strike more terror into me than two giants.",14,2,61,0.03125,1.90625
+12,16,Seven at one blow!,5,1,10,0.03125,0.3125
+12,16,"- that is my way,"" was the tailor's answer.",13,2,58,0.03125,1.8125
+12,16,"So, taking a rope and an axe with him, he went out into the wood, and told those who were ordered to attend him to wait outside.",31,7,409,0.03125,12.78125
+12,17,"He had not far to seek, the unicorn soon came out and sprang at him, as if he would make an end of him without delay.",29,5,379,0.25,94.75
+12,17,"""Softly, softly,"" said he, ""most haste, worst speed,"" and remained standing until the animal came quite near, then he slipped quietly behind a tree.",35,5,427,0.25,106.75
+12,17,"The unicorn ran with all his might against the tree and stuck his horn so deep into the trunk that he could not get it out again, and so was taken.",33,4,297,0.25,74.25
+12,17,"""Now I have you,"" said the tailor, coming out from behind the tree, and, putting the rope round the unicorn's neck, he took the axe, set free the horn, and when all his party were assembled he led forth the animal and brought it to the King.",58,12,1491,0.25,372.75
+12,18,"The King did not yet wish to give him the promised reward, and set him a third task to do.",22,5,193,0.2,38.6
+12,18,Before the wedding could take place the tailor was to secure a wild boar which had done a great deal of damage in the wood.,26,5,241,0.2,48.2
+12,18,The huntsmen were to accompany him.,7,2,13,0.2,2.6
+12,18,"""All right,"" said the tailor, ""this is child's play.""",17,2,81,0.2,16.2
+12,18,"But he did not take the huntsmen into the wood, and they were all the better pleased, for the wild boar had many a time before received them in such a way that they had no fancy to disturb him.",43,7,823,0.2,164.60000000000002
+12,19,"When the boar caught sight of the tailor he ran at him with foaming mouth and gleaming tusks to bear him to the ground, but the nimble hero rushed into a chapel which chanced to be near, and jumped quickly out of a window on the other side.",51,9,1134,0.2,226.8
+12,19,"The boar ran after him, and when he got inside the door shut after him, and there he was imprisoned, for the creature was too big and unwieldy to jump out of the window too.",39,6,669,0.2,133.8
+12,19,"Then the little tailor called the huntsmen that they might see the prisoner with their own eyes; and then he betook himself to the king, who now, whether he liked it or not, was obliged to fulfil his promise, and give him his daughter and the half of his kingdom.",56,8,1336,0.2,267.2
+12,19,But if he had known that the great warrior was only a little tailor he would have taken it still more to heart.,24,5,216,0.2,43.2
+12,19,"So the wedding was celebrated with great splendour and little joy, and the tailor was made into a king.",21,4,159,0.2,31.8
+12,20,"One night the young queen heard her husband talking in his sleep and saying, ""Now boy, make me that waistcoat and patch me those breeches, or I will lay my yard measure about your shoulders!""",41,6,564,0.2,112.80000000000001
+12,20,"And so, as she perceived of what low birth her husband was, she went to her father the next morning and told him all, and begged him to set her free from a man who was nothing better than a tailor.",45,7,795,0.2,159.0
+12,20,"The king bade her be comforted, saying, ""To-night leave your bedroom door open, my guard shall stand outside, and when he is asleep they shall come in and bind him and carry him off to a ship, and he shall be sent to the other side of the world.""",57,12,1488,0.2,297.6
+12,20,"So the wife felt consoled, but the king's water-bearer, who had been listening all the while, went to the little tailor and disclosed to him the whole plan.",33,6,441,0.2,88.2
+12,20,"""I shall put a stop to all this,"" said he.",14,2,61,0.2,12.200000000000001
+12,21,"At night he lay down as usual in bed, and when his wife thought that he was asleep, she got up, opened the door and lay down again.",32,6,412,0.2,82.4
+12,21,"The little tailor, who only made believe to be asleep, began to murmur plainly, ""Now, boy, make me that waistcoat and patch me those breeches, or I will lay my yard measure about your shoulders!",43,7,687,0.2,137.4
+12,21,"I have slain seven at one blow, killed two giants, caught a unicorn, and taken a wild boar, and shall I be afraid of those who are standing outside my room door?""",38,9,667,0.2,133.4
+12,21,"And when they heard the tailor say this, a great fear seized them; they fled away as if they had been wild hares, and none of them would venture to attack him.",36,7,534,0.2,106.80000000000001
+12,21,And so the little tailor all his lifetime remained a king.,12,1,42,0.2,8.4
+13,1,"Hard by a great forest dwelt a wood-cutter with his wife, who had an only child, a little girl three years old.",25,2,205,0.041666666666666664,8.541666666666666
+13,1,"They were so poor, however, that they no longer had daily bread, and did not know how to get food for her.",26,5,301,0.041666666666666664,12.541666666666666
+13,1,"One morning the wood-cutter went out sorrowfully to his work in the forest, and while he was cutting wood, suddenly there stood before him a tall and beautiful woman with a crown of shining stars on her head, who said to him: ""I am the Virgin Mary, mother of the child Jesus.",59,7,1495,0.041666666666666664,62.291666666666664
+13,1,"Thou art poor and needy, bring thy child to me, I will take her with me and be her mother, and care for her.""",29,3,274,0.041666666666666664,11.416666666666666
+13,1,"The wood-cutter obeyed, brought his child, and gave her to the Virgin Mary, who took her up to heaven with her.",25,4,220,0.041666666666666664,9.166666666666666
+13,1,"There the child fared well, ate sugar-cakes, and drank sweet milk, and her clothes were of gold, and the little angels played with her.",29,3,331,0.041666666666666664,13.791666666666666
+13,1,"And when she was fourteen years of age, the Virgin Mary called her one day and said: ""Dear child, I am about to make a long journey, so take into thy keeping the keys of the thirteen doors of heaven.",46,7,909,0.041666666666666664,37.875
+13,1,"Twelve of these thou mayest open, and behold the glory which is within them, but the thirteenth, to which this little key belongs, is forbidden thee.",31,3,289,0.041666666666666664,12.041666666666666
+13,1,"Beware of opening it, or thou wilt bring misery on thyself.""",14,2,69,0.041666666666666664,2.875
+13,1,"The girl promised to be obedient, and when the Virgin Mary was gone, she began to examine the dwellings of the kingdom of heaven.",27,6,303,0.041666666666666664,12.625
+13,1,"Each day she opened one of them, until she had made the round of the twelve.",18,3,111,0.041666666666666664,4.625
+13,1,"In each of them sat one of the Apostles in the midst of a great light, and she rejoiced in all the magnificence and splendour, and the little angels who always accompanied her rejoiced with her.",39,3,605,0.041666666666666664,25.208333333333332
+13,1,"Then the forbidden door alone remained, and she felt a great desire to know what could be hidden behind it, and said to the angels: ""I will not quite open it, and I will not go inside it, but I will unlock it so that we can just see a little through the opening.""",62,9,1611,0.041666666666666664,67.125
+13,1,"- ""Oh no,"" said the little angels, ""that would be a sin.",18,2,87,0.041666666666666664,3.625
+13,1,"The Virgin Mary has forbidden it, and it might easily cause thy unhappiness.""",16,3,84,0.041666666666666664,3.5
+13,1,"Then she was silent, but the desire in her heart was not stilled, but gnawed there and tormented her, and let her have no rest.",29,7,354,0.041666666666666664,14.75
+13,1,"And once when the angels had all gone out, she thought: ""Now I am quite alone, and I could peep in.",26,5,225,0.041666666666666664,9.375
+13,1,"If I do it, no one will ever know.""",12,2,48,0.041666666666666664,2.0
+13,1,"She sought out the key, and when she had got it in her hand, she put it in the lock, and when she had put it in, she turned it round as well.",38,7,667,0.041666666666666664,27.791666666666664
+13,1,"Then the door sprang open, and she saw there the Trinity sitting in fire and splendour.",18,2,81,0.041666666666666664,3.375
+13,1,"She stayed there awhile, and looked at everything in amazement; then she touched the light a little with her finger, and her finger became quite golden.",30,4,407,0.041666666666666664,16.958333333333332
+13,1,Immediately a great fear fell on her.,8,1,16,0.041666666666666664,0.6666666666666666
+13,1,"She shut the door violently, and ran away.",10,2,37,0.041666666666666664,1.5416666666666665
+13,1,"Her terror too would not quit her, let her do what she might, and her heart beat continually and would not be still; the gold too stayed on her finger, and would not go away, let her rub it and wash it never so much.",51,9,1050,0.041666666666666664,43.75
+13,2,It was not long before the Virgin Mary came back from her journey.,14,2,79,0.1,7.9
+13,2,"She called the girl before her, and asked to have the keys of heaven back.",17,3,121,0.1,12.100000000000001
+13,2,"When the maiden gave her the bunch, the Virgin looked into her eyes and said: ""Hast thou not opened the thirteenth door also?""",28,4,306,0.1,30.6
+13,2,"- ""No,"" she replied.",8,1,22,0.1,2.2
+13,2,"Then she laid her hand on the girl's heart, and felt how it beat and beat, and saw right well that she had disobeyed her order and had opened the door.",35,8,531,0.1,53.1
+13,2,"Then she said once again: ""Art thou certain that thou hast not done it?""",18,2,123,0.1,12.3
+13,2,"- ""Yes,"" said the girl, for the second time.",14,1,51,0.1,5.1000000000000005
+13,2,"Then she perceived the finger which had become golden from touching the fire of heaven, and saw well that the child had sinned, and said for the third time: ""Hast thou not done it?""",40,9,706,0.1,70.60000000000001
+13,2,"- ""No,"" said the girl for the third time.",13,1,43,0.1,4.3
+13,2,"Then said the Virgin Mary: ""Thou hast not obeyed me, and besides that thou hast lied, thou art no longer worthy to be in heaven.""",31,5,436,0.1,43.6
+13,3,"Then the girl fell into a deep sleep, and when she awoke she lay on the earth below, and in the midst of a wilderness.",28,3,306,0.08333333333333333,25.5
+13,3,"She wanted to cry out, but she could bring forth no sound.",14,3,79,0.08333333333333333,6.583333333333333
+13,3,"She sprang up and wanted to run away, but whithersoever she turned herself, she was continually held back by thick hedges of thorns through which she could not break.",32,7,466,0.08333333333333333,38.83333333333333
+13,3,"In the desert, in which she was imprisoned, there stood an old hollow tree, and this had to be her dwelling-place.",25,5,181,0.08333333333333333,15.083333333333332
+13,3,"Into this she crept when night came, and here she slept.",13,3,51,0.08333333333333333,4.25
+13,3,"Here, too, she found a shelter from storm and rain, but it was a miserable life, and bitterly did she weep when she remembered how happy she had been in heaven, and how the angels had played with her.",45,9,795,0.08333333333333333,66.25
+13,3,"Roots and wild berries were her only food, and for these she sought as far as she could go.",21,3,146,0.08333333333333333,12.166666666666666
+13,3,"In the autumn she picked up the fallen nuts and leaves, and carried them into the hole.",19,3,115,0.08333333333333333,9.583333333333332
+13,3,"The nuts were her food in winter, and when snow and ice came, she crept amongst the leaves like a poor little animal that she might not freeze.",31,4,409,0.08333333333333333,34.08333333333333
+13,3,"Before long her clothes were all torn, and one bit of them after another fell off her.",19,3,115,0.08333333333333333,9.583333333333332
+13,3,"As soon, however, as the sun shone warm again, she went out and sat in front of the tree, and her long hair covered her on all sides like a mantle.",36,3,344,0.08333333333333333,28.666666666666664
+13,3,"Thus she sat year after year, and felt the pain and the misery of the world.",18,2,123,0.08333333333333333,10.25
+13,4,"One day, when the trees were once more clothed in fresh green, the King of the country was hunting in the forest, and followed a roe, and as it had fled into the thicket which shut in this part of the forest, he got off his horse, tore the bushes asunder, and cut himself a path with his sword.",67,8,1851,0.1111111111111111,205.66666666666666
+13,4,"When he had at last forced his way through, he saw a wonderfully beautiful maiden sitting under the tree; and she sat there and was entirely covered with her golden hair down to her very feet.",39,7,669,0.1111111111111111,74.33333333333333
+13,4,"He stood still and looked at her full of surprise, then he spoke to her and said: ""Who art thou?",24,5,254,0.1111111111111111,28.22222222222222
+13,4,"Why art thou sitting here in the wilderness?""",10,1,27,0.1111111111111111,3.0
+13,4,"But she gave no answer, for she could not open her mouth.",14,2,69,0.1111111111111111,7.666666666666666
+13,4,"The King continued: ""Wilt thou go with me to my castle?""",15,2,81,0.1111111111111111,9.0
+13,4,Then she just nodded her head a little.,9,1,21,0.1111111111111111,2.333333333333333
+13,4,"The King took her in his arms, carried her to his horse, and rode home with her, and when he reached the royal castle he caused her to be dressed in beautiful garments, and gave her all things in abundance.",45,8,906,0.1111111111111111,100.66666666666666
+13,4,"Although she could not speak, she was still so beautiful and charming that he began to love her with all his heart, and it was not long before he married her.",34,7,445,0.1111111111111111,49.44444444444444
+13,5,"After a year or so had passed, the Queen brought a son into the world.",17,3,81,0.2,16.2
+13,5,"Thereupon the Virgin Mary appeared to her in the night when she lay in her bed alone, and said: ""If thou wilt tell the truth and confess that thou didst unlock the forbidden door, I will open thy mouth and give thee back thy speech, but if thou perseverest in thy sin, and deniest obstinately, I will take thy new-born child away with me.""",73,7,2356,0.2,471.20000000000005
+13,5,"Then the queen was permitted to answer, but she remained hard, and said: ""No, I did not open the forbidden door,"" and the Virgin Mary took the new-born child from her arms, and vanished with it.",45,9,867,0.2,173.4
+13,5,"Next morning when the child was not to be found, it was whispered among the people that the Queen was a man-eater, and had killed her own child.",31,8,340,0.2,68.0
+13,5,"She heard all this and could say nothing to the contrary, but the King would not believe it, for he loved her so much.",27,4,326,0.2,65.2
+13,6,"When a year had gone by the Queen again bore a son, and in the night the Virgin Mary again came to her, and said: ""If thou wilt confess that thou openedst the forbidden door, I will give thee thy child back and untie thy tongue; but if you continuest in sin and deniest it, I will take away with me this new child also.""",74,10,2491,0.25,622.75
+13,6,"Then the Queen again said: ""No, I did not open the forbidden door;"" and the Virgin took the child out of her arms, and away with her to heaven.",36,5,506,0.25,126.5
+13,6,"Next morning, when this child also had disappeared, the people declared quite loudly that the Queen had devoured it, and the King's councillors demanded that she should be brought to justice.",36,8,434,0.25,108.5
+13,6,"The King, however, loved her so dearly that he would not believe it, and commanded the councillors under pain of death not to say any more about it.",32,4,366,0.25,91.5
+13,7,"The following year the Queen gave birth to a beautiful little daughter, and for the third time the Virgin Mary appeared to her in the night and said: ""Follow me.""",35,3,450,0.16666666666666666,75.0
+13,7,"She took the Queen by the hand and led her to heaven, and showed her there her two eldest children, who smiled at her, and were playing with the ball of the world.",37,7,631,0.16666666666666666,105.16666666666666
+13,7,"When the Queen rejoiced thereat, the Virgin Mary said: ""Is thy heart not yet softened?",19,4,126,0.16666666666666666,21.0
+13,7,"If thou wilt own that thou openedst the forbidden door, I will give thee back thy two little sons.""",22,2,193,0.16666666666666666,32.166666666666664
+13,7,"But for the third time the Queen answered: ""No, I did not open the forbidden door.""",21,3,119,0.16666666666666666,19.833333333333332
+13,7,"Then the Virgin let her sink down to earth once more, and took from her likewise her third child.",21,4,159,0.16666666666666666,26.5
+13,8,"Next morning, when the loss was reported abroad, all the people cried loudly: ""The Queen is a man-eater.",23,4,157,0.14285714285714285,22.428571428571427
+13,8,"She must be judged,"" and the King was no longer able to restrain his councillors.",18,4,123,0.14285714285714285,17.57142857142857
+13,8,"Thereupon a trial was held, and as she could not answer, and defend herself, she was condemned to be burnt alive.",25,7,237,0.14285714285714285,33.857142857142854
+13,8,"The wood was got together, and when she was fast bound to the stake, and the fire began to burn round about her, the hard ice of pride melted, her heart was moved by repentance, and she thought: ""If I could but confess before my death that I opened the door.""",60,12,1656,0.14285714285714285,236.57142857142856
+13,8,"Then her voice came back to her, and she cried out loudly: ""Yes, Mary, I did it,"" and straight-way rain fell from the sky and extinguished the flames of fire, and a light broke forth above her, and the Virgin Mary descended with the two little sons by her side, and the new-born daughter in her arms.",68,6,2086,0.14285714285714285,298.0
+13,8,"She spoke kindly to her, and said: ""He who repents his sin and acknowledges it, is forgiven.""",23,6,232,0.14285714285714285,33.14285714285714
+13,8,"Then she gave her the three children, untied her tongue, and granted her happiness for her whole life.",21,3,174,0.14285714285714285,24.857142857142854
+14,1,An old woman lived in a village.,8,1,16,0.05,0.8
+14,1,"She had gathered a serving of beans and wanted to cook them, so she prepared a fire in her fireplace.",22,5,211,0.05,10.55
+14,1,To make it burn faster she lit it with a handful of straw.,14,3,79,0.05,3.95
+14,1,"While she was pouring the beans into the pot, one of them fell unnoticed to the floor, coming to rest next to a piece of straw.",29,5,354,0.05,17.7
+14,1,Soon afterward a glowing coal jumped out of the fireplace and landed next to them.,16,2,70,0.05,3.5
+14,1,"The straw said, ""Dear friends, where do you come from?""",15,3,81,0.05,4.05
+14,1,"The coal answered, ""I jumped from the fireplace, to my good fortune.",16,2,94,0.05,4.7
+14,1,"If I had not forced my way out, I surely would have died.",15,4,81,0.05,4.05
+14,1,"I would have burned to ash.""",8,3,18,0.05,0.9
+14,1,"The bean said, ""I too saved my skin.",11,2,39,0.05,1.9500000000000002
+14,1,"If the old woman had gotten me into the pot I would have been cooked to mush without mercy, just like my comrades.""",26,6,241,0.05,12.05
+14,1,"- ""Would my fate have been any better?""",11,2,30,0.05,1.5
+14,1,said the straw.,4,1,6,0.05,0.30000000000000004
+14,1,"""The old woman sent all my brothers up in fire and smoke.",14,1,55,0.05,2.75
+14,1,She grabbed sixty at once and killed them.,9,2,29,0.05,1.4500000000000002
+14,1,"Fortunately I slipped through her fingers.""",8,1,18,0.05,0.9
+14,1,"- ""What should we do now?""",9,1,21,0.05,1.05
+14,1,asked the coal.,4,1,6,0.05,0.30000000000000004
+14,1,"""Because we have so fortunately escaped death,"" answered the bean, ""I think that we should join together as comrades.",25,4,237,0.05,11.850000000000001
+14,1,"To prevent some new misfortune from befalling us here, let us together make our way to another land.""",21,4,191,0.05,9.55
+14,2,"This proposal pleased the other two, and they set forth all together.",14,2,69,0.07692307692307693,5.307692307692308
+14,2,"They soon came to a small brook, and because there was neither a bridge nor a walkway there, they did not know how they would get across it.",31,5,409,0.07692307692307693,31.461538461538463
+14,2,"Then the straw had a good idea, and said, ""I will lay myself across it, and you can walk across me like on a bridge.""",31,4,384,0.07692307692307693,29.53846153846154
+14,2,So the straw stretched himself from one bank to the other.,12,1,42,0.07692307692307693,3.230769230769231
+14,2,"The coal, who was a hot-headed fellow, stepped brashly onto the newly constructed bridge, but when he got to the middle and heard the water rushing beneath him, he took fright, stopped, and did not dare to go any further.",47,11,913,0.07692307692307693,70.23076923076924
+14,2,"Then the straw caught fire, broke into two pieces, and fell into the brook.",17,2,76,0.07692307692307693,5.846153846153847
+14,2,"The coal slid after him, hissed as he fell into the water, and gave up the ghost.",20,4,156,0.07692307692307693,12.0
+14,2,The bean who had cautiously stayed behind on the bank had to laugh at the event.,17,4,97,0.07692307692307693,7.461538461538462
+14,2,"He could not stop, and he laughed so fiercely that he burst.",14,3,61,0.07692307692307693,4.6923076923076925
+14,2,"Now he too would have died, but fortunately a wandering tailor was there, resting near the brook.",20,4,130,0.07692307692307693,10.0
+14,2,"Having a compassionate heart, he got out a needle and thread and sewed the bean back together.",19,3,171,0.07692307692307693,13.153846153846155
+14,2,The bean thanked him most kindly.,7,1,13,0.07692307692307693,1.0
+14,2,"However, because he had used black thread, since that time all beans have had a black seam.",20,4,130,0.07692307692307693,10.0

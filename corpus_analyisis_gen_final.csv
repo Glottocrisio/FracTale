@@ -1,5 +1,0 @@
-,num_sentences_best_H,avg_episode_length_best_H,avg_sentence_length_best_H,avg_clause_length_best_H,Average_Eventfulness_best_H,ks_stat_num_clauses_vs_avg_dep_distance_sentence,ks_stat_avg_sentence_length_vs_avg_dep_distance_episode,ks_stat_avg_sentence_length_vs_Average_Eventfulness,ks_stat_avg_clause_length_vs_avg_dep_distance_episode,ks_stat_avg_dep_distance_episode_vs_Average_Eventfulness
-it,0.3,0.5,0.8,0.2,0.3,0.44,0.37,0.2,0.28,0.28
-es,,,,,,,,,,
-de,0.7,0.4,0.8,0.4,0.5,0.4,0.16,0.28,0.28,0.12
-en,,,,,,,,,,

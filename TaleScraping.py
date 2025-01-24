@@ -23,18 +23,15 @@ def scrape_tale(url, lang):
     title = soup.find('h2', class_="title").text.strip()
     content_div = soup.find('div', itemprop="text")
 
-    # Replace <br> tags with newlines
     for br in content_div.find_all("br"):
         br.replace_with("\n")
 
-    # Process each paragraph/episode
     episodes = []
     for p in content_div.find_all(['p', 'div']):
         text = p.get_text(strip=True)
         if text:
             episodes.append(text)
 
-    # Merge episodes starting with quotes
     merged_episodes = []
     for episode in episodes:
         if episode.startswith('"') and merged_episodes:
@@ -59,14 +56,11 @@ def save_tales(tales, lang):
 tales=[f'grimm_tales_{lang}.txt' for lang in ['de', 'es', 'it']]
 
 for tale in tales:
-# Read the truncated text
     with open(tale, 'r', encoding='utf-8') as file:
         content = file.read()
 
-    # Pattern to match titles
     titles = re.findall(r'Tale \d+: (.*?)\n', content)
 
-    # Display the extracted titles
     print(titles)
 
 

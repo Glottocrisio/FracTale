@@ -1,0 +1,891 @@
+tale_id,num_episodes,num_sentences,num_clauses,num_words,avg_episode_length,avg_sentence_length,avg_clause_length,avg_dep_distance_clause,avg_dep_distance_sentence,avg_dep_distance_episode,Average_Eventfulness,Average_I,CLI
+1,2,23,146,952,317.3333333333333,41.391304347826086,6.52054794520548,1.8767123287671232,11.91304347826087,91.33333333333333,0.13043478260869565,1.553875236294896,9.13653846153846
+2,6,37,243,1838,262.57142857142856,49.67567567567568,7.563786008230453,1.3786008230452675,9.054054054054054,47.857142857142854,0.1891891891891892,1.712929145361578,9.164921465968582
+3,2,34,225,1476,492.0,43.411764705882355,6.56,2.2711111111111113,15.029411764705882,170.33333333333334,0.08823529411764706,1.3261245674740485,9.10455813953488
+4,1,57,360,2530,1265.0,44.3859649122807,7.027777777777778,0.6111111111111112,3.8596491228070176,110.0,0.03508771929824561,0.13542628501077253,8.324279398762155
+5,4,80,489,3458,691.6,43.225,7.071574642126789,0.4723926380368098,2.8875,46.2,0.0625,0.18046875,7.934066570188136
+6,5,47,317,2190,365.0,46.59574468085106,6.908517350157728,3.1545741324921135,21.27659574468085,166.66666666666666,0.1276595744680851,2.7161611588954275,8.916725388601037
+7,5,55,347,2294,382.3333333333333,41.70909090909091,6.610951008645533,2.7146974063400577,17.12727272727273,157.0,0.10909090909090909,1.8684297520661157,8.707186147186142
+8,9,124,892,6214,621.4,50.11290322580645,6.966367713004484,0.32062780269058294,2.306451612903226,28.6,0.08064516129032258,0.1860041623309053,8.514591291061876
+9,12,209,1165,7792,599.3846153846154,37.282296650717704,6.688412017167382,0.11158798283261803,0.6220095693779905,10.0,0.06220095693779904,0.03868959043977931,7.39042647994907
+10,1,60,495,3832,1916.0,63.86666666666667,7.7414141414141415,1.1292929292929292,9.316666666666666,279.5,0.03333333333333333,0.31055555555555553,7.1150295857988155
+11,8,67,461,3356,372.8888888888889,50.08955223880597,7.279826464208243,0.6203904555314533,4.268656716417911,31.77777777777778,0.13432835820895522,0.5734016484740477,8.62848066298342
+12,10,83,550,3916,356.0,47.18072289156626,7.12,0.4,2.6506024096385543,20.0,0.13253012048192772,0.35128465669908554,9.224925462134763
+,,,,,,,,,,,,,
+tale_id,episode_id,sentence,num_words,num_clauses,dep_distance,Eventfulness,I
+1,1,In un villaggio abitava una povera vecchia che aveva raccolto un piatto di fagioli e voleva cuocerli.,18,3,153,0.07692307692307693,11.76923076923077
+1,1,"Preparo dunque il fuoco nel camino, e perché ardesse in fretta l'accese con una manciata di paglia.",19,4,171,0.07692307692307693,13.153846153846155
+1,1,"Mentre versava i fagioli nella pentola, gliene sfuggi inavvertitamente uno, che cadde a terra accanto a una pagliuzza; e subito un pezzo di carbone ardente salto anch'esso dal focolare accanto a loro.",36,7,534,0.07692307692307693,41.07692307692308
+1,1,"Allora la pagliuzza disse: ""Cari amici, donde venite?""",13,3,51,0.07692307692307693,3.9230769230769234
+1,1,"Rispose il carbone: ""Per buona sorte sono fuggito dal fuoco, e se non ci fossi riuscito a viva forza, era morte sicura:sarei stato incenerito.""",32,8,466,0.07692307692307693,35.84615384615385
+1,1,"Disse il fagiolo: ""Anch'io l'ho scampata, ma se la vecchia mi avesse messo in pentola, sarei stato ridotto in pappa senza pietà, come i miei compagni.",32,8,388,0.07692307692307693,29.846153846153847
+1,1,"E a me forse sarebbe toccato miglior destino?""",10,2,45,0.07692307692307693,3.4615384615384617
+1,1,Disse la pagliuzza.,4,1,6,0.07692307692307693,0.46153846153846156
+1,1,"""Tutte le mie sorelle distrusse la vecchia nel fuoco e nel fumo; sessanta in una volta ne ha ghermite e uccise.",24,4,144,0.07692307692307693,11.076923076923077
+1,1,"Per fortuna le scivolai tra le dita.""",9,2,36,0.07692307692307693,2.769230769230769
+1,1,"- ""Ma ora che faremo?""",8,4,16,0.07692307692307693,1.2307692307692308
+1,1,disse il carbone.,4,1,6,0.07692307692307693,0.46153846153846156
+1,1,"""Poiché per nostra ventura siamo siamo fuggiti alla morte, penso che dobbiamo aiutarci da buoni compagni e, perché non ci colga una nuova disgrazia, emigrare insieme in paese straniero.""",35,9,595,0.07692307692307693,45.769230769230774
+1,2,La proposta piacque agli altri due e s'incamminarono.,9,2,36,0.1,3.6
+1,2,"Ma ben presto giunsero a un piccolo ruscello e, siccome non c'era ponte ne passerella, non sapevano come attraversarlo.",22,6,177,0.1,17.7
+1,2,"La pagliuzza ebbe una buon'idea e disse: ""Mi stenderò di traverso: cosi potrete passare come su un ponte.""",23,5,168,0.1,16.8
+1,2,E si stese da una riva all'altra.,8,2,22,0.1,2.2
+1,2,"Il carbone, focoso di natura, sgambetto arditamente sul ponte di nuova costruzione; ma quando fu a mezza strada e senti l'acqua rumoreggiare di sotto, ebbe paura:si fermo e non osava più andare avanti.",40,10,412,0.1,41.2
+1,2,"Ma la pagliuzza prese fuoco, si ruppe in due pezzi e cadde nel ruscello; il carbone le scivolo dietro w, sibilo a contatto con l'acqua e spiro.",31,7,409,0.1,40.900000000000006
+1,2,"Al fagiolo, rimasto prudentemente a riva, venne da ridere di quell'avventura, e rise cosi forte, senza potersi frenare, che alla fine scoppio.",28,8,286,0.1,28.6
+1,2,"Anch'esso, dunque, era bello e spacciato, se un sarto, in giro per il mondo, non si fosse per buona sorte riposato accanto al ruscelo.",30,10,435,0.1,43.5
+1,2,"Siccome era di buon cuore, tiro fuori ago e filo e lo ricuci.",15,4,105,0.1,10.5
+1,2,"Il fagiolo lo ringrazio caldamente;ma poiché il sarto aveva usato filo nero, da quel giorno tutti i fagioli hanno una cucitura nera.",26,5,199,0.1,19.900000000000002
+2,1,"C'era una volta una ragazza pigra che non voleva filare; la madre poteva dire qualunque cosa, ma non riusciva a persuaderla.",24,6,216,0.3333333333333333,72.0
+2,1,"Un giorno la madre andò in collera e le scappò la pazienza, cosicché‚ la picchiò, ed ella incominciò a piangere forte.",24,4,200,0.3333333333333333,66.66666666666666
+2,1,"In quel momento passava di lì la regina, e quando sentì piangere fece fermare la carrozza, entrò in casa e domandò alla madre perché‚ picchiasse sua figlia, dato che si sentivano le grida da fuori.",39,9,741,0.3333333333333333,247.0
+2,2,"Allora la donna si vergognò di dover rivelare la pigrizia di sua figlia e disse: ""Non posso staccarla dal filatoio, vuole sempre e soltanto filare e io sono povera e non posso procurarle il lino.""",40,7,780,0.2,156.0
+2,2,"- ""Ah,"" rispose la regina, ""non c'è cosa che mi faccia più piacere del sentir filare e nulla mi rallegra di più del ronzio delle ruote: datemi vostra figlia, la porterò al castello; ho lino a sufficienza perché‚ fili quanto ne ha voglia.""",55,9,1240,0.2,248.0
+2,2,La madre acconsentì di cuore e la regina si prese la ragazza.,13,2,78,0.2,15.600000000000001
+2,2,"Quando giunsero al castello, la condusse su in tre stanze piene da cima a fondo del più bel lino.",21,3,210,0.2,42.0
+2,2,"""Filami questo lino,"" disse, ""e quando avrai finito sposerai il mio figlio maggiore; anche se sei povera, non importa: il tuo zelo infaticabile è una dote sufficiente.""",37,9,346,0.2,69.2
+2,3,"La fanciulla inorridì in cuor suo poiché‚ non avrebbe potuto filare quel lino nemmeno se fosse vissuta trecento anni, seduta là ogni giorno da mane a sera.",29,3,406,0.25,101.5
+2,3,"Quando fu sola incominciò a piangere, e così rimase tre giorni senza muovere un dito.",17,5,97,0.25,24.25
+2,3,"Il terzo giorno venne la regina e quando vide che non aveva ancora filato niente si meravigliò, ma la fanciulla si scusò dicendo che non aveva potuto cominciare per la grande tristezza di essere lontana dalla casa di sua madre.",42,9,861,0.25,215.25
+2,3,"La regina accettò la scusa, ma andandosene disse: ""Domani però devi incominciare a lavorare.""",19,4,154,0.25,38.5
+2,4,"Quando la fanciulla fu di nuovo sola, non sapeva più a che santo votarsi e, triste, andò alla finestra.",23,7,253,0.09090909090909091,23.0
+2,4,"Vide avvicinarsi tre donne: la prima aveva un gran piedone, la seconda aveva il labbro inferiore così grosso che arrivava a coprirle il mento, e la terza un gran pollice largo.",35,8,322,0.09090909090909091,29.272727272727273
+2,4,"Quando furono davanti alla finestra, si fermarono, guardarono in su e offrirono il loro aiuto alla ragazza dicendo: ""Se ci inviterai a nozze, se non ti vergognerai di noi, se ci chiamerai cugine e ci farai sedere alla tua tavola, ti fileremo tutto il lino in poco tempo.""",57,13,1596,0.09090909090909091,145.0909090909091
+2,4,"- ""Di gran cuore!""",7,2,21,0.09090909090909091,1.9090909090909092
+2,4,rispose la fanciulla.,4,1,6,0.09090909090909091,0.5454545454545454
+2,4,"""Entrate pure e incominciate subito il lavoro.""",10,2,45,0.09090909090909091,4.090909090909091
+2,4,"Introdusse quelle strane donne nella prima stanza, fece un po' di spazio ed esse vi si accomodarono e presero a filare.",24,4,276,0.09090909090909091,25.09090909090909
+2,4,"La prima traeva il filo e calcava la ruota, la seconda lo inumidiva, la terza lo torceva e batteva con il dito sulla tavola e ogni volta che essa batteva, cadeva a terra una quantità di filato sottilissimo.",42,9,821,0.09090909090909091,74.63636363636364
+2,4,"Alla regina la fanciulla nascondeva le tre filatrici, e quando essa veniva le mostrava il mucchio di filato, tanto che la regina non smetteva più di lodarla.",30,6,435,0.09090909090909091,39.54545454545455
+2,4,"Quando la prima camera fu vuota, fu la volta della seconda, poi della terza, e ben presto fu sgombrata anche questa.",25,7,300,0.09090909090909091,27.272727272727273
+2,4,"Allora le tre donne presero congedo e dissero alla fanciulla: ""Non dimenticare quel che ci hai promesso: sarà la tua fortuna.""",26,5,325,0.09090909090909091,29.545454545454547
+2,5,"Quando la fanciulla mostrò alla regina le stanze vuote e il gran mucchio di filato, questa preparò le nozze; lo sposo era contento di avere una moglie così abile e diligente e la lodava.",37,8,358,0.25,89.5
+2,5,"""Ho tre cugine,"" disse la fanciulla.",10,2,27,0.25,6.75
+2,5,"""Sono state molto buone con me e io non vorrei dimenticarle nella mia felicità: permettete che le inviti a nozze e che siedano alla nostra tavola?""",30,6,281,0.25,70.25
+2,5,La regina e lo sposo diedero volentieri il loro consenso.,11,2,46,0.25,11.5
+2,6,"Quando la festa incominciò, le tre zitelle entrarono stranamente abbigliate, e la sposa disse: ""Siate le benvenute, care cugine.""",26,7,169,0.1,16.900000000000002
+2,6,"- ""Ah,"" disse lo sposo, ""che cosa ti lega a queste donne così brutte?""",21,6,135,0.1,13.5
+2,6,"E andò da quella con il gran piedone e chiese: ""Come mai avete un piede così largo?""",21,6,191,0.1,19.1
+2,6,"- ""A furia di calcare,"" rispose quella, ""a furia di calcare.""",18,4,153,0.1,15.3
+2,6,"Allora lo sposo andò dalla seconda e disse: ""Come mai avete quel labbro così cascante?""",19,5,154,0.1,15.4
+2,6,"- ""A furia di leccare,"" rispose, ""a furia di leccare.""",17,4,136,0.1,13.600000000000001
+2,6,"Allora domandò alla terza: ""Come mai avete il pollice così largo?""",15,4,105,0.1,10.5
+2,6,"- ""A furia di torcere il filo,"" rispose, ""a furia di torcere il filo.""",21,4,210,0.1,21.0
+2,6,"Allora il principe inorridì e disse: ""D'ora in poi la mia bella sposa non dovrà più toccare un filatoio!""",23,3,253,0.1,25.3
+2,6,E così la liberò da quell'impiccio.,7,3,21,0.1,2.1
+3,1,"Galletto disse a Gallinella: ""Le noci sono mature; andiamo insieme sul monte e mangiamone a sazietà una buona volta, prima che le porti via tutte lo scoiattolo.""",33,7,497,0.125,62.125
+3,1,"- ""Sì"" rispose Gallinella ""vieni, ce la spasseremo insieme.""",15,3,65,0.125,8.125
+3,1,"Se ne andarono tutti e due sul monte e poiché‚ la giornata era bella, vi rimasero fino a sera.",21,5,210,0.125,26.25
+3,1,"Ora, io non so se si fossero ingozzati tanto o se fossero diventati troppo spavaldi, fatto sta che non volevano tornare a casa a piedi, e Galletto dovette costruire una piccola carrozza di gusci di noce.",40,9,780,0.125,97.5
+3,1,"Quando fu pronta, Gallinella ci salì e disse a Galletto: ""Tu puoi tirare.""",18,5,81,0.125,10.125
+3,1,"- ""No,"" disse Galletto, ""che idea!",12,5,66,0.125,8.25
+3,1,Piuttosto che tirare vado a casa a piedi: non erano questi i patti.,15,3,72,0.125,9.0
+3,1,"Fare il cocchiere e sedere a cassetta, va bene; ma tirare io, questo no.""",19,6,115,0.125,14.375
+3,2,"Mentre litigavano un'anatra starnazzò: ""Ehi voi, ladri, chi vi ha detto di venire sul monte delle mie noci?",23,6,253,0.038461538461538464,9.730769230769232
+3,2,"Ve la farò pagare!""",6,1,15,0.038461538461538464,0.576923076923077
+3,2,e si precipitò su Galletto.,6,2,15,0.038461538461538464,0.576923076923077
+3,2,"Ma Galletto non era codardo e coraggiosamente si gettò addosso all'anatra, e alla fine l'aggredì con gli speroni con tanta violenza, che ella chiese grazia e per punizione si lasciò volentieri attaccare alla carrozza.",37,9,567,0.038461538461538464,21.80769230769231
+3,2,Galletto sedette a cassetta come cocchiere e si partì di gran carriera.,13,3,67,0.038461538461538464,2.576923076923077
+3,2,"""Anatra, corri più che puoi!""",9,3,36,0.038461538461538464,1.3846153846153846
+3,2,"Quando ebbero fatto un pezzo di strada incontrarono due pedoni, uno spillo e un ago.",17,4,136,0.038461538461538464,5.230769230769231
+3,2,"Questi gridarono: ""Alt, alt,"" e dissero che stava per diventare buio pesto, e non potevano più fare un passo, e poi la strada era così sporca!",34,12,561,0.038461538461538464,21.576923076923077
+3,2,Non potevano salire per un po'?,8,2,28,0.038461538461538464,1.076923076923077
+3,2,"Erano stati alla locanda dei sarti, fuori porta, e si erano attardati a bere birra.",18,4,137,0.038461538461538464,5.269230769230769
+3,2,"Siccome erano gente magra, che non teneva molto posto, Galletto li lasciò salire entrambi, ma dovettero promettere di non pestare i piedi a lui e alla sua Gallinella.",32,7,268,0.038461538461538464,10.307692307692308
+3,2,"A tarda sera giunsero a un'osteria, e siccome di notte non volevano proseguire, e l'anatra era male in arnese e cadeva di qua e di là, vi si fermarono.",33,8,273,0.038461538461538464,10.5
+3,2,Da principio l'oste fece molte difficoltà dicendo che la casa era già piena; pensava inoltre che non potessero essere gente molto distinta.,24,4,156,0.038461538461538464,6.0
+3,2,"Ma essi gli fecero tanti bei discorsi: avrebbe avuto l'uovo deposto da Gallinella strada facendo e avrebbe tenuto l'anatra che ogni giorno ne deponeva uno, sicché‚ alla fine egli cedette.",33,6,276,0.038461538461538464,10.615384615384617
+3,2,Così si fecero servire a tavola e banchettarono allegramente.,10,3,45,0.038461538461538464,1.7307692307692308
+3,2,"La mattina presto, quando albeggiava appena e tutti dormivano ancora, Galletto svegliò Gallinella, prese l'uovo, lo aprì con il becco e lo consumarono insieme; il guscio lo gettarono nel focolare.",36,10,480,0.038461538461538464,18.461538461538463
+3,2,"Poi andarono dall'ago che dormiva ancora, lo presero per la testa e lo piantarono nel cuscino della poltrona dell'oste, mentre lo spillo lo infilarono nell'asciugamano.",28,8,352,0.038461538461538464,13.53846153846154
+3,2,"Infine scapparono via per la pianura, come se niente fosse.",12,5,38,0.038461538461538464,1.4615384615384617
+3,2,"L'anatra che aveva voluto dormire all'aperto ed era rimasta nel cortile, li sentì frullar via, si svegliò, trovò un ruscello e ne seguì a nuoto la corrente: era più veloce che a tirare la carrozza!",40,8,430,0.038461538461538464,16.53846153846154
+3,2,"Un paio d'ore più tardi l'oste si alzò, si lavò e volle asciugarsi con l'asciugamano ma si graffiò il viso con lo spillo; poi andò in cucina e volle accendersi la pipa, ma quando si avvicinò al camino i gusci d'uovo gli saltarono negli occhi.",49,9,604,0.038461538461538464,23.230769230769234
+3,2,"""Questa mattina ce l'hanno tutti con la mia testa!""",12,1,66,0.038461538461538464,2.5384615384615388
+3,2,"disse, e si sedette adirato sulla poltrona.",9,3,36,0.038461538461538464,1.3846153846153846
+3,2,"""Ahi!""",4,1,6,0.038461538461538464,0.23076923076923078
+3,2,"L'ago da cucire l'aveva punto ancor peggio, e non nella testa, cosicché‚ egli balzò su per lo spavento.",21,5,210,0.038461538461538464,8.076923076923077
+3,2,Ora era furioso e cominciò a sospettare degli ospiti che erano arrivati la sera prima così tardi; e quando andò a cercarli se n'erano andati.,27,9,263,0.038461538461538464,10.115384615384617
+3,2,"Allora giurò di non ospitare mai più gentaglia che mangia molto, non paga nulla e per giunta ti ringrazia giocandoti qualche tiro.",24,5,276,0.038461538461538464,10.615384615384617
+4,1,C'era una volta un pover'uomo che non poteva più dar da mangiare al suo unico figlio.,17,2,136,0.017543859649122806,2.3859649122807016
+4,1,"Il figlio allora disse: -Caro padre, vivete così miseramente, e non potete più darmi il pane; me ne voglio andare e vedere come riesco a cavarmela nel mondo-.",33,9,372,0.017543859649122806,6.526315789473684
+4,1,Il padre gli diede allora la sua benedizione e prese commiato da lui con gran tristezza.,17,2,76,0.017543859649122806,1.3333333333333333
+4,1,Il figlio si fece soldato e raggiunse il campo di battaglia.,12,2,66,0.017543859649122806,1.1578947368421053
+4,1,"Quando si trovò di fronte al nemico, la situazione si fece difficile: piovevano pallottole e i suoi camerati cadevano da ogni parte.",25,5,192,0.017543859649122806,3.3684210526315788
+4,1,"Infine cadde anche il loro capitano e i rimanenti volevano fuggire, ma il giovane uscì dalle file e li incoraggiò gridando: -Non abbandoniamo la nostra patria!-.",31,7,289,0.017543859649122806,5.070175438596491
+4,1,"Allora gli altri lo seguirono, ed egli partì di nuovo all'assalto del nemico e lo sconfisse.",18,3,153,0.017543859649122806,2.6842105263157894
+4,1,"Quando al re giunse la notizia che a lui solo doveva la vittoria, ne fece un uomo potente e di riguardo, e gli diede dei gran tesori.",30,7,335,0.017543859649122806,5.87719298245614
+4,1,"Il re aveva una figlia, bella ma stravagante.",10,3,45,0.017543859649122806,0.7894736842105263
+4,1,"Ella aveva fatto uno strano voto: chi voleva diventare suo signore e sposo, doveva promettere di non sopravviverle.",21,5,159,0.017543859649122806,2.789473684210526
+4,1,"Nel caso che fosse morta per prima, egli doveva farsi seppellire vivo con lei.",16,5,120,0.017543859649122806,2.1052631578947367
+4,1,"Nel caso inverso, ella avrebbe fatto lo stesso.",10,2,45,0.017543859649122806,0.7894736842105263
+4,1,"Questo voto aveva scoraggiato tutti i pretendenti, poiché‚ ognuno temeva di dover scendere vivo nella tomba.",18,2,87,0.017543859649122806,1.526315789473684
+4,1,"Il giovane fu uno dei primi a vedere alla corte del re la bella figlia, e fu così rapito dalla sua avvenenza che la chiese in moglie a suo padre.",32,5,366,0.017543859649122806,6.421052631578947
+4,1,Allora il re rispose: -Chi sposa mia figlia non deve aver paura di scendere vivo nella tomba- e gli raccontò lo strano voto che ella aveva fatto.,29,4,226,0.017543859649122806,3.9649122807017543
+4,1,Ma il suo amore era così grande che egli diede la propria promessa senza pensare al pericolo e le nozze furono celebrate con gran pompa.,26,5,175,0.017543859649122806,3.070175438596491
+4,1,"Vissero per un po' felici e contenti; ma avvenne che la giovane regina si ammalò e nessun medico pot‚ guarirla, cosicché‚ morì.",26,8,175,0.017543859649122806,3.070175438596491
+4,1,"E, di fronte alla morta, lo sposo si ricordò con spavento di aver promesso di lasciarsi seppellire vivo con lei.",23,4,253,0.017543859649122806,4.43859649122807
+4,1,Il vecchio re fece presidiare ogni porta perché‚ non fuggisse e disse che egli doveva mantenere ciò che aveva promesso.,21,4,210,0.017543859649122806,3.6842105263157894
+4,1,"Il giorno in cui il cadavere fu deposto nella cripta regale, anch'egli fu condotto giù, e il portone fu chiuso e sprangato.",25,6,192,0.017543859649122806,3.3684210526315788
+4,1,"Accanto alla bara c'era un tavolo, e sopra vi era un lume, quattro pani e quattro bottiglie di vino.",22,5,231,0.017543859649122806,4.052631578947368
+4,1,"Terminata questa provvista, egli sarebbe morto di fame.",10,2,45,0.017543859649122806,0.7894736842105263
+4,1,"Ora se ne stava là, vicino alla bara, in grande affanno e tristezza, e ogni giorno mangiava soltanto un pezzetto di pane e beveva soltanto un sorso di vino, eppure vedeva la morte avvicinarsi sempre di più.",42,9,821,0.017543859649122806,14.403508771929824
+4,1,Un giorno successe che egli vide una serpe strisciare fuori da un angolo della cripta e avvicinarsi al cadavere.,20,3,190,0.017543859649122806,3.333333333333333
+4,1,"E, pensando che venisse per morderlo, trasse la spada e disse: -Finché‚ sono vivo, non la toccherai- e tagliò la serpe in tre pezzi.",29,10,406,0.017543859649122806,7.12280701754386
+4,1,"Poco dopo una seconda serpe strisciò fuori dall'angolo, ma quando vide l'altra morta e fatta a pezzi, se ne andò e ritornò quasi subito con tre foglie verdi in bocca.",33,9,273,0.017543859649122806,4.789473684210526
+4,1,"Poi prese i tre pezzi della serpe, li riaccostò, e su ogni ferita mise una foglia.",19,4,126,0.017543859649122806,2.2105263157894735
+4,1,"Subito i pezzi si ricongiunsero, la serpe si mosse e riacquistò la vita, e corse via con la compagna.",22,5,193,0.017543859649122806,3.3859649122807016
+4,1,"Ma le foglie erano rimaste per terra e l'uomo, che aveva visto tutto, pensò: ""Quale forza meravigliosa devono contenere queste foglie!",26,10,301,0.017543859649122806,5.280701754385965
+4,1,"Se hanno risuscitato il serpente, forse potranno giovare anche a un essere umano.""",16,3,66,0.017543859649122806,1.1578947368421053
+4,1,"Così le raccolse e ne mise una sulla bocca della morta, le altre due sugli occhi.",18,4,137,0.017543859649122806,2.4035087719298245
+4,1,"E subito il sangue si mosse nel corpo, salì al pallido volto, che si tinse di rosa.",20,5,172,0.017543859649122806,3.0175438596491224
+4,1,"Ella respirò, aprì gli occhi e disse: -Ah, Dio, dove sono?-.",18,8,87,0.017543859649122806,1.526315789473684
+4,1,"-Sei con me, cara moglie- egli rispose, e le diede un po' di vino e un po' di pane perché‚ riprendesse vigore, e le raccontò tutto quello che era accaduto e come l'avesse risuscitata.",40,10,640,0.017543859649122806,11.228070175438596
+4,1,"Allora ella si alzò felice e insieme bussarono alla porta, così forte che le guardie sentirono e avvertirono il re.",22,6,231,0.017543859649122806,4.052631578947368
+4,1,E il re stesso verme ad aprire la porta.,10,2,45,0.017543859649122806,0.7894736842105263
+4,1,"Li trovò entrambi freschi e sani, li condusse di sopra e si rallegrarono insieme perché‚ ogni pena era vinta.",21,4,210,0.017543859649122806,3.6842105263157894
+4,1,"Ma il giovane re prese le tre foglie, le diede a un servo fedele e disse: -Serbale con cura e portale sempre con te chissà, forse potranno aiutarci ancora-.",33,7,321,0.017543859649122806,5.63157894736842
+4,1,"Dopo che l'uomo ebbe risuscitato la moglie, però, fu come se il cuore di lei fosse mutato.",20,7,102,0.017543859649122806,1.789473684210526
+4,1,"E, dopo un certo periodo di tempo, quando si misero in mare per recarsi dal vecchio padre di lui, ella dimenticò del tutto il grande amore e la fedeltà, e concepì un'insana passione per il pilota.",41,12,645,0.017543859649122806,11.31578947368421
+4,1,"E una volta che il giovane re giaceva addormentato, fu così perfida da dire al pilota: -Vieni ad aiutarmi: lo getteremo in acqua e torneremo indietro.",30,8,435,0.017543859649122806,7.63157894736842
+4,1,Dirò che è morto e che tu sei degno di divenire mio sposo e di ereditare la corona di mio padre-.,22,5,231,0.017543859649122806,4.052631578947368
+4,1,"Poi una afferrò l'uomo per la testa, l'altro per i piedi e lo gettarono in mare perché‚ annegasse Il crimine sarebbe riuscito se il servo fedele non avesse visto tutto.",32,7,276,0.017543859649122806,4.842105263157895
+4,1,Questi staccò in segreto una barchetta dalla nave e andò alla ricerca del corpo finché‚ lo ripescò.,18,2,83,0.017543859649122806,1.4561403508771928
+4,1,"Poi prese le tre foglie della serpe, gliele mise sulla bocca e sugli occhi ed egli tornò subito in vita.",22,3,231,0.017543859649122806,4.052631578947368
+4,1,Allora egli disse al servo: -Remeremo giorno e notte per giungere prima degli altri dal vecchio re-.,19,5,171,0.017543859649122806,3.0
+4,1,Ma il re quando li vide arrivare si meravigliò e disse: -Che cosa vi è successo?-.,20,6,190,0.017543859649122806,3.333333333333333
+4,1,Allora il giovane re gli raccontò tutto e il vecchio disse: -Non posso credere che mia figlia abbia agito così male-.,23,5,148,0.017543859649122806,2.5964912280701755
+4,1,"E li fece entrare in una stanza segreta, dove rimasero nascosti a tutti.",15,4,92,0.017543859649122806,1.6140350877192982
+4,1,Poco dopo giunse la nave e la donna si presentò al padre con aria afflitta.,16,3,76,0.017543859649122806,1.3333333333333333
+4,1,"Egli disse: -Figlia mia, perché‚ vieni sola, dov'è tuo marito?-.",18,5,153,0.017543859649122806,2.6842105263157894
+4,1,-Ah- rispose ella simulando tristezza -si è ammalato improvvisamente durante il viaggio ed è morto; questo buon pilota mi ha soccorsa e sa come sono andate le cose.- Allora il re aprì la stanza e fece uscire i due.,41,5,781,0.017543859649122806,13.701754385964911
+4,1,"Vedendo il marito la donna fu come colpita dal fulmine, cadde in ginocchio e implorò grazia.",18,4,93,0.017543859649122806,1.631578947368421
+4,1,Ma il re disse: -Nessuna grazia!,8,3,28,0.017543859649122806,0.49122807017543857
+4,1,"Egli era pronto a morire con te, mentre tu lo hai ucciso nel sonno.",16,3,120,0.017543859649122806,2.1052631578947367
+4,1,Devi avere la pena che ti meriti-.,8,2,18,0.017543859649122806,0.3157894736842105
+4,1,La misero con il pilota in una nave che faceva acqua e li spinsero in mare.,17,3,108,0.017543859649122806,1.894736842105263
+5,1,Un contadino aveva portato la sua mucca al mercato e l'aveva venduta per sette scudi.,16,3,120,0.058823529411764705,7.0588235294117645
+5,1,"Tornando a casa doveva passare vicino a uno stagno; già da lontano udì le rane gracidare: ""Qua, qua, qua, qua.""",28,6,378,0.058823529411764705,22.235294117647058
+5,1,"– ""Sì,"" disse fra sé‚ ""le senti strillare fin dal campo d'avena.",17,3,81,0.058823529411764705,4.764705882352941
+5,1,"Sette scudi ho riscosso, non quattro.""",9,2,36,0.058823529411764705,2.1176470588235294
+5,1,"Quando fu vicino all'acqua gridò: ""Stupide bestie che siete!",12,4,66,0.058823529411764705,3.8823529411764706
+5,1,Non vi hanno informato meglio?,6,1,15,0.058823529411764705,0.8823529411764706
+5,1,"Sono sette gli scudi, non quattro!""",9,2,36,0.058823529411764705,2.1176470588235294
+5,1,"Ma le rane continuarono a fare ""qua, qua, qua, qua.""",16,5,106,0.058823529411764705,6.235294117647059
+5,1,"– ""Be', se non volete crederci posso contarveli.""",13,4,78,0.058823529411764705,4.588235294117647
+5,1,"Tirò fuori il denaro di tasca e contò i sette scudi, cento soldi per volta.",17,4,121,0.058823529411764705,7.117647058823529
+5,1,"Ma le rane non si curarono dei suoi conti e continuarono a gracidare: ""Qua, qua, qua, qua.""",24,7,254,0.058823529411764705,14.941176470588236
+5,1,"– ""Oh,"" esclamò il contadino infuriato, ""se credete di saperlo meglio di me, contate voi,"" e gettò tutto il denaro in acqua.",31,8,340,0.058823529411764705,20.0
+5,1,"Si fermò e attese che avessero finito e gli ridessero il suo avere, ma le rane persistettero ostinatamente a gracidare ""qua, qua, qua, qua,"" e non gli restituirono il denaro.",38,11,373,0.058823529411764705,21.941176470588236
+5,1,Egli attese ancora un bel pezzo finché‚ si fece sera e dovette ritornare a casa.,16,3,84,0.058823529411764705,4.9411764705882355
+5,1,"Allora prese a rimproverare le rane e gridò: ""Sciaguattone, avete una gran bocca e sapete strillare da far male alle orecchie, ma sette scudi non sapete contarli!",32,7,466,0.058823529411764705,27.41176470588235
+5,1,"Pensate che io voglia stare qui finché‚ avete finito?""",11,2,55,0.058823529411764705,3.235294117647059
+5,1,"E se ne andò, ma le rane gli gracidarono ancora dietro ""qua, qua, qua, qua"" cosicché‚ egli rincasò di pessimo umore.",28,9,352,0.058823529411764705,20.705882352941178
+5,2,"Dopo un po' di tempo acquistò un'altra mucca, la macellò e calcolò che, vendendo bene la carne, avrebbe potuto ricavare il prezzo delle due mucche, oltre ad avere la pelle.",36,8,564,0.1,56.400000000000006
+5,2,"Quando giunse in città con la carne, davanti alla porta accorse un intero branco di cani preceduto da un grosso levriero; questo saltò intorno alla carne, annusò e abbaiò: ""Bau, bau, bau, bau.""",43,10,471,0.1,47.1
+5,2,"Siccome non voleva smetterla, il contadino gli disse: ""Sì, lo so, fai ›bau, bau‹ perché‚ vorresti un po' di carne, ma io farei un bell'affare se te la dessi!""",39,9,741,0.1,74.10000000000001
+5,2,"Ma il cane non rispose altro che ""bau, bau.""",13,4,46,0.1,4.6000000000000005
+5,2,"– ""Se tu non te la mangerai, garantisci per i tuoi compagni?""",16,5,120,0.1,12.0
+5,2,"– ""Bau, bau,"" disse il cane.",11,4,34,0.1,3.4000000000000004
+5,2,"""Be', se insisti te la lascerò, ti conosco bene e so da chi presti servizio; ma ricordati: fra tre giorni devo avere il mio denaro, me lo porterai.""",37,10,367,0.1,36.7
+5,2,Dopo di che scaricò la carne e tornò indietro.,10,4,37,0.1,3.7
+5,2,"I cani vi si lanciarono sopra abbaiando forte ""bau bau!""",13,1,67,0.1,6.7
+5,2,"Il contadino, che li udiva da lontano, disse fra s': ""Senti senti, adesso ne vogliono tutti, ma quello grosso me ne sarà garante.""",32,8,496,0.1,49.6
+5,3,"Passati tre giorni, il contadino pensò tutto contento: Questa sera avrai il tuo denaro in tasca.",19,3,171,0.0625,10.6875
+5,3,Ma nessuno venne a pagarlo.,6,2,9,0.0625,0.5625
+5,3,"""Non ci si può fidare di nessuno,"" disse, e infine gli scappò la pazienza, andò in città dal macellaio e pretese il suo denaro.",30,6,435,0.0625,27.1875
+5,3,"Il macellaio pensò che fosse uno scherzo, ma quando il contadino disse: ""Lasciamo perdere gli scherzi, io voglio il mio denaro.",26,7,189,0.0625,11.8125
+5,3,"Il cane grosso non vi ha portato tre giorni fa l'intera mucca macellata?""",15,1,105,0.0625,6.5625
+5,3,"Il macellaio andò in collera, afferrò un manico di scopa e lo cacciò fuori.",16,3,120,0.0625,7.5
+5,3,"""Aspetta,"" disse il contadino, ""c'è ancora giustizia a questo mondo!""",19,4,115,0.0625,7.1875
+5,3,e andò al castello reale e chiese udienza.,9,3,36,0.0625,2.25
+5,3,"Fu condotto innanzi al re, che sedeva accanto a sua figlia e gli domandò quale torto gli avessero fatto.",21,5,210,0.0625,13.125
+5,3,"""Ah,"" disse lui, ""le rane e i cani hanno preso il mio avere, e il macellaio mi ha ripagato per questo con il bastone.""",32,7,268,0.0625,16.75
+5,3,E narrò minuziosamente come era andata.,7,3,21,0.0625,1.3125
+5,3,"Allora la figlia del re scoppiò a ridere e il re gli disse: ""Non posso darti ragione, ma in compenso ti darò in moglie mia figlia.",30,5,381,0.0625,23.8125
+5,3,"In tutta la sua vita non ha mai riso, tranne appunto di te, io l'ho promessa a colui che la facesse ridere.",25,4,181,0.0625,11.3125
+5,3,"Puoi ringraziare Dio per la tua fortuna.""",9,2,36,0.0625,2.25
+5,3,"– ""Oh,"" rispose il contadino, ""non la voglio affatto: a casa ho una donna sola, e quando torno a casa è come se ce ne fosse una in ogni angolo.""",39,10,576,0.0625,36.0
+5,3,"Allora il re andò in collera e disse: ""Se sei così villano devi avere un'altra ricompensa: ora vattene, ma fra tre giorni ritorna che te ne saranno contati cinquecento.""",35,9,595,0.0625,37.1875
+5,4,"Quando il contadino uscì dalla porta, la sentinella disse.",11,3,55,0.02702702702702703,1.4864864864864866
+5,4,"""Hai fatto ridere la figlia del re, avrai ricevuto qualcosa per questo.""",16,3,76,0.02702702702702703,2.0540540540540544
+5,4,"– ""Lo credo bene,"" rispose il contadino, ""me ne pagheranno cinquecento.""",18,4,83,0.02702702702702703,2.2432432432432434
+5,4,"– ""Senti,"" disse il soldato, ""dammene un po', cosa vuoi fartene di tutto quel denaro!""",24,5,186,0.02702702702702703,5.027027027027027
+5,4,"– ""Be',"" disse il contadino, ""perché‚ sei tu te ne darò duecento; fra tre giorni presentati al re e fatteli contare.""",30,6,435,0.02702702702702703,11.756756756756758
+5,4,"Un ebreo che era lì vicino e aveva udito la conversazione, corse dietro al contadino, lo prese per la giubba e disse: ""Gran Dio, siete proprio fortunato.",33,9,528,0.02702702702702703,14.27027027027027
+5,4,"Voglio cambiarveli, voglio convertirli in moneta spicciola, che ve ne farete di quegli scudi sonanti!""",19,4,171,0.02702702702702703,4.621621621621622
+5,4,"– ""Giudeo,"" disse il contadino, ""puoi averne ancora trecento; dammeli subito in spiccioli e di qui a tre giorni sarai pagato dal re.""",31,7,340,0.02702702702702703,9.18918918918919
+5,4,"L'ebreo fu contento del piccolo guadagno e portò la somma in soldi di cattiva lega, che tre ne valevano due buoni.",23,4,253,0.02702702702702703,6.837837837837839
+5,4,"Trascorsi i tre giorni, il contadino si recò dal re, come gli era stato ordinato.",18,4,93,0.02702702702702703,2.5135135135135136
+5,4,"""Togliti la giubba,"" disse questi, ""devi avere i tuoi cinquecento.""",17,3,97,0.02702702702702703,2.621621621621622
+5,4,"– ""Ah,"" disse il contadino, ""non appartengono più a me: duecento li ho regalati alla sentinella e trecento me li ha cambiati l'ebreo; non ho più diritto neanche a uno.""",39,7,576,0.02702702702702703,15.567567567567568
+5,4,In quella entrarono il soldato e l'ebreo e pretesero ciò che avevano ottenuto dal contadino; ed ebbero le botte secondo quanto spettava loro.,25,5,181,0.02702702702702703,4.891891891891892
+5,4,"Il soldato le sopportò con pazienza poiché‚ ne conosceva già il sapore; l'ebreo invece gemeva: ""Ahimè, sono questi gli scudi sonanti!""",27,4,351,0.02702702702702703,9.486486486486488
+5,4,"Il re dovette ridere del contadino e dato che la collera era scomparsa gli disse: ""Siccome hai perso il compenso ancora prima di riceverlo, ti voglio risarcire: vai nella camera del tesoro e prendi tutto il denaro che vuoi.""",45,11,830,0.02702702702702703,22.432432432432435
+5,4,Il contadino non se lo fece dire due volte e si ficcò in tasca tutto quello che poteva starci.,20,4,190,0.02702702702702703,5.135135135135135
+5,4,Poi andò all'osteria e contò il suo denaro.,9,2,36,0.02702702702702703,0.972972972972973
+5,4,"L'ebreo gli era andato dietro e lo sentiva brontolare fra s': ""Quel briccone del re mi ha menato per il naso!",25,4,300,0.02702702702702703,8.108108108108109
+5,4,Non poteva darmelo lui stesso il denaro?,8,1,28,0.02702702702702703,0.7567567567567568
+5,4,"Adesso almeno saprei quanto ho: come posso sapere se è giusto quel che mi sono ficcato in tasca?""",21,5,191,0.02702702702702703,5.162162162162162
+5,4,"– ""Dio guardi!""",6,2,15,0.02702702702702703,0.40540540540540543
+5,4,disse l'ebreo fra s'.,6,1,15,0.02702702702702703,0.40540540540540543
+5,4,"""Costui parla con disprezzo del nostro signore: corro subito a dirlo, otterrò una ricompensa e lui, per di più, sarà punito.""",28,7,208,0.02702702702702703,5.621621621621622
+5,4,"Quando il re venne a sapere il discorso del contadino, andò in collera e ordinò all'ebreo di andare a prendere il colpevole.",24,4,186,0.02702702702702703,5.027027027027027
+5,4,"L'ebreo corse dal contadino: ""Dovete venir subito da Sua Maestà, senza indugio.""",17,3,136,0.02702702702702703,3.675675675675676
+5,4,"– ""So meglio di voi quel che ci vuole,"" rispose il contadino, ""prima mi faccio fare una giubba nuova; credi forse che con tutto il denaro che ho, voglia andarci vestito di stracci?""",42,10,513,0.02702702702702703,13.864864864864865
+5,4,"L'ebreo comprese che senza una giubba nuova il contadino non si sarebbe mosso, e siccome temeva che, sfumando la collera del re, egli ci avrebbe rimesso la sua ricompensa e il contadino la sua punizione, disse: ""Vi presterò la mia giubba per pura amicizia: che cosa non si fa quando si vuole bene!""",62,14,1891,0.02702702702702703,51.10810810810811
+5,4,"Il contadino accettò, indossò la giubba dell'ebreo e andò con lui dal re.",15,3,105,0.02702702702702703,2.837837837837838
+5,4,Il re rinfacciò al contadino le male parole che l'ebreo gli aveva riferite.,14,2,51,0.02702702702702703,1.3783783783783785
+5,4,"""Ah,"" rispose il contadino, ""ciò che dice un ebreo è sempre falso; a loro non esce di bocca neanche una parola che sia sincera!",31,7,361,0.02702702702702703,9.756756756756758
+5,4,"Questo qui ha il coraggio di dire che io ho addosso la sua giubba!""",16,2,120,0.02702702702702703,3.2432432432432434
+5,4,"– ""Che volete dire?""",7,3,21,0.02702702702702703,0.5675675675675675
+5,4,esclamò l'ebreo.,3,1,3,0.02702702702702703,0.08108108108108109
+5,4,"""Non è mia la giubba, non ve l'ho forse imprestata per amicizia, perché‚ poteste presentarvi davanti a Sua Maestà?""",24,4,186,0.02702702702702703,5.027027027027027
+5,4,"All'udire queste parole il re disse: ""L'ebreo ha di certo ingannato qualcuno: o me, o il contadino.""",23,6,196,0.02702702702702703,5.297297297297297
+5,4,E gli fece suonare ancora qualche scudo sulla groppa.,10,3,45,0.02702702702702703,1.2162162162162162
+5,4,"Il contadino invece se ne ritornò a casa con la sua bella giubba e con il suo bel denaro in tasca e disse: ""Questa volta l'ho imbroccata!""",31,5,340,0.02702702702702703,9.18918918918919
+6,1,"C'era una volta un re potente e saggio che ogni giorno, a pranzo, quando la tavola era sparecchiata e non c'era più nessuno, si faceva portare ancora un piatto, coperto, da uno dei suoi servi più fedeli.",43,11,526,0.2,105.2
+6,1,"Solamente lui ne mangiava, poi lo richiudeva, e nessuno sapeva che cosa vi fosse dentro.",18,5,137,0.2,27.400000000000002
+6,1,"Un giorno avvenne che il servo, quando il re gli diede il piatto da portare via, non seppe resistere alla tentazione, lo portò nella propria camera, lo aprì e vi trovò dentro una serpe bianca.",40,8,780,0.2,156.0
+6,1,Vedendola gli venne una tale voglia di mangiarne che non pot‚ trattenersi: ne tagliò un pezzetto e se lo mangiò.,22,5,231,0.2,46.2
+6,1,"Ma appena lo sfiorò con la lingua, udì con chiarezza ciò che si dicevano i passeri e gli altri uccelli davanti alla finestra e comprese così che capiva il linguaggio degli animali.",34,8,529,0.2,105.80000000000001
+6,2,"Ora avvenne che proprio quel giorno la regina smarrì uno dei suoi anelli più belli, e il sospetto cadde su quel servo.",24,4,276,0.1111111111111111,30.666666666666664
+6,2,"Il re lo rimproverò aspramente e minacciò di condannarlo come reo, se entro quel giorno non avesse indicato il malfattore.",22,5,123,0.1111111111111111,13.666666666666666
+6,2,Allora il servo si spaventò e non sapeva cosa fare.,11,2,55,0.1111111111111111,6.111111111111111
+6,2,"Inquieto, scese in cortile: là, vicino a un ruscello, le anatre riposavano tranquille e si facevano le loro confidenze.",24,6,276,0.1111111111111111,30.666666666666664
+6,2,"Egli ne sentì una che diceva: ""Che peso ho sullo stomaco!",14,4,91,0.1111111111111111,10.11111111111111
+6,2,"Nella fretta ho ingoiato un anello che era sotto la finestra della regina.""",15,2,105,0.1111111111111111,11.666666666666666
+6,2,"Subito il servo l'afferrò per il collo, la portò al cuoco e disse: ""Ammazza prima questa, è ben pasciuta.""",25,7,300,0.1111111111111111,33.33333333333333
+6,2,Il cuoco le tagliò il collo e quando fu sbuzzata le trovò nello stomaco l'anello della regina.,18,3,153,0.1111111111111111,17.0
+6,2,"Il servo lo portò al re che se ne rallegrò molto, e volendo riparare il proprio errore gli disse: ""Chiedi ciò che vuoi, e di' quale carica desideri a corte.""",37,10,538,0.1111111111111111,59.77777777777777
+6,3,"Ma il servo rifiutò ogni cosa e chiese soltanto un cavallo e del denaro per il viaggio, poiché‚ desiderava girare per il mondo.",25,7,300,0.07692307692307693,23.076923076923077
+6,3,"Così se ne andò a cavallo e giunse a uno stagno dove tre pesci si erano impigliati nelle canne e boccheggiavano fuor d'acqua, lamentandosi di dover morire così miseramente.",31,8,436,0.07692307692307693,33.53846153846154
+6,3,"Egli capì le loro parole e ne ebbe pietà, così scese da cavallo e li rimise in acqua.",20,5,100,0.07692307692307693,7.6923076923076925
+6,3,"Allora i pesci gridarono: ""Ce ne ricorderemo e ti ricompenseremo!.""",15,3,81,0.07692307692307693,6.230769230769231
+6,3,"Egli proseguì e poco dopo udì, ai suoi piedi, un re delle formiche che diceva: ""Se l'uomo girasse al largo con la sua bestia!",29,8,259,0.07692307692307693,19.923076923076923
+6,3,"Mi calpesta tante di quelle formiche!""",8,1,28,0.07692307692307693,2.153846153846154
+6,3,"Egli guardò a terra e vide che il suo cavallo era entrato in un formicaio, allora deviò il cammino e il re delle formiche gridò: ""Ce ne ricorderemo e ti ricompenseremo!""",36,7,596,0.07692307692307693,45.84615384615385
+6,3,"Proseguì e giunse in un bosco; là due corvi, padre e madre, gettavano i loro piccoli fuori dal nido e dicevano: ""Siete grandi a sufficienza per mantenervi da soli, noi non possiamo più sfamarvi.""",42,10,453,0.07692307692307693,34.84615384615385
+6,3,"I piccoli giacevano a terra, sbattevano le loro piccole alucce e gridavano: ""Come possiamo mantenerci da soli!",21,5,191,0.07692307692307693,14.692307692307693
+6,3,Non sappiamo ancora volare per procacciarci il cibo!,9,3,21,0.07692307692307693,1.6153846153846154
+6,3,"Siamo costretti a morire di fame!""",8,1,22,0.07692307692307693,1.6923076923076925
+6,3,"Egli scese a terra, uccise il suo cavallo con la spada e lo diede in pasto ai piccoli corvi.",21,3,191,0.07692307692307693,14.692307692307693
+6,3,"Questi si avvicinarono saltellando, si saziarono e dissero: ""Ce ne ricorderemo e ti ricompenseremo!""",19,5,171,0.07692307692307693,13.153846153846155
+6,4,"Ora egli proseguì a piedi e, cammina cammina, giunse in una gran città.",16,4,106,0.16666666666666666,17.666666666666664
+6,4,"Un uomo a cavallo andava dicendo che colui che voleva diventare lo sposo della giovane principessa doveva eseguire un compito che ella gli avrebbe assegnato; ma se lo intraprendeva e non lo portava a termine, avrebbe perso la vita.",42,9,821,0.16666666666666666,136.83333333333331
+6,4,"Nessuno voleva presentarsi, perché‚ già tanti ci avevano rimesso la vita.",13,2,78,0.16666666666666666,13.0
+6,4,"Il giovane pensò: ""Che ho da perdere?",10,3,45,0.16666666666666666,7.5
+6,4,"Tentiamo!""",3,1,3,0.16666666666666666,0.5
+6,4,Così andò davanti al re e a sua figlia e si annunciò come pretendente.,15,5,92,0.16666666666666666,15.333333333333332
+6,5,Allora lo condussero in riva al mare; gettarono un anello in acqua e gli ordinarono di ripescarlo.,19,3,171,0.07142857142857142,12.214285714285714
+6,5,"Gli dissero inoltre che se si tuffava e ritornava a galla senza l'anello, lo avrebbero ributtato giù per farlo morire.",22,6,127,0.07142857142857142,9.071428571428571
+6,5,"Poi fu lasciato solo, e mentre si trovava sulla riva e pensava che cosa mai potesse fare per prendere l'anello, vide avvicinarsi i tre pesci che egli aveva tratto dalle canne e rimesso in acqua.",38,10,493,0.07142857142857142,35.214285714285715
+6,5,"Quello di mezzo aveva in bocca una conchiglia, che depose sulla riva, ai piedi del giovane; e quando egli l'aprì ci trovò dentro l'anello.",28,7,352,0.07142857142857142,25.142857142857142
+6,5,Pieno di gioia lo portò al re e chiese sua figlia in sposa.,14,2,79,0.07142857142857142,5.642857142857142
+6,5,"Ma questa, quando udì che egli non era un principe, non lo volle.",16,6,120,0.07142857142857142,8.571428571428571
+6,5,"Uscì in giardino, rovesciò dieci sacchi pieni di miglio sull'erba e disse: ""Dovrà raccoglierlo per domattina, prima che sorga il sole; e non ne manchi neanche un granello!""",35,10,475,0.07142857142857142,33.92857142857142
+6,5,Il giovane non sarebbe riuscito a portare a termine il compito se i fedeli animali non lo avessero aiutato.,20,2,130,0.07142857142857142,9.285714285714285
+6,5,"Di notte venne il re delle formiche e, con le sue mille e mille formiche raccolse tutto il miglio, lo ammucchiò nei sacchi e, prima che sorgesse il sole del mattino, aveva finito il lavoro senza che neanche un granello andasse perduto.",47,11,1081,0.07142857142857142,77.21428571428571
+6,5,"Quando la principessa venne in giardino e vide tutto ciò, si meravigliò e disse: ""Anche se ha eseguito pure questo compito, ed è giovane e bello, non lo sposerò se prima non mi avrà portato una mela dell'albero della vita.""",47,12,1081,0.07142857142857142,77.21428571428571
+6,5,"Ma i corvi che erano stati gettati dal nido e che egli aveva nutrito, erano cresciuti e avevano udito quello che voleva la principessa.",26,8,279,0.07142857142857142,19.928571428571427
+6,5,Volarono via e ben presto uno di loro ritornò portando una mela nel becco e la lasciò cadere fra le mani del giovane.,24,3,146,0.07142857142857142,10.428571428571429
+6,5,Quando questi la portò alla principessa ella lo accettò con gioia e divenne sua sposa.,16,3,120,0.07142857142857142,8.571428571428571
+6,5,"Alla morte del vecchio re, il principe ne ereditò la corona.",13,2,58,0.07142857142857142,4.142857142857142
+7,1,"C'era una volta uno strano violinista, che se ne andava solo solo per un bosco, e pensava a questo e a quello; e quando la sua mente non ebbe ove posarsi, disse fra sé: ""Mi annoio molto qui nel bosco, voglio cercarmi un buon compagno.""",54,14,819,0.07142857142857142,58.5
+7,1,"Si tolse di dosso il violino e si mise a sonare, sicché il suono si diffuse fra gli alberi.",21,3,119,0.07142857142857142,8.5
+7,1,"Poco dopo, ecco venire un lupo, trottando per la boscaglia.",13,5,78,0.07142857142857142,5.571428571428571
+7,1,"""Ah, viene un lupo!",7,2,21,0.07142857142857142,1.5
+7,1,"quello non lo desidero proprio,"" disse il violinista.",11,2,34,0.07142857142857142,2.4285714285714284
+7,1,"Ma il lupo si avvicinò e gli disse: ""Oh, caro violinista!",15,5,105,0.07142857142857142,7.5
+7,1,come suoni bene!,4,2,6,0.07142857142857142,0.42857142857142855
+7,1,"vorrei imparare anch'io.""",5,1,10,0.07142857142857142,0.7142857142857142
+7,1,"- ""È presto fatto,"" gli rispose il violinista, ""devi soltanto fare tutto quello che ti ordino.""",23,5,141,0.07142857142857142,10.071428571428571
+7,1,"- ""O violinista,"" disse il lupo, ""ti obbedirò come uno scolaro il suo maestro.""",21,6,126,0.07142857142857142,9.0
+7,1,"Il violinista gli ordinò di seguirlo, e, quando ebbero fatto un pezzo di strada insieme, giunsero a una vecchia quercia, che era cava internamente e spaccata nel mezzo.",33,9,276,0.07142857142857142,19.71428571428571
+7,1,"""Guarda,"" disse il violinista, ""se vuoi imparar a sonare il violino, metti le zampe davanti in questa spaccatura.""",26,5,241,0.07142857142857142,17.21428571428571
+7,1,"Il lupo obbedí, ma il violinista prese in fretta un sasso e d'un sol colpo gli conficcò le zampe nel legno cosí saldamente, che il lupo dovette starsene là prigioniero.",33,6,528,0.07142857142857142,37.714285714285715
+7,1,"""Aspetta qui finché torno,"" disse il violinista, e se ne andò per la sua strada.",20,7,106,0.07142857142857142,7.571428571428571
+7,2,"Dopo un po', disse di nuovo fra sé: ""Mi annoio molto qui nel bosco, voglio cercarmi un altro compagno.""",26,5,325,0.06666666666666667,21.666666666666668
+7,2,"Prese il violino, e di nuovo si diffuse il suono nel bosco.",14,3,91,0.06666666666666667,6.066666666666666
+7,2,"Poco dopo, ecco venire una volpe strisciando fra gli alberi.",12,3,66,0.06666666666666667,4.4
+7,2,"""Ah, viene una volpe,"" disse il violinista, quella non la desidero proprio.",18,4,81,0.06666666666666667,5.4
+7,2,"Ma la volpe gli si accostò e disse: ""Ah, caro violinista, come suoni bene!",19,7,126,0.06666666666666667,8.4
+7,2,"Vorrei imparare anch'io.""",5,1,10,0.06666666666666667,0.6666666666666666
+7,2,"È presto fatto, disse il violinista: devi soltanto fare tutto quel che ti ordino.",17,4,136,0.06666666666666667,9.066666666666666
+7,2,"""O violinista,"" rispose la volpe, ""ti obbedirò come uno scolaro il suo maestro.""",20,5,120,0.06666666666666667,8.0
+7,2,"- ""Seguimi,"" disse il violinista, e quando ebbero fatto un pezzo di strada, giunsero a un sentiero fiancheggiato da alti cespugli.",27,7,246,0.06666666666666667,16.4
+7,2,"Allora il violinista si fermò, da un lato del sentiero curvò fino a terra un giovane nocciolo e ne premette la cima col piede; dall'altro lato incurvò un altro alberello e disse: ""Orsú, volpicina, se vuoi imparar qualcosa, porgimi una delle tue zampe davanti, la sinistra.""",56,11,784,0.06666666666666667,52.266666666666666
+7,2,La volpe obbedí ed egli le legò la zampa al fusto di sinistra.,14,1,91,0.06666666666666667,6.066666666666666
+7,2,"""Volpicina,"" disse, ""ora porgimi la destra.""",13,3,78,0.06666666666666667,5.2
+7,2,E la legò al fusto di destra.,8,2,28,0.06666666666666667,1.8666666666666667
+7,2,"E, dopo essersi assicurato che i nodi delle corde fossero abbastanza solidi, lasciò la presa, e gli alberelli si rizzarono e lanciarono in alto la volpe, che restò sospesa in aria a sgambettare.",38,11,493,0.06666666666666667,32.86666666666667
+7,2,"""Aspettami qui fìnché torno,"" disse il violinista e se ne andò per la sua strada.",19,5,94,0.06666666666666667,6.266666666666667
+7,3,"Di nuovo disse fra sé: ""Mi annoio qui nel bosco; voglio cercarmi un altro compagno.""",20,3,120,0.07142857142857142,8.571428571428571
+7,3,"Prese il violino, e il suono si diffuse per il bosco.",13,4,78,0.07142857142857142,5.571428571428571
+7,3,Allora ecco venire a gran balzi un leprotto.,9,1,36,0.07142857142857142,2.571428571428571
+7,3,"""Ah, viene una lepre!""",8,2,28,0.07142857142857142,2.0
+7,3,"disse il violinista, ""questa non la volevo.""",11,2,55,0.07142857142857142,3.9285714285714284
+7,3,"- ""Ah, caro violinista,"" disse il leprotto, ""come suoni bene!",17,6,72,0.07142857142857142,5.142857142857142
+7,3,"vorrei imparare anch'io.""",5,1,10,0.07142857142857142,0.7142857142857142
+7,3,"- ""È presto fatto,"" disse il violinista, ""devi soltanto fare tutto quel che ti ordino.""",22,5,133,0.07142857142857142,9.5
+7,3,"- ""O violinista,"" disse il leprotto, ""ti obbedirò come uno scolaro il suo maestro.""",21,6,126,0.07142857142857142,9.0
+7,3,"Fecero un pezzo di strada insieme, finché giunsero a una radura nel bosco, dove c'era una tremula.",20,5,130,0.07142857142857142,9.285714285714285
+7,3,Il violinista legò un lungo spago al collo del leprotto e ne annodò l'altro capo all'albero.,17,2,136,0.07142857142857142,9.714285714285714
+7,3,"""Svelto, leprottino, ora salta venti volte intorno all'albero!""",13,3,78,0.07142857142857142,5.571428571428571
+7,3,"esclamò il violinista, e il leprotto obbedi, e quando ebbe fatto i suoi venti giri, lo spago si era attorto venti volte intorno al tronco; e il leprotto era prigioniero, e aveva un bel tirare e dar strattoni: si tagliava soltanto il collo delicato con lo spago.",54,13,885,0.07142857142857142,63.21428571428571
+7,3,"""Aspetta qui finché torno,"" disse il violinista e proseguí.",13,4,43,0.07142857142857142,3.071428571428571
+7,4,"Intanto il lupo aveva dato spinte e strattoni, aveva morso la pietra e si era tanto adoprato, che alla fine si era liberato tirando fuori le zampe dalla spaccatura.",32,7,496,0.2,99.2
+7,4,"Pieno di collera e di rabbia, corse dietro al violinista e voleva sbranarlo.",15,4,92,0.2,18.400000000000002
+7,4,"Quando la volpe lo vide, cominciò a lamentarsi e gridò con tutte le sue forze: ""Fratello lupo, vieni ad aiutarmi: il violinista mi ha ingannata.""",32,7,346,0.2,69.2
+7,4,"Il lupo curvò gli alberelli, con un morso spezzò le funi e liberò la volpe, che lo accompagnò, per vendicarsi del violinista.",26,7,301,0.2,60.2
+7,4,"Trovarono il leprotto legato, liberarono anche lui, e poi tutti insieme andarono in cerca del loro nemico.",20,4,106,0.2,21.200000000000003
+7,5,"Per la strada il violinista aveva ripreso a sonare, e questa volta era stato piú fortunato.",18,4,87,0.14285714285714285,12.428571428571427
+7,5,"I suoni giunsero all'orecchio di un povero boscaiolo, che subito, lo volesse o no, interruppe il suo lavoro e con l'ascia sotto il braccio si avvicinò per sentire la musica.",34,8,529,0.14285714285714285,75.57142857142857
+7,5,"""Finalmente viene il compagno che fa per me,"" disse il violinista, ""un uomo cercavo, non bestie selvagge.""",25,6,157,0.14285714285714285,22.428571428571427
+7,5,"E cominciò a sonar cosí bene e con tanta dolcezza, che il pover'uomo se ne stava incantato e si sentiva allargare il cuore dalla gioia.",27,7,326,0.14285714285714285,46.57142857142857
+7,5,"E mentre se ne stava cosí, si avvicinarono il lupo, la volpe e il leprotto ed egli si accorse che tramavano qualcosa.",25,8,300,0.14285714285714285,42.857142857142854
+7,5,"Allora sollevò l'ascia rilucente e si mise davanti al violinista, come a dire: ""Chi gli vuol male si guardi, l'avrà da fare con me.""",30,7,237,0.14285714285714285,33.857142857142854
+7,5,"Allora le bestie, impaurite, di corsa tornarono nel bosco; ma il violinista per ringraziamento sonò un altro pezzo e poi proseguí la sua strada.",28,7,196,0.14285714285714285,28.0
+8,1,"C'era una volta un vecchio re che era malato e pensava: ""Questo sarà il mio letto di morte!""",22,4,231,0.1,23.1
+8,1,"Allora disse: ""Fate venire il mio fedele Giovanni.""",12,2,66,0.1,6.6000000000000005
+8,1,Il fedele Giovanni era il suo servo prediletto e si chiamava così perché‚ gli era stato fedele per tutta la vita.,22,4,211,0.1,21.1
+8,1,"Quando fu al suo capezzale, il re gli disse: ""Mio fedelissimo Giovanni, sento che la mia fine si avvicina e non ho altro timore che per mio figlio.",33,9,528,0.1,52.800000000000004
+8,1,"Si trova ancora in un'età in cui spesso non si sa che via scegliere, e se tu non mi prometti di insegnargli tutto quello che deve sapere, e di essere il suo tutore, non posso chiudere gli occhi in pace.""",45,11,990,0.1,99.0
+8,1,"Il fedele Giovanni rispose: ""Non lo abbandonerò e lo servirò con fedeltà, dovesse costarmi la vita.""",21,4,191,0.1,19.1
+8,1,"Allora il vecchio re disse: ""Muoio contento e in pace.""",14,3,91,0.1,9.1
+8,1,"E aggiunse: ""Dopo la mia morte devi mostrargli tutto il castello: tutte le stanze, le sale, i sotterranei e i tesori che in esso vi sono.",32,9,298,0.1,29.8
+8,1,"Solo una camera devi celargli: quella dov'è nascosto il ritratto della principessa dal tetto d'oro; se egli per caso la vedesse, proverebbe per lei un amore ardente, cadrebbe svenuto e correrebbe gran pericoli; devi preservarlo da questo.""",46,10,535,0.1,53.5
+8,1,"E come il fedele Giovanni rinnovò la sua promessa, il vecchio re tacque, adagiò la testa sul cuscino e morì.",23,6,232,0.1,23.200000000000003
+8,2,"Quando fu seppellito, il fedele Giovanni raccontò al giovane quello che aveva promesso a suo padre sul letto di morte e disse: ""Lo manterrò certamente e ti sarò fedele, dovesse costarmi la vita.""",39,8,416,0.09090909090909091,37.81818181818182
+8,2,"Il giovane piangendo esclamò: ""Io pure non dimenticherò mai la tua fedeltà.""",16,2,120,0.09090909090909091,10.90909090909091
+8,2,"Finito il lutto, il fedele Giovanni gli disse: ""E' tempo che tu veda i tuoi beni; voglio mostrarti il castello paterno.""",28,6,216,0.09090909090909091,19.636363636363637
+8,2,"Lo condusse in giro da ogni parte, su e giù, e gli fece vedere tutti i tesori e le splendide stanze; non aprì soltanto la camera che racchiudeva il ritratto.",34,8,291,0.09090909090909091,26.454545454545457
+8,2,Il ritratto era posto in modo che aprendo la porta lo si vedesse subito; era dipinto con tanta arte da sembrare vivo e non vi era al mondo nulla di più soave e di più bello.,38,5,367,0.09090909090909091,33.36363636363637
+8,2,"Ma il giovane re si accorse subito che il fedele Giovanni passava sempre davanti a questa porta senza fermarsi e disse: ""Perché‚ questa non la apri?""",30,5,227,0.09090909090909091,20.636363636363637
+8,2,"- ""Vi è qualcosa dentro che ti spaventerebbe,"" rispose il servo.",15,4,72,0.09090909090909091,6.545454545454546
+8,2,"Ma il re replicò: ""Ho visto tutto il castello; voglio sapere anche che cosa c'è qua dentro.""",24,6,146,0.09090909090909091,13.272727272727273
+8,2,Andò alla porta e cercò di aprirla con la forza.,11,2,55,0.09090909090909091,5.0
+8,2,"Allora il fedele Giovanni lo trattenne e disse: ""Prima che morisse, ho promesso a tuo padre che non avresti visto quello che vi è nella stanza: potrebbe causare a entrambi grande sventura.""",38,10,373,0.09090909090909091,33.90909090909091
+8,2,"- ""No,"" rispose il giovane re, ""se non entro è la mia rovina: non avrò pace giorno e notte, finché‚ non l'avrò visto; non me ne andrò di qui finché‚ non avrai aperto.""",43,10,718,0.09090909090909091,65.27272727272728
+8,3,"Il fedele Giovanni vide allora che non vi era più nulla da fare e, col cuore grosso e molti sospiri, cercò la chiave nel grosso mazzo.",29,6,379,0.125,47.375
+8,3,"Poi aprì la porta della stanza ed entrò per primo pensando che il re non potesse vedere il ritratto; ma questi era troppo curioso, si mise sulla punta dei piedi e guardò al di sopra della sua spalla.",41,7,421,0.125,52.625
+8,3,"E quando vide l'immagine della fanciulla, così bella e splendente d'oro, cadde a terra svenuto.",18,7,137,0.125,17.125
+8,3,"Il fedele Giovanni lo sollevò, lo portò a letto e pensò preoccupato: ""La disgrazia è avvenuta; Signore Iddio, che sarà mai?""",28,7,352,0.125,44.0
+8,3,"Poi lo rinvigorì con del vino finché‚ si riebbe, ma la prima cosa che il giovane re disse fu: ""Ah, di chi è quei bel ritratto?""",32,8,466,0.125,58.25
+8,3,"- ""E' la principessa dal tetto d'oro,"" rispose il fedele Giovanni.",16,4,76,0.125,9.5
+8,3,"Allora il re disse: ""Il mio amore per lei è così grande che se tutte le foglie degli alberi fossero lingue, non potrebbero esprimerlo.",28,7,378,0.125,47.25
+8,3,"Pur di ottenerla in isposa rischierei la vita; tu sei il mio fedelissimo Giovanni e devi aiutarmi.""",20,3,172,0.125,21.5
+8,4,"Il fedele servitore pensò a lungo come agire, poiché‚ giungere al cospetto della principessa era cosa assai difficile.",20,3,172,0.16666666666666666,28.666666666666664
+8,4,"Alla fine escogitò un sistema e disse al re: ""Tutto ciò che la circonda è d'oro: tavoli, sedie, piatti, bicchieri, scodelle e ogni altra suppellettile domestica.",34,10,561,0.16666666666666666,93.5
+8,4,"Fra i tuoi beni vi sono cinque tonnellate d'oro; fanne lavorare una dagli orefici del regno, che ne facciano ogni sorta di vasellame e di utensile, ogni sorta di uccelli, fiere e mostri, con queste cose andremo e tenteremo la fortuna.""",48,10,1038,0.16666666666666666,173.0
+8,4,"Il re fece radunare tutti gli orefici e li fece lavorare giorno e notte, finché‚ furono pronti gli oggetti più splendidi.",23,4,253,0.16666666666666666,42.166666666666664
+8,4,"Il fedele Giovanni fece allora caricare il tutto su di una nave, indossò degli abiti da mercante e così fece pure il re in modo da rendersi irriconoscibile.",30,4,407,0.16666666666666666,67.83333333333333
+8,4,Poi salparono e navigarono a lungo per il mare finché‚ giunsero alla città nella quale abitava la principessa dal tetto d'oro.,22,4,231,0.16666666666666666,38.5
+8,5,Il fedele Giovanni disse al re di rimanere sulla nave e di aspettarlo.,14,2,79,0.07142857142857142,5.642857142857142
+8,5,"""Forse,"" disse, ""porterò con me la principessa, per questo abbiate cura che tutto sia in ordine: esponete il vasellame d'oro e fate adornare tutta la nave.""",35,9,531,0.07142857142857142,37.92857142857142
+8,5,"Poi radunò nel grembiule ogni sorta di oggetti d'oro, sbarcò e andò dritto al castello reale.",18,3,81,0.07142857142857142,5.785714285714286
+8,5,"Quando giunse nel cortile del castello, c'era alla fonte una bella fanciulla, che aveva in mano due secchi d'oro e attingeva acqua.",25,6,300,0.07142857142857142,21.428571428571427
+8,5,"Quand'ella si volse per portar via l'acqua dai bagliori dorati, vide lo straniero e gli domandò chi fosse.",20,5,190,0.07142857142857142,13.571428571428571
+8,5,"Allora egli rispose: ""Sono un mercante,"" e aprì il grembiule, lasciando che vi guardasse dentro.",21,6,174,0.07142857142857142,12.428571428571427
+8,5,"Allora ella esclamò: ""Oh, che begli oggetti d'oro!""",13,4,78,0.07142857142857142,5.571428571428571
+8,5,depose i secchi e si mise a esaminarli uno dopo l'altro.,12,3,48,0.07142857142857142,3.4285714285714284
+8,5,"Poi disse: ""Deve vederli la principessa, gli oggetti d'oro le piacciono tanto che vi comprerà tutto.""",21,4,210,0.07142857142857142,15.0
+8,5,"Lo prese per mano e lo condusse fino alle stanze superiori, poiché‚ era la cameriera.",17,4,72,0.07142857142857142,5.142857142857142
+8,5,"Quando la principessa vide la merce, tutta contenta disse: ""E' così ben lavorata che voglio comprarti tutto.""",23,7,253,0.07142857142857142,18.07142857142857
+8,5,"Ma il fedele Giovanni disse: ""Io sono soltanto il servo di un ricco mercante; ciò che ho qui è nulla in confronto a quello che il mio padrone ha sulla sua nave; là vi è quanto di più artistico e di più prezioso sia mai stato lavorato in oro.""",55,9,837,0.07142857142857142,59.785714285714285
+8,5,"Ella voleva che le portassero tutto al castello, ma egli disse: ""Per fare questo occorrono molti giorni, poiché‚ vi è moltissima merce; ci vogliono tante sale per esporla che la vostra casa non basterebbe.""",41,10,820,0.07142857142857142,58.57142857142857
+8,5,"Così la curiosità e il desiderio crebbero in lei sempre più, finché‚ disse: ""Conducimi alla nave: voglio andare io stessa a vedere i tesori del tuo padrone.""",33,6,321,0.07142857142857142,22.928571428571427
+8,6,"Tutto contento, il fedele Giovanni la condusse alla nave e il re, quando la vide, credette che il cuore gli scoppiasse e pot‚ trattenersi a fatica.",30,8,255,0.1,25.5
+8,6,"Ella salì sulla nave e il re la condusse all'interno, ma il fedele Giovanni rimase presso il timoniere e ordinò che la nave salpasse: ""Spiegate le vele, che voli come un uccello nell'aria!""",39,10,636,0.1,63.6
+8,6,"Intanto il re le faceva vedere all'interno tutti gli oggetti d'oro uno per uno: i piatti, i bicchieri, le ciotole, gli uccelli, le fiere e i mostri.",33,8,336,0.1,33.6
+8,6,Passarono diverse ore ed ella rimirava ogni cosa con tale gioia da non accorgersi che la nave era partita.,20,2,142,0.1,14.200000000000001
+8,6,"Quand'ebbe esaminato l'ultimo oggetto, ringraziò il mercante e volle ritornare a casa; ma, giunta sul ponte, vide che la nave correva a vele spiegate in alto mare, lontano da terra.",36,9,480,0.1,48.0
+8,6,"""Ah,"" gridò spaventata, ""sono stata ingannala, rapita; sono nelle mani di un mercante: preferirei morire!""",25,6,300,0.1,30.0
+8,6,"Ma il re la prese per mano e disse: ""Non sono un mercante ma un re, non inferiore a te per nascita.",26,8,325,0.1,32.5
+8,6,Se ti ho rapita con l'astuzia è stato solo per il grande amore che ti porto.,17,4,136,0.1,13.600000000000001
+8,6,"Quando vidi il tuo ritratto la prima volta, caddi a terra svenuto.""",15,4,60,0.1,6.0
+8,6,"All'udire queste parole, la principessa dal tetto d'oro si consolò; e fu così incline ad amarlo, che accettò volentieri di diventare sua moglie.",27,7,182,0.1,18.2
+8,7,"Ma, mentre navigavano in alto mare, il fedele Giovanni, che sedeva a prua e suonava, scorse in aria tre corvi che si avvicinavano a volo.",30,10,227,0.045454545454545456,10.318181818181818
+8,7,"Smise di suonare e ascoltò quel che dicevano, perché‚ lo capiva bene.",14,4,91,0.045454545454545456,4.136363636363637
+8,7,"Uno gracchiò: ""Ah, si porta a casa la principessa dal tetto d'oro!""",17,3,73,0.045454545454545456,3.3181818181818183
+8,7,"- ""Sì"" rispose il secondo ""ma non l'ha ancora!""",14,4,91,0.045454545454545456,4.136363636363637
+8,7,"E il terzo disse: ""Ma sì, è con lui sulla nave!""",16,5,94,0.045454545454545456,4.2727272727272725
+8,7,"Allora il primo riprese a dire: ""A che giova questo?",13,3,51,0.045454545454545456,2.3181818181818183
+8,7,"Quando sbarcheranno, gli balzerà incontro un cavallo sauro: allora egli vorrà cavalcarlo e se lo farà il cavallo correrà via con lui e si alzerà in volo, cosicché‚ egli non rivedrà mai più la sua fanciulla.""",41,8,820,0.045454545454545456,37.27272727272727
+8,7,"Il secondo disse: ""Non vi è modo per salvarsi?""",13,3,78,0.045454545454545456,3.5454545454545454
+8,7,"- ""Oh sì, se colui che è in sella estrae il fucile che è infilato nella cavezza del cavallo e lo uccide, il giovane re è salvo; ma chi può saperlo?",36,11,534,0.045454545454545456,24.272727272727273
+8,7,"E chi sapendolo glielo dicesse, diventerebbe di pietra dalla punta dei piedi alle ginocchia.""",17,4,108,0.045454545454545456,4.909090909090909
+8,7,"Allora il secondo disse: ""Io so di più: anche se il cavallo viene ucciso, il giovane re non serba la sua sposa!",27,5,303,0.045454545454545456,13.772727272727273
+8,7,"Quando entreranno nel castello, troveranno su di un vassoio una camicia nuziale che sembrerà intessuta d'oro e d'argento, ma non si tratterà che di pece e zolfo: Se egli la indosserà brucerà fino al midollo.""",40,11,532,0.045454545454545456,24.181818181818183
+8,7,"Il terzo disse: ""Non vi è modo per salvarsi?""",13,3,78,0.045454545454545456,3.5454545454545454
+8,7,"- ""Oh sì,"" rispose il secondo, ""se uno afferra la camicia con dei guanti e la getta nel fuoco, in modo che bruci, il giovane re è salvo.",36,9,456,0.045454545454545456,20.727272727272727
+8,7,Ma a che giova?,5,3,10,0.045454545454545456,0.4545454545454546
+8,7,"Chi sapendolo glielo dicesse, diventerebbe di pietra dal ginocchio al cuore.""",14,3,91,0.045454545454545456,4.136363636363637
+8,7,"Allora il terzo disse: ""Io so di più: anche se bruciasse la camicia nuziale, il giovane re non avrebbe ancora la sua sposa!",28,6,328,0.045454545454545456,14.90909090909091
+8,7,"Quando, dopo le nozze, incomincerà il ballo e la giovane regina danzerà, impallidirà all'improvviso e cadrà come morta.",22,9,177,0.045454545454545456,8.045454545454545
+8,7,"E se qualcuno non la solleva e non succhia tre gocce di sangue dalla sua mammella destra e non le risputa, ella morirà.",25,6,277,0.045454545454545456,12.590909090909092
+8,7,"Ma se qualcuno lo sa e lo rivela, diventerà tutto di pietra, dalla testa fino alla punta dei piedi.""",23,6,232,0.045454545454545456,10.545454545454545
+8,7,"Quando i corvi si furono scambiati queste parole, volarono via, e il fedele Giovanni aveva capito tutto; ma da quel momento in poi fu triste e taciturno: infatti se avesse taciuto al suo signore ciò che aveva udito, questi sarebbe stato infelice, e se glielo avesse rivelato avrebbe dovuto sacrificare la sua stessa vita.",61,15,1714,0.045454545454545456,77.9090909090909
+8,7,"Infine egli disse fra s': ""Voglio salvare il mio signore, anche se questo dovesse causare la mia rovina.""",24,4,276,0.045454545454545456,12.545454545454545
+8,8,"Quando giunsero a terra, accadde quel che il corvo aveva predetto e uno splendido sauro balzò loro innanzi.",20,5,172,0.045454545454545456,7.818181818181818
+8,8,"""Oh,"" esclamò il re, ""mi porterà al mio castello,"" e volle montare in sella; ma il fedele Giovanni lo precedette, balzò velocemente in sella, estrasse l'arma dalla cavezza e lo uccise.",42,10,713,0.045454545454545456,32.40909090909091
+8,8,"Allora gli altri servi del re, che non amavano il fedele Giovanni, esclamarono: ""Che cosa ignobile, uccidere quel bell'animale che doveva portare il re al castello!""",33,8,528,0.045454545454545456,24.0
+8,8,"Ma il re disse: ""Tacete e lasciatelo fare: è il mio fedelissimo Giovanni, avrà un buon motivo.""",23,6,253,0.045454545454545456,11.5
+8,8,"Poi andarono al castello e nella sala c'era il vassoio sul quale era posata la camicia nuziale, che sembrava tutta d'oro e d'argento.",25,6,277,0.045454545454545456,12.590909090909092
+8,8,"Il giovane re si fece avanti per prenderla, ma il fedele Giovanni lo spinse via, afferrò la camicia con i guanti, la gettò nel fuoco e la bruciò.",32,7,298,0.045454545454545456,13.545454545454545
+8,8,"Gli altri servi ricominciarono a mormorare e dissero: ""Guardate, ora brucia persino la camicia nuziale del re!""",22,4,177,0.045454545454545456,8.045454545454545
+8,8,"Ma il giovane re disse: ""Avrà un buon motivo, lasciatelo fare, è il mio fedelissimo Giovanni.""",22,5,151,0.045454545454545456,6.863636363636364
+8,8,Poi si celebrarono le nozze; il ballo incominciò e anche la sposa vi prese parte.,17,3,73,0.045454545454545456,3.3181818181818183
+8,8,Il fedele Giovanni stava attento e la guardava in viso.,11,2,46,0.045454545454545456,2.090909090909091
+8,8,D'un tratto impallidì e cadde a terra come morta.,10,3,25,0.045454545454545456,1.1363636363636365
+8,8,"Allora egli corse a lei, la sollevò e la portò in una stanza; qui la distese, si inginocchiò, succhiò le tre gocce di sangue dalla sua mammella destra e le sputò.",36,7,596,0.045454545454545456,27.09090909090909
+8,8,"Subito ella riprese a respirare e si riebbe, ma il giovane re aveva visto tutto e, non sapendo perché‚ il fedele Giovanni lo avesse fatto, andò in collera e gridò: ""Gettatelo in prigione!""",40,10,706,0.045454545454545456,32.09090909090909
+8,8,"Il mattino dopo il fedele Giovanni fu condannato e condotto al patibolo e quando fu lassù e stava per essere giustiziato, disse: ""Chi deve morire, può parlare ancora una volta prima della sua fine; ho anch'io questo diritto?""",45,14,587,0.045454545454545456,26.681818181818183
+8,8,"- ""Sì,"" rispose il re, ""ti sia concesso.""",15,5,60,0.045454545454545456,2.7272727272727275
+8,8,"Allora il fedele Giovanni disse: ""Sono condannato ingiustamente e ti sono sempre stato fedele.""",18,3,153,0.045454545454545456,6.954545454545455
+8,8,E gli raccontò come avesse udito sul mare il discorso dei corvi e deciso di salvare il suo signore; per questo aveva dovuto fare tutto quello che aveva fatto.,31,7,384,0.045454545454545456,17.454545454545453
+8,8,"Allora il re esclamò: ""Oh mio fedelissimo Giovanni!",11,2,55,0.045454545454545456,2.5
+8,8,Grazia!,2,1,1,0.045454545454545456,0.045454545454545456
+8,8,Grazia!,2,1,1,0.045454545454545456,0.045454545454545456
+8,8,"Portatelo giù.""",4,1,6,0.045454545454545456,0.2727272727272727
+8,8,"Ma il fedele Giovanni, appena aveva pronunciato l'ultima parola, era caduto senza vita ed era diventato di pietra.",21,4,135,0.045454545454545456,6.136363636363637
+8,9,"Il re e la regina se ne afflissero molto e il re diceva: ""Ah, come ho mal ricompensato tanta fedeltà!""",25,7,181,0.047619047619047616,8.619047619047619
+8,9,Fece sollevare la statua di pietra e la fece mettere nella sua stanza accanto al suo letto.,18,2,153,0.047619047619047616,7.285714285714286
+8,9,"Ogni volta che la guardava, piangeva e diceva: ""Ah, potessi ridarti la vita, mio fedelissimo Giovanni!""",23,7,253,0.047619047619047616,12.047619047619047
+8,9,"Passò qualche tempo e la regina partorì due gemelli, due maschietti, che crebbero ed erano la sua gioia.",21,5,210,0.047619047619047616,10.0
+8,9,"Un giorno che la regina era in chiesa e i due bambini giocavano accanto al padre, il re guardò la statua di pietra con grande tristezza, sospirò e disse: ""Ah, potessi ridarti la vita, mio fedelissimo Giovanni!""",45,9,990,0.047619047619047616,47.14285714285714
+8,9,"Allora la statua incominciò a parlare e disse: ""Sì, puoi ridarmi la vita se sarai disposto a dare ciò che ti è più caro.""",29,6,331,0.047619047619047616,15.761904761904761
+8,9,"Allora il re esclamò: ""Per te darò tutto quello che ho al mondo!""",17,4,97,0.047619047619047616,4.619047619047619
+8,9,"La pietra proseguì: ""Se di tua mano tagli la testa ai tuoi due bambini e mi ricopri con il loro sangue, allora riavrò la vita.""",30,5,231,0.047619047619047616,11.0
+8,9,"Il re inorridì quando udì che doveva uccidere egli stesso i suoi diletti figli, ma pensò alla grande fedeltà del fedele Giovanni, che era morto per lui: trasse la spada e di sua mano tagliò la testa ai bambini.",43,10,562,0.047619047619047616,26.76190476190476
+8,9,"E quando ebbe ricoperto la statua con il loro sangue, essa si rianimò e il fedele Giovanni gli stette di nuovo innanzi, fresco e sano.",28,7,378,0.047619047619047616,18.0
+8,9,"Ed egli disse al re: ""Voglio ricompensare la tua fedeltà"" e, prese le teste dei bambini, le rimise sul busto e spalmò le ferite con il loro sangue.",34,6,399,0.047619047619047616,19.0
+8,9,In un attimo i bambini ritornarono sani e ripresero a saltare e a giocare come se nulla fosse accaduto.,20,5,130,0.047619047619047616,6.19047619047619
+8,9,"Il re era felice e, quando vide venire la regina, nascose il fedele Giovanni e i due bambini in un grande armadio.",25,6,300,0.047619047619047616,14.285714285714285
+8,9,"Quando ella entrò le disse: ""Hai pregato in chiesa?""",13,3,78,0.047619047619047616,3.714285714285714
+8,9,"- ""Sì"" rispose la regina ""ma ho sempre pensato al fedele Giovanni che è stato così sventurato per colpa nostra.""",25,6,300,0.047619047619047616,14.285714285714285
+8,9,"Allora egli disse: ""Cara moglie, noi possiamo ridargli la vita, ma a prezzo del sacrificio dei nostri figlioletti.""",24,5,276,0.047619047619047616,13.142857142857142
+8,9,"La regina impallidì e le si gelò il sangue, ma disse: ""Glielo dobbiamo per la sua grande fedeltà.""",23,6,232,0.047619047619047616,11.047619047619047
+8,9,E il re si rallegrò che ella pensasse come lui; andò ad aprire l'armadio e ne uscirono i bambini e il fedele Giovanni.,25,7,172,0.047619047619047616,8.19047619047619
+8,9,"Il re disse: ""Grazie a Dio egli è libero dall'incantesimo e abbiamo ancora i nostri figlioletti.""",20,4,120,0.047619047619047616,5.7142857142857135
+8,9,E le raccontò tutto quello che era successo.,9,3,29,0.047619047619047616,1.380952380952381
+8,9,Poi vissero felici insieme fino alla morte.,8,1,28,0.047619047619047616,1.3333333333333333
+9,1,Un padre aveva due figli.,6,1,15,0.125,1.875
+9,1,"Il maggiore era giudizioso e prudente e sapeva cavarsela in ogni situazione, mentre il minore era stupido, non imparava né‚ capiva nulla e quando la gente lo incontrava diceva: ""Sarà un bel peso per il padre!""",42,10,861,0.125,107.625
+9,1,"Se c'era qualcosa da fare, toccava sempre al maggiore; ma se il padre lo mandava a prendere qualcosa di sera o addirittura di notte, e la strada passava vicino al cimitero o a qualche luogo terrificante, egli rispondeva: ""Ah, padre mi viene la pelle d'oca!,"" poiché‚ era pauroso.",59,14,1159,0.125,144.875
+9,1,"Oppure quando di sera, accanto al fuoco, si raccontavano delle storie da far rabbrividire, coloro che ascoltavano dicevano a volte: ""Ah mi viene la pelle d'oca!""",33,7,288,0.125,36.0
+9,1,"Il minore se ne stava seduto in un angolo, ascoltava e non capiva che cosa ciò potesse significare.",20,5,190,0.125,23.75
+9,1,"""Dicono sempre: mi viene la pelle d'oca!",10,2,45,0.125,5.625
+9,1,mi viene la pelle d'oca!,6,1,15,0.125,1.875
+9,1,"A me non viene: sarà anche questa un'arte di cui non capisco niente.""",16,3,120,0.125,15.0
+9,2,"Un bel giorno il padre gli disse: ""Ascolta, tu in quell'angolo diventi grande e grosso, ed è ora che impari a guadagnarti il pane.",29,6,274,0.16666666666666666,45.666666666666664
+9,2,"Guarda come si dà da fare tuo fratello; ma con te è fatica sprecata.""",17,4,121,0.16666666666666666,20.166666666666664
+9,2,"- ""Sì padre,"" egli rispose, ""vorrei imparare qualcosa; anzi, se fosse possibile, mi piacerebbe imparare a farmi venire la pelle d'oca; di questo non so proprio nulla.""",38,9,517,0.16666666666666666,86.16666666666666
+9,2,"Il fratello maggiore rise nell'udirlo e pensò fra s': ""Mio Dio, che stupido è mio fratello, non se ne caverà mai nulla.",28,7,378,0.16666666666666666,63.0
+9,2,"Il buon giorno si vede dal mattino.""",9,1,36,0.16666666666666666,6.0
+9,2,"Il padre sbuffò e gli rispose: ""La pelle d'oca imparerai ad averla, ma con questo non ti guadagnerai il pane.""",25,5,300,0.16666666666666666,50.0
+9,3,"Poco tempo dopo venne a fare loro visita il sagrestano; il padre gli confidò i suoi guai e gli raccontò che il figlio più giovane era maldestro in ogni cosa, non sapeva e non imparava nulla.",39,7,636,0.043478260869565216,27.652173913043477
+9,3,"""Pensate, quando gli ho chiesto in che modo voleva guadagnarsi il pane, ha risposto che voleva imparare a farsi venire la pelle d'oca!""",28,6,378,0.043478260869565216,16.434782608695652
+9,3,"- ""Oh!""",5,2,10,0.043478260869565216,0.43478260869565216
+9,3,"rispose il sagrestano, ""può impararlo da me; affidatemelo, lo sgrosserò.""",16,4,120,0.043478260869565216,5.217391304347826
+9,3,Il padre era contento perché‚ pensava che il giovane avrebbe messo giudizio.,13,2,78,0.043478260869565216,3.391304347826087
+9,3,Così il sagrestano se lo portò a casa ed egli dovette suonargli le campane.,15,3,60,0.043478260869565216,2.608695652173913
+9,3,"Un paio di giorni dopo lo svegliò a mezzanotte, gli ordinò di alzarsi, di salire sul campanile e di suonare.",23,5,157,0.043478260869565216,6.826086956521739
+9,3,"""Imparerai che cos'è la pelle d'oca!""",11,2,55,0.043478260869565216,2.391304347826087
+9,3,"pensava e, per fargli prendere un bello spavento, lo precedette di nascosto e si mise davanti allo spiraglio della porta: il giovane doveva credere che fosse un fantasma.",32,8,388,0.043478260869565216,16.869565217391305
+9,3,"Questi salì tranquillamente fino in cima al campanile, e quando fu sopra vide una figura nello spiraglio.",19,4,171,0.043478260869565216,7.434782608695652
+9,3,"""Chi è là?""",6,2,15,0.043478260869565216,0.6521739130434783
+9,3,"gridò, ma la figura non rispose n‚ si mosse.",11,3,31,0.043478260869565216,1.3478260869565217
+9,3,"Allora gli disse: ""Che vuoi qui di notte?",11,3,55,0.043478260869565216,2.391304347826087
+9,3,"Vattene o ti butto giù.""",7,2,13,0.043478260869565216,0.5652173913043478
+9,3,"Il sagrestano pensò: ""Non avrà intenzioni così malvagie,"" tacque e restò immobile.",17,5,97,0.043478260869565216,4.217391304347826
+9,3,"Il giovane lo interpellò per la terza volta e, siccome non ottenne nessuna risposta, prese la rincorsa e buttò giù il fantasma che si ruppe le gambe e il collo.",33,8,528,0.043478260869565216,22.956521739130434
+9,3,"Suonò poi le campane e, subito dopo, discese e si rimise a dormire senza dire una parola.",20,6,106,0.043478260869565216,4.608695652173913
+9,3,"La moglie del sagrestano attese a lungo il marito, ma quello non veniva mai.",16,3,76,0.043478260869565216,3.3043478260869565
+9,3,"Alla fine si spaventò, svegliò il giovane e disse: ""Non sai dov'è mio marito?",20,4,190,0.043478260869565216,8.26086956521739
+9,3,"E' salito con te sul campani le.""",10,2,45,0.043478260869565216,1.9565217391304348
+9,3,"- ""No,"" rispose il ragazzo, ""ma c'era un tale nello spiraglio, e siccome non se ne andava e non voleva rispondermi, l'ho buttato giù.",32,10,366,0.043478260869565216,15.91304347826087
+9,3,"Andate a vedere se è lui.""",8,2,28,0.043478260869565216,1.2173913043478262
+9,3,"La donna corse al camposanto, piena di paura, e trovò il marito che giaceva per terra, morto.",21,7,191,0.043478260869565216,8.304347826086957
+9,4,"Allora si recò urlando dal padre del ragazzo, lo svegliò e disse: ""Ah, che sciagura ha causato il vostro fannullone!",25,6,300,0.09090909090909091,27.272727272727273
+9,4,"Ha buttato giù mio marito dal campanile, e ora giace morto al camposanto.""",16,3,120,0.09090909090909091,10.90909090909091
+9,4,"Il padre si spaventò, corse dal ragazzo e gli disse, rimproverandolo aspramente: ""Queste empietà deve avertele ispirate il Maligno!""",25,5,192,0.09090909090909091,17.454545454545453
+9,4,"- ""Ah padre!""",6,2,15,0.09090909090909091,1.3636363636363638
+9,4,"rispose egli, ""sono innocente: se ne stava là di notte, come uno che ha cattive intenzioni.",21,7,126,0.09090909090909091,11.454545454545455
+9,4,"Io non sapevo chi fosse e gliel'ho domandato tre volte; perché‚ non se n'è andato?""",20,5,190,0.09090909090909091,17.272727272727273
+9,4,"- ""Ah,"" disse il padre, ""da te ho soltanto dei dispiaceri, togliti dai piedi, non ti voglio più vedere.""",28,6,268,0.09090909090909091,24.363636363636363
+9,4,"- ""Sì padre, volentieri, aspetta solo che faccia giorno e me ne andrò, e imparerò che cosa sia avere la pelle d'oca, così conoscerò un'arte che mi darà da mangiare.""",37,13,367,0.09090909090909091,33.36363636363637
+9,4,"- ""Impara quel che ti pare,"" disse il padre, ""per me fa lo stesso.",20,6,100,0.09090909090909091,9.090909090909092
+9,4,"Eccoti cinquanta scudi, prendili e sparisci dalla mia vista; e non dire a nessuno da dove vieni e chi è tuo padre, perché‚ mi vergogno di te.""",32,9,262,0.09090909090909091,23.81818181818182
+9,4,"- ""Sì padre, come volete; se non chiedete altro, posso ben tenerlo a mente.""",20,7,120,0.09090909090909091,10.90909090909091
+9,5,"Allo spuntar del giorno, il giovane si mise in tasca i suoi cinquanta scudi e se ne andò sulla via maestra dicendo fra s': ""Ah, se mi venisse la pelle d'oca!",37,7,378,0.047619047619047616,18.0
+9,5,"Se mi venisse la pelle d'oca!""",8,2,28,0.047619047619047616,1.3333333333333333
+9,5,"Lo raggiunse un uomo che sentì questo discorso; quando ebbero fatto un pezzo di strada e furono in vista della forca, questi disse al ragazzo: ""Vedi, quello è l'albero su cui sette uomini hanno sposato la figlia del funaio: siediti là sotto e aspetta che venga notte, allora imparerai che cos'è la pelle d'oca.""",65,14,1540,0.047619047619047616,73.33333333333333
+9,5,"- ""Se è tutto qui,"" rispose il giovane, ""è presto fatto; se imparo così in fretta che cos'è la pelle d'oca, avrai i miei cinquanta scudi: ritorna da me domani mattina presto.""",44,11,666,0.047619047619047616,31.71428571428571
+9,5,"Il giovane andò allora alla forca, vi si sedette sotto e attese la sera.",16,3,76,0.047619047619047616,3.6190476190476186
+9,5,"Poiché‚ aveva freddo, accese un fuoco; ma a mezzanotte il vento soffiava così gelido che egli non riusciva a scaldarsi nonostante il fuoco.",26,7,211,0.047619047619047616,10.047619047619047
+9,5,"Quando il vento spinse gli impiccati l'uno contro l'altro facendoli oscillare su e giù, egli pensò: ""Tu geli qui accanto al fuoco, chissà che freddo hanno quelli lassù!",33,7,528,0.047619047619047616,25.142857142857142
+9,5,"E come si dimenano!""",6,3,11,0.047619047619047616,0.5238095238095237
+9,5,"E siccome era di buon cuore, appoggiò la scala alla forca, salì, li staccò a uno a uno e li portò giù tutti e sette.",29,7,379,0.047619047619047616,18.047619047619047
+9,5,"Poi attizzò il fuoco, ci soffiò sopra e ci sedette intorno gli impiccati perché‚ si scaldassero.",18,3,153,0.047619047619047616,7.285714285714286
+9,5,Ma essi se ne stavano seduti senza muoversi e il fuoco si appiccò ai loro vestiti.,17,4,97,0.047619047619047616,4.619047619047619
+9,5,"Allora egli disse: ""Fate attenzione, altrimenti vi riappendo di nuovo lassù.""",16,3,120,0.047619047619047616,5.7142857142857135
+9,5,"Ma i morti non sentivano, tacevano e continuavano a lasciar bruciare i loro stracci.",16,4,94,0.047619047619047616,4.476190476190476
+9,5,"Perciò egli andò in collera e disse: ""Se non volete fare attenzione, io non posso aiutarvi: non voglio bruciare con voi.""",27,6,186,0.047619047619047616,8.857142857142856
+9,5,E li riappese l'uno dopo l'altro.,7,3,16,0.047619047619047616,0.7619047619047619
+9,5,Poi si sedette accanto al fuoco e si addormentò.,10,2,45,0.047619047619047616,2.142857142857143
+9,5,"Il mattino dopo venne l'uomo che voleva i cinquanta scudi e disse: ""Hai imparato che cos'è la pelle d'oca?""",25,6,172,0.047619047619047616,8.19047619047619
+9,5,"- ""No,"" rispose egli.",8,3,28,0.047619047619047616,1.3333333333333333
+9,5,"""Come avrei potuto impararlo?",6,2,15,0.047619047619047616,0.7142857142857142
+9,5,"Quelli lassù non hanno aperto bocca, e sono così stupidi da lasciar bruciare quei due vecchi stracci che hanno addosso.""",23,5,253,0.047619047619047616,12.047619047619047
+9,5,"L'uomo capì che per quel giorno non poteva prendersi i cinquanta scudi, se ne andò e disse: ""Non mi è mai capitato di incontrare un tipo simile.""",32,7,286,0.047619047619047616,13.619047619047619
+9,6,"Anche il giovane andò per la sua strada e ricominciò a dire fra s': ""Ah, se mi venisse la pelle d'oca!",26,6,181,0.03571428571428571,6.4642857142857135
+9,6,"Se mi venisse la pelle d'oca!""",8,2,28,0.03571428571428571,1.0
+9,6,"L'udì un carrettiere che camminava dietro di lui e domandò: ""Chi sei?""",16,5,84,0.03571428571428571,3.0
+9,6,"- ""Non lo so,"" rispose il giovane.",11,3,34,0.03571428571428571,1.2142857142857142
+9,6,"Il carrettiere domandò ancora: ""Da dove vieni?""",11,4,39,0.03571428571428571,1.3928571428571428
+9,6,"- ""Non lo so.""",7,2,21,0.03571428571428571,0.75
+9,6,"- ""Chi è tuo padre?""",8,3,28,0.03571428571428571,1.0
+9,6,"- ""Non posso dirlo.""",7,2,21,0.03571428571428571,0.75
+9,6,"- ""Che cosa vai borbottando fra i denti?""",11,3,55,0.03571428571428571,1.9642857142857142
+9,6,"- ""Ah,"" rispose il giovane, ""vorrei farmi venire la pelle d'oca, ma nessuno sa insegnarmelo.""",23,6,168,0.03571428571428571,6.0
+9,6,"- ""Piantala di dire sciocchezze,"" disse il carrettiere.",12,3,42,0.03571428571428571,1.5
+9,6,"""Vieni con me, ti troverò un posto di lavoro.""",13,2,78,0.03571428571428571,2.7857142857142856
+9,6,Il giovane andò con il carrettiere e la sera giunsero a un'osteria dove volevano pernottare.,16,3,66,0.03571428571428571,2.357142857142857
+9,6,"Entrando egli disse ad alta voce: ""Se mi venisse la pelle d'oca!",15,3,105,0.03571428571428571,3.75
+9,6,"Se mi venisse la pelle d'oca!""",8,2,28,0.03571428571428571,1.0
+9,6,"L'oste, all'udirlo, disse ridendo: ""Se ne hai tanta voglia, qui ci sarebbe una bella occasione!""",22,6,231,0.03571428571428571,8.25
+9,6,"- ""Ah taci!""",6,2,15,0.03571428571428571,0.5357142857142857
+9,6,disse l'ostessa.,3,1,3,0.03571428571428571,0.10714285714285714
+9,6,"""Troppi audaci hanno già perso la vita.",9,1,36,0.03571428571428571,1.2857142857142856
+9,6,"Sarebbe un vero peccato se quei begli occhi non dovessero rivedere la luce del giorno!""",17,2,136,0.03571428571428571,4.857142857142857
+9,6,"Ma il giovane disse: ""Anche se è difficile, voglio impararlo una buona volta: me ne sono andato di casa per questo.""",27,7,351,0.03571428571428571,12.535714285714285
+9,6,"Non lasciò in pace l'oste finché‚ questi non gli raccontò che nelle vicinanze c'era un castello fatato, dove si poteva imparare benissimo che cosa fosse la pelle d'oca, purché‚ ci si vegliasse tre notti.",37,6,342,0.03571428571428571,12.214285714285714
+9,6,"A chi aveva tanto coraggio, il re aveva promesso in isposa sua figlia, la più bella fanciulla che esistesse al mondo.",24,5,276,0.03571428571428571,9.857142857142856
+9,6,"Nel castello erano inoltre celati dei favolosi tesori custoditi da spiriti, e sarebbero diventati di proprietà di chi avesse superato la prova.",24,4,276,0.03571428571428571,9.857142857142856
+9,6,"Già molti erano entrati nel castello, ma nessuno ne era uscito.",13,3,78,0.03571428571428571,2.7857142857142856
+9,6,"Il mattino dopo, il giovane si presentò al re e disse: ""Se fosse possibile vorrei vegliare tre notti nel castello fatato.""",26,6,259,0.03571428571428571,9.25
+9,6,"Il re lo guardò e siccome gli piacque disse: ""Puoi chiedermi anche tre cose e portarle con te al castello, ma devono essere cose prive di vita.""",32,6,388,0.03571428571428571,13.857142857142856
+9,6,"Allora egli rispose: ""Chiedo un fuoco, un tornio e un banco da ebanista con il suo coltello.""",22,4,193,0.03571428571428571,6.892857142857142
+9,7,"Il re gli fece portare ogni cosa al castello durante il giorno All'imbrunire il giovane vi entrò, si accese un bel fuoco in una stanza, vi mise accanto il banco da ebanista con il coltello, e si sedette sul tornio.",44,5,946,0.037037037037037035,35.03703703703704
+9,7,"""Ah, se mi venisse la pelle d'oca!""",11,3,34,0.037037037037037035,1.259259259259259
+9,7,disse egli.,3,1,3,0.037037037037037035,0.1111111111111111
+9,7,"""Ma non lo imparerò neanche qui.""",9,2,36,0.037037037037037035,1.3333333333333333
+9,7,"Verso mezzanotte volle attizzare il fuoco; mentre ci soffiava sopra, udì all'improvviso gridare da un angolo: ""Ohi miao!",23,5,141,0.037037037037037035,5.222222222222222
+9,7,"che freddo abbiamo!""",5,2,10,0.037037037037037035,0.37037037037037035
+9,7,"- ""Scimuniti,"" esclamò, ""perché‚ gridate?",11,4,55,0.037037037037037035,2.0370370370370368
+9,7,"Se avete freddo, venite, sedetevi accanto al fuoco e scaldatevi.""",14,5,49,0.037037037037037035,1.8148148148148147
+9,7,"Come ebbe detto questo, due grossi gatti neri si avvicinarono d'un balzo e gli si sedettero ai lati guardandolo ferocemente con i loro occhi di fuoco.",28,4,226,0.037037037037037035,8.37037037037037
+9,7,"Dopo un poco, quando si furono scaldati, dissero: ""Camerata, vogliamo giocare a carte?""",20,7,190,0.037037037037037035,7.037037037037036
+9,7,"- ""Sì,"" egli rispose, ""ma mostratemi le zampe.""",15,5,105,0.037037037037037035,3.888888888888889
+9,7,"Essi allora tirarono fuori gli artigli ""Oh,"" egli disse ""che unghie lunghe avete!",18,3,137,0.037037037037037035,5.0740740740740735
+9,7,"Aspettate, devo prima tagliarvele!""",7,3,21,0.037037037037037035,0.7777777777777777
+9,7,"Li afferrò allora per la collottola, li mise sul banco ed imprigionò loro le zampe.",17,3,136,0.037037037037037035,5.037037037037036
+9,7,"""Vi ho tenuti d'occhio,"" disse, ""e mi è passata la voglia di giocare a carte.""",22,4,231,0.037037037037037035,8.555555555555555
+9,7,Li uccise e li gettò in acqua.,8,2,28,0.037037037037037035,1.037037037037037
+9,7,"Ma aveva appena tolto di mezzo quei due e stava per sedersi accanto al fuoco, quando sbucarono da ogni parte cani e gatti neri, attaccati a catene infuocate; erano tanti ma tanti che egli non sapeva più dove cacciarsi.",43,12,862,0.037037037037037035,31.925925925925924
+9,7,"Gridavano terribilmente, gli calpestavano il fuoco, disperdevano le braci e volevano spegnerlo.",15,4,105,0.037037037037037035,3.888888888888889
+9,7,"Per un po' stette a guardare tranquillamente, ma quando incominciò a sentirsi a mal partito, afferrò il coltello, gridò: ""Finiamola, canaglia!""",30,9,237,0.037037037037037035,8.777777777777777
+9,7,e si gettò su di loro.,7,2,21,0.037037037037037035,0.7777777777777777
+9,7,"Alcuni balzarono via, gli altri li uccise e li buttò nello stagno.",14,3,91,0.037037037037037035,3.3703703703703702
+9,7,"Come fu di ritorno, riattizzò il fuoco soffiando sulla brace e si scaldò.",15,4,60,0.037037037037037035,2.2222222222222223
+9,7,"E, mentre se ne stava così seduto, si accorse che non riusciva più a tenere gli occhi aperti e che aveva voglia di dormire.",27,10,183,0.037037037037037035,6.777777777777778
+9,7,"Allora guardò intorno a s‚, vide un gran letto in un angolo e ci si coricò.",18,3,123,0.037037037037037035,4.555555555555555
+9,7,"Ma come volle chiudere gli occhi, il letto incominciò a muoversi da solo e andò a spasso per tutto il castello.",23,6,232,0.037037037037037035,8.592592592592592
+9,7,"""Benissimo,"" disse il giovane, ""ancora più in fretta!""",15,4,65,0.037037037037037035,2.4074074074074074
+9,7,"Allora il letto incominciò a rotolare su e giù per soglie e scale, come se fosse trainato da sei cavalli; d'un tratto, hopp, hopp, si ribaltò a gambe all'aria, e gli restò addosso.",40,13,672,0.037037037037037035,24.888888888888886
+9,8,"Allora egli scagliò in aria coperte e cuscini, saltò fuori e disse: ""Adesso vada a spasso chi ne ha voglia!""",25,6,172,0.1,17.2
+9,8,si distese accanto al fuoco e dormì sino a giorno.,11,2,55,0.1,5.5
+9,8,Al mattino venne il re e quando lo vide disteso a terra pensò che fosse morto e che gli spettri lo avessero ucciso.,24,6,150,0.1,15.0
+9,8,"Allora disse: ""Peccato!",6,2,15,0.1,1.5
+9,8,"Un così bel ragazzo!""",6,2,15,0.1,1.5
+9,8,"Il giovane lo udì, si rizzò e disse: ""Non siamo ancora a questo punto!""",19,5,106,0.1,10.600000000000001
+9,8,"Il re si stupì e, tutto contento, gli domandò com'era andata.",14,4,91,0.1,9.1
+9,8,"""Benissimo"" rispose egli ""la prima notte è passata e passeranno anche le altre due!""",19,3,126,0.1,12.600000000000001
+9,8,"Quando tornò dall'oste, questi fece tanto d'occhi e disse: ""Non pensavo di rivederti ancora vivo; hai imparato finalmente che cos'è la pelle d'oca?""",31,8,265,0.1,26.5
+9,8,"- ""No,"" rispose il giovane, ""non lo so; se solo qualcuno me lo dicesse!""",22,6,151,0.1,15.100000000000001
+9,9,"La seconda notte salì di nuovo al vecchio castello, si sedette accanto al fuoco e disse: ""Se mi venisse la pelle d'oca!""",27,5,326,0.041666666666666664,13.583333333333332
+9,9,"Verso mezzanotte sentì un rumore e un tramestio, prima piano, poi sempre più forte; poi un breve silenzio, infine un mezzo uomo cadde dal camino urlando, e gli piombò davanti.",36,9,630,0.041666666666666664,26.25
+9,9,"""Olà!""",4,1,6,0.041666666666666664,0.25
+9,9,"esclamò, ""ce ne vuole ancora metà, così è troppo poco.""",15,5,105,0.041666666666666664,4.375
+9,9,"Allora il rumore ricominciò, si udì strepitare e urlare, e anche la seconda metà cadde giù.",19,5,171,0.041666666666666664,7.125
+9,9,"""Aspetta,"" disse, ""voglio attizzarti un po' il fuoco.""",16,3,120,0.041666666666666664,5.0
+9,9,"Quando ebbe finito e si guardò nuovamente intorno, i due pezzi si erano riuniti e un omaccio orribile sedeva al suo posto.",24,5,276,0.041666666666666664,11.5
+9,9,"""Non intendevo dir questo,"" disse il giovane, ""il banco è mio.""",18,3,83,0.041666666666666664,3.458333333333333
+9,9,"L'uomo voleva respingerlo, ma il giovane non lo lasciò fare, lo spinse via con forza e si risedette di nuovo al suo posto.",26,5,325,0.041666666666666664,13.541666666666666
+9,9,"Allora caddero giù altri uomini che avevano nove stinchi e due teschi, li rizzarono e giocarono a birilli.",20,5,190,0.041666666666666664,7.916666666666666
+9,9,"Anche al giovane venne voglia di giocare e domandò: ""Sentite, posso giocare anch'io?""",18,4,137,0.041666666666666664,5.708333333333333
+9,9,"- ""Sì, se hai denaro.""",9,4,20,0.041666666666666664,0.8333333333333333
+9,9,"- ""Di denaro ne ho a sufficienza"" rispose ""ma le vostre palle non sono ben rotonde.""",21,3,135,0.041666666666666664,5.625
+9,9,"Allora egli prese i teschi, li mise sul tornio e li arrotondò.",14,3,79,0.041666666666666664,3.2916666666666665
+9,9,"""Adesso rotoleranno meglio!""",6,1,15,0.041666666666666664,0.625
+9,9,disse.,2,1,1,0.041666666666666664,0.041666666666666664
+9,9,"""Olà, ora ci divertiremo!""",8,2,16,0.041666666666666664,0.6666666666666666
+9,9,"Giocò e perse un po' di denaro, ma quando suonò mezzanotte tutto sparì davanti ai suoi occhi.",20,5,142,0.041666666666666664,5.916666666666666
+9,9,Si distese e si addormentò tranquillamente.,7,2,21,0.041666666666666664,0.875
+9,9,"Il mattino dopo venne il re a informarsi: ""Come ti è andata questa volta?""",18,4,93,0.041666666666666664,3.875
+9,9,domandò.,2,1,1,0.041666666666666664,0.041666666666666664
+9,9,"""Ho giocato a birilli"" rispose ""e ho perduto qualche soldo.""",15,2,57,0.041666666666666664,2.375
+9,9,"- ""Non ti è venuta la pelle d'oca?""",11,2,55,0.041666666666666664,2.2916666666666665
+9,9,"- ""macché‚"" disse ""me la sono spassata; se solo sapessi che cos'è la pelle d'oca!""",23,5,133,0.041666666666666664,5.541666666666666
+9,10,"La terza notte sedette di nuovo al suo banco e diceva tutto malinconico: ""Se mi venisse la pelle d'oca!""",23,4,253,0.05263157894736842,13.31578947368421
+9,10,"A notte inoltrata, giunsero sei omacci che portavano una cassa da morto.",14,3,91,0.05263157894736842,4.789473684210526
+9,10,"Allora egli disse: ""Ah, ah, è sicuramente il mio cuginetto che è morto qualche giorno fa.""",22,5,121,0.05263157894736842,6.368421052631579
+9,10,"Fece un cenno con il dito e gridò: ""Vieni, cuginetto, vieni!""",17,5,136,0.05263157894736842,7.157894736842104
+9,10,"Misero la bara a terra, ma egli si avvicinò e tolse il coperchio: dentro c'era un morto.",20,5,156,0.05263157894736842,8.210526315789473
+9,10,"Gli toccò il viso, ma era freddo come il ghiaccio.",12,4,42,0.05263157894736842,2.2105263157894735
+9,10,"""Aspetta,"" disse, ""ti voglio riscaldare un po'.""",15,3,105,0.05263157894736842,5.526315789473684
+9,10,"Andò al fuoco, si riscaldò la mano e gliela mise sul viso, ma il morto rimase freddo.",20,5,190,0.05263157894736842,10.0
+9,10,"Allora lo tirò fuori, si sedette davanti al fuoco, se lo prese sulle ginocchia e gli strofinò le braccia per riscaldarlo, Ma siccome anche questo non servì a nulla, gli venne un'idea: ""Se due sono a letto insieme, si riscaldano.""",49,12,1129,0.05263157894736842,59.421052631578945
+9,10,"Lo portò a letto, lo coprì e gli si distese accanto.",13,3,67,0.05263157894736842,3.526315789473684
+9,10,Dopo un po' anche il morto fu caldo e incominciò a muoversi.,14,3,61,0.05263157894736842,3.2105263157894735
+9,10,"Allora il giovane disse: ""Vedi, cuginetto, se non ti avessi scaldato!""",17,5,136,0.05263157894736842,7.157894736842104
+9,10,"Ma il morto prese a dire: ""Adesso ti voglio strozzare.""",14,3,61,0.05263157894736842,3.2105263157894735
+9,10,"- ""Cosa?""",5,2,10,0.05263157894736842,0.5263157894736842
+9,10,disse egli.,3,1,3,0.05263157894736842,0.15789473684210525
+9,10,"""E' questa la mia ricompensa?",8,2,28,0.05263157894736842,1.4736842105263157
+9,10,"Torna pure nella tua bara!""",7,1,21,0.05263157894736842,1.1052631578947367
+9,10,"Lo sollevò, ce lo buttò dentro e chiuse il coperchio: ritornarono i sei uomini e lo portarono via.",21,5,126,0.05263157894736842,6.63157894736842
+9,10,"""Non mi vuol venire la pelle d'oca,"" egli disse, ""qui non l'imparerò mai.""",20,3,100,0.05263157894736842,5.263157894736842
+9,11,"Allora entrò un uomo, che era più grosso di tutti gli altri e aveva un aspetto terribile; ma era vecchio e aveva una lunga barba bianca.",29,7,406,0.041666666666666664,16.916666666666664
+9,11,"""Oh tu, nanerottolo, imparerai presto che cos'è la pelle d'oca perché‚ devi morire.""",20,4,190,0.041666666666666664,7.916666666666666
+9,11,"- ""Non così in fretta!""",8,3,28,0.041666666666666664,1.1666666666666665
+9,11,egli rispose.,3,1,3,0.041666666666666664,0.125
+9,11,"""Per morire devo esserci anch'io.""",8,2,28,0.041666666666666664,1.1666666666666665
+9,11,"L'uomo disse: ""Ti prenderò!""",8,2,28,0.041666666666666664,1.1666666666666665
+9,11,"- ""Piano, non darti tante arie; sono forte quanto te, e forse anche di più.""",21,6,110,0.041666666666666664,4.583333333333333
+9,11,"- ""Lo vedremo,"" disse il vecchio, ""se sei forte più di me, ti lascerò andare; vieni, proviamo.""",27,8,231,0.041666666666666664,9.625
+9,11,"Attraverso passaggi oscuri, lo condusse a una fucina, prese un'accetta e con un colpo sbatté‚ a terra un'incudine.",21,4,135,0.041666666666666664,5.625
+9,11,"""So fare di meglio,"" disse il giovane e andò all'altra incudine; il vecchio gli si mise accanto per vedere, con la barba bianca penzoloni.",30,6,281,0.041666666666666664,11.708333333333332
+9,11,"Il giovane afferrò allora l'accetta, con un colpo spaccò l'incudine e vi serrò dentro la barba del vecchio.",20,3,190,0.041666666666666664,7.916666666666666
+9,11,"""Ora ti ho in pugno!""",8,1,28,0.041666666666666664,1.1666666666666665
+9,11,disse il ragazzo.,4,1,6,0.041666666666666664,0.25
+9,11,"""Adesso tocca a te morire.""",8,1,18,0.041666666666666664,0.75
+9,11,Afferrò una sbarra di ferro e percosse il vecchio fino a che questi si mise a piagnucolare e lo pregò di smettere: gli avrebbe dato dei grossi tesori.,30,6,225,0.041666666666666664,9.375
+9,11,Il giovane estrasse allora l'accetta e lasciò libero il vecchio che lo ricondusse al castello e gli mostrò in una cantina tre casse colme d'oro.,26,4,325,0.041666666666666664,13.541666666666666
+9,11,"""Di quest'oro,"" disse, ""una parte è dei poveri, l'altra del re, la terza è tua.""",24,5,276,0.041666666666666664,11.5
+9,11,"In quel momento suonò mezzanotte e lo spirito scomparve, sicché‚ il giovane si trovò al buio.",18,3,153,0.041666666666666664,6.375
+9,11,"""Me la caverò ugualmente,"" disse; a tastoni trovò il cammino che lo condusse alla sua stanza, dove si addormentò accanto al fuoco.",28,6,252,0.041666666666666664,10.5
+9,11,"Il mattino dopo venne il re e disse: ""Ora avrai imparato che cos'è la pelle d'oca!""",22,5,231,0.041666666666666664,9.625
+9,11,"- ""No,"" rispose, ""che roba è questa?",13,5,78,0.041666666666666664,3.25
+9,11,"E' stato qui mio cugino morto ed è venuto un vecchio barbuto che mi ha mostrato molto denaro là sotto, ma che cosa sia la pelle d'oca non me l'ha insegnato nessuno.""",36,7,506,0.041666666666666664,21.083333333333332
+9,11,"Il re disse: ""Hai sciolto l'incantesimo del castello e sposerai mia figlia.""",16,3,120,0.041666666666666664,5.0
+9,11,"- ""Tutto questo va benissimo, ma io continuo a non sapere che cos'è la pelle d'oca.""",22,5,123,0.041666666666666664,5.125
+9,12,"L'oro fu portato su e si celebrarono le nozze, ma il giovane re, per quanto amasse la sua sposa e fosse felice con lei, diceva sempre: ""Se mi venisse la pelle d'oca!",38,10,361,0.125,45.125
+9,12,"Se mi venisse la pelle d'oca!""",8,2,28,0.125,3.5
+9,12,La sposa finì coll'infastidirsi.,5,1,7,0.125,0.875
+9,12,"Allora la sua cameriera disse: ""Ci penserò io: imparerà che cos'è la pelle d'oca!""",21,4,210,0.125,26.25
+9,12,Uscì e fece riempire un secchio di ghiozzi.,9,2,36,0.125,4.5
+9,12,"Di notte, mentre il giovane re dormiva, sua moglie gli tolse la coperta e gli rovesciò addosso il secchio pieno di acqua gelata con i ghiozzi, cosicché‚ i pesciolini gli guizzarono intorno.",36,6,506,0.125,63.25
+9,12,"Allora egli si svegliò e gridò: ""Ah, che pelle d'oca, che pelle d'oca, moglie mia!",21,8,210,0.125,26.25
+9,12,"Sì, ora so cos'è la pelle d'oca.""",12,2,48,0.125,6.0
+10,1,"C'era una volta un pescatore e sua moglie; abitavano in un lurido tugurio presso il mare, e il pescatore andava tutti i giorni a pescare con la lenza, e così fece per molto tempo.",38,9,363,0.016666666666666666,6.05
+10,1,Una volta se ne stava seduto vicino alla lenza a guardare nell'acqua liscia come l'olio.,16,3,64,0.016666666666666666,1.0666666666666667
+10,1,"Se ne stava così quando la lenza andò a fondo, giù giù, e quand'egli la sollevò c'era attaccato un grosso rombo.",24,7,164,0.016666666666666666,2.7333333333333334
+10,1,"E il rombo gli disse: -Ti prego, lasciami vivere; io non sono un vero rombo, sono un principe stregato.",24,6,144,0.016666666666666666,2.4
+10,1,Rimettimi in acqua e lasciami andare!-.,9,3,36,0.016666666666666666,0.6
+10,1,"-Eh- disse l'uomo -non hai bisogno di fare tanti discorsi: un rombo che parla, l'avrei certo lasciato libero.- Lo rimise in acqua e il rombo si tuffò e lasciò dietro di s‚ una lunga striscia di sangue.",40,6,402,0.016666666666666666,6.7
+10,1,"L'uomo andò da sua moglie, nella lurida catapecchia, e le raccontò che aveva preso un rombo.",19,5,171,0.016666666666666666,2.85
+10,1,Questi diceva di essere un principe stregato; poi lo aveva lasciato andare.,14,2,55,0.016666666666666666,0.9166666666666666
+10,1,-E non gli hai chiesto niente?- disse la donna.,12,2,66,0.016666666666666666,1.1
+10,1,-No- disse l'uomo -cosa dovrei chiedere?- -Ah- disse la donna -è pur brutto abitare sempre in questo buco!,21,2,210,0.016666666666666666,3.5
+10,1,Puzza ed è così sporco!,6,2,9,0.016666666666666666,0.15
+10,1,"Vai e domandagli una piccola capanna.- L'uomo non voleva, tuttavia andò sulla riva del mare e, quando giunse, il mare era tutto verde e giallo.",29,8,406,0.016666666666666666,6.766666666666667
+10,1,"Egli andò fino all'acqua, si fermò e disse:-Piccolo rombo, ticchete tacchete, stammi a sentire, zicchete zacchete, mia moglie parlar troppo suole, e ciò ch'io voglio lei non vuole!-Allora il rombo giunse nuotando e disse: -Be', che vuole dunque?-.",54,15,839,0.016666666666666666,13.983333333333333
+10,1,-Ah- disse l'uomo -io ti avevo pur preso; ora mia moglie mi ha detto che avrei dovuto chiederti qualcosa.,21,3,110,0.016666666666666666,1.8333333333333333
+10,1,"Non vuole più abitare in un buco, vorrebbe una capanna.- -Va' a casa- disse il rombo -ce l'ha già.- Allora l'uomo andò a casa e sua moglie era sulla porta di una capanna e gli disse: -Vieni dentro, guarda, adesso è molto meglio-.",49,7,625,0.016666666666666666,10.416666666666666
+10,1,"E dentro alla capanna c'era una stanza, una camera da letto e una cucina.",16,4,106,0.016666666666666666,1.7666666666666666
+10,1,E dietro c'era anche un giardinetto con verdura e alberi da frutta e un cortile con polli e anitre.,20,5,172,0.016666666666666666,2.8666666666666667
+10,1,"-Ah- disse l'uomo -ora vivremo felici.- -Sì- disse la donna -ci proveremo.- Dopo un paio di settimane, la donna disse: -Marito mio, la capanna è troppo stretta e il cortile e il giardino sono così piccoli!",40,8,780,0.016666666666666666,13.0
+10,1,"Vorrei abitare in un gran castello di pietra; va' dal rombo, che ce lo regali-.",19,4,171,0.016666666666666666,2.85
+10,1,"-Ah, moglie- disse l'uomo -il rombo ci ha già dato la capanna: non posso tornare, se ne potrebbe avere a male.- -macché‚- disse la donna -può benissimo farlo e lo farà volentieri!- Allora l'uomo andò con il cuore grosso, ma quando giunse al mare, l'acqua era tutta violetta azzurro cupa e grigia; però era ancora calma.",65,15,1092,0.016666666666666666,18.2
+10,1,"Egli si fermò e disse:-Piccolo rombo, ticchete tacchete, stammi a sentire, zicchete zacchete, mia moglie parlar troppo suole, e ciò ch'io voglio lei non vuole!--Be', cosa vuole?- disse il rombo.",45,11,606,0.016666666666666666,10.1
+10,1,"-Ah- disse l'uomo tutto turbato -mia moglie vuole abitare in un castello di pietra.- -Va', è già davanti alla porta- disse il rombo.",26,2,169,0.016666666666666666,2.8166666666666664
+10,1,Allora l'uomo andò a casa e sua moglie stava davanti a un gran palazzo.,15,2,92,0.016666666666666666,1.5333333333333332
+10,1,"-Guarda, marito mio- ella disse -com'è bello!- Entrarono insieme e dentro c'erano tanti servi, le pareti risplendevano è nelle stanze c'erano sedie e tavole tutte d'oro.",33,6,528,0.016666666666666666,8.8
+10,1,"E dietro il castello c'erano un giardino e un parco che si estendeva per un mezzo miglio, dov'erano cervi, caprioli e lepri; e un cortile con stalla e scuderia.",33,11,497,0.016666666666666666,8.283333333333333
+10,1,-Ah- disse l'uomo -in questo bel castello si può essere contenti!- -Vedremo- disse la donna -intanto dormiamoci su.- E andarono a letto.,25,3,192,0.016666666666666666,3.2
+10,1,"Il mattino dopo la donna si svegliò allo spuntar del giorno, diede una gomitata nel fianco dell'uomo e disse: -Alzati, marito, potremmo diventare re di tutto il paese-.",33,7,288,0.016666666666666666,4.8
+10,1,"-Ah, moglie- disse l'uomo -perché‚ mai dovremmo diventare re; io non voglio!- -Bene, allora voglio esserlo io.- -Ah, moglie- disse l'uomo -perché‚ vuoi essere re?",32,6,276,0.016666666666666666,4.6
+10,1,"Al rombo non piacerà.- -Marito- disse la donna -vacci difilato, io devo essere re.- Allora l'uomo andò ed era tutto turbato che sua moglie volesse diventare re.",29,3,406,0.016666666666666666,6.766666666666667
+10,1,"E quando arrivò al mare, il mare era tutto plumbeo e nero e l'acqua ribolliva dal profondo.",19,6,139,0.016666666666666666,2.3166666666666664
+10,1,"Egli si fermò e disse:-Piccolo rombo, ticchete tacchete, stammi a sentire, zicchete zacchete, mia moglie parlar troppo suole, e ciò ch'io voglio lei non vuole!--Be', che cosa vuole?- disse il rombo.",46,12,639,0.016666666666666666,10.65
+10,1,"-Ah- disse l'uomo -mia moglie vuole diventare re.- -Va' pure, che lo è già- disse il rombo.",20,3,190,0.016666666666666666,3.1666666666666665
+10,1,"Allora l'uomo tornò a casa e quando arrivò al palazzo c'erano tanti soldati, trombe e timpani.",18,5,137,0.016666666666666666,2.283333333333333
+10,1,"Sua moglie sedeva su di un alto trono d'oro e diamanti e aveva una grande corona d'oro in testa; e al suo fianco stavano in fila sei damigelle, dalla più alta alla più piccola, così da formare una scala.",43,8,462,0.016666666666666666,7.7
+10,1,"-Ah- disse l'uomo -adesso sei re?- -Sì- rispose la donna -adesso sono re.- Dopo averla guardata per un po', egli disse: -Ah, moglie, che bellezza che tu sia re!",37,11,367,0.016666666666666666,6.116666666666666
+10,1,non c'è più niente da desiderare-.,9,1,36,0.016666666666666666,0.6
+10,1,"-No, marito- disse la donna -mi viene in uggia, non posso più resistere: sono re, ora voglio diventare imperatore!- -Ah, moglie- disse l'uomo -perché‚ vuoi diventare imperatore?- -Marito- diss'ella -va' dal rombo: voglio essere imperatore.- -Ah moglie- disse l'uomo -egli non può fare imperatori, non posso dir questo al rombo.- -Io sono re- disse la donna -e tu sei mio marito, vacci subito!- Allora l'uomo andò e mentre camminava pensava: ""Non va, non va, imperatore è troppo sfacciato; alla fine il rombo si stancherà.""",106,18,3511,0.016666666666666666,58.516666666666666
+10,1,"Così arrivò al mare, l'acqua era tutta nera e gonfia e ci soffiava sopra un gran vento che la sconvolgeva.",22,6,211,0.016666666666666666,3.5166666666666666
+10,1,"L'uomo si fermò e disse:-Piccolo rombo, ticchete tacchete, stammi a sentire, zicchete zacchete, mia moglie parlar troppo suole, e ciò ch'io voglio lei non vuole!--Be', che vuole?- disse il rombo.",45,12,606,0.016666666666666666,10.1
+10,1,"-Ah- disse egli -mia moglie vuole diventare imperatore.- -Va' pure- disse il rombo -lo è già.- L'uomo se ne andò e, quando arrivò a casa, sua moglie sedeva su di un trono altissimo fatto di un solo pezzo d'oro, e aveva in testa una gran corona alta tre braccia; al suo fianco stavano gli alabardieri, l'uno più piccolo dell'altro, dall'enorme gigante al piccolissimo nano, grosso come il mio mignolo.",78,13,1731,0.016666666666666666,28.849999999999998
+10,1,E davanti a lei c'erano tanti principi e conti.,10,3,37,0.016666666666666666,0.6166666666666667
+10,1,"L'uomo passò in mezzo a loro e disse: -Moglie, sei imperatore adesso?-.",17,5,136,0.016666666666666666,2.2666666666666666
+10,1,-Sì- diss'ella -sono imperatore.- -Ah- disse l'uomo contemplandola -che bellezza che tu sia imperatore!- -Marito- disse la donna -non incantarti!,23,4,253,0.016666666666666666,4.216666666666667
+10,1,"Ora sono imperatore, ma voglio anche diventare papa.- -Ah, moglie- disse l'uomo -perché‚ vuoi diventare papa?",19,4,171,0.016666666666666666,2.85
+10,1,"Di papa ce n'è uno solo nella cristianità.- -Marito- diss'ella -voglio diventare papa oggi stesso.- -No, moglie- disse l'uomo -il rombo non può far papi, questo non va.- -Chiacchiere, se può fare imperatori può fare anche papi.",43,5,631,0.016666666666666666,10.516666666666666
+10,1,"Vacci subito!- Allora l'uomo andò, ma era tutto fiacco, le gambe e le ginocchia gli vacillavano, e soffiava un gran vento e l'acqua sembrava che bollisse.",32,10,496,0.016666666666666666,8.266666666666666
+10,1,"Le navi, in pericolo, invocavano soccorso, danzavano e saltavano sulle onde.",15,5,105,0.016666666666666666,1.75
+10,1,"Tuttavia il cielo era ancora un po' azzurro al centro, ma ai lati saliva un color rosso, come durante un gran temporale.",26,6,225,0.016666666666666666,3.75
+10,1,"Allora egli si fermò, sconfortato, e disse:-Piccolo rombo, ticchete tacchete, stammi a sentire, zicchete zacchete, mia moglie parlar troppo suole, e ciò ch'io voglio lei non vuole!--Be', cosa vuole?- disse il rombo.",49,13,664,0.016666666666666666,11.066666666666666
+10,1,"-Ah- disse l'uomo -mia moglie vuole diventare papa.- -Va' pure- disse il rombo -lo è già.- Egli se ne andò e quando arrivò a casa sua moglie sedeva su di un trono alto tre miglia e aveva tre grandi corone in testa, intorno a lei c'erano tanti preti, e ai suoi lati c'erano due file di lumi, dal più alto, spesso e grosso come un'enorme torre, fino alla più piccola candela da cucina.",80,13,1620,0.016666666666666666,27.0
+10,1,-Moglie- disse l'uomo guardandola -sei papa adesso?- -Sì- diss'ella -sono papa.- -Ah moglie- disse l'uomo -che bella cosa che tu sia papa!,25,4,300,0.016666666666666666,5.0
+10,1,"Moglie, ora sarai contenta: sei papa, non puoi diventare niente di più.- -Ci penserò- disse la donna.",21,4,174,0.016666666666666666,2.9
+10,1,"E andarono a letto, ma ella non era contenta e la cupidigia non la lasciava dormire: pensava sempre che cosa potesse ancora diventare.",26,8,301,0.016666666666666666,5.016666666666667
+10,1,"Quand'ella vide dalla finestra il sole che sorgeva, pensò: ""Ah, non potrei forse far sorgere anche il sole?.""",25,5,300,0.016666666666666666,5.0
+10,1,"Piena di rabbia, diede una gomitata al marito e disse: -Marito, vai dal rombo, voglio diventare come il buon Dio!-.L'uomo era ancora addormentato, ma si spaventò tanto che cadde dal letto.",39,11,605,0.016666666666666666,10.083333333333334
+10,1,"-Ah, moglie- diss'egli -rientra in te e contentati di essere papa.- -No- gridò la moglie e si strappò la camiciola di dosso -non sono tranquilla e non posso resistere quando vedo sorgere il sole e la luna e non posso farli sorgere io stessa.",46,8,531,0.016666666666666666,8.85
+10,1,"Voglio diventare come il buon Dio.- -Ah, moglie, il rombo questo non lo può fare.",18,4,123,0.016666666666666666,2.05
+10,1,"Può fare imperatori e papi, ma questo non lo può fare!- -Marito- diss'ella, e gli rivolse uno sguardo terribile -voglio diventare come il buon Dio, va' subito dal rombo.- Allora l'uomo andò pieno di paura; fuori infuriava la tempesta che sconvolgeva i campi e sradicava gli alberi, il cielo era tutto nero, lampeggiava e tuonava; il mare si gonfiava in onde nere, alte come montagne e tutte avevano una bianca corona di spuma.",85,19,2095,0.016666666666666666,34.916666666666664
+10,1,"Egli gridò:-Piccolo rombo, ticchete tacchete, stammi a sentire, zicchete zacchete, mia moglie parlar troppo suole, e ciò ch'io voglio lei non vuole!--Be', cosa vuole?- disse il rombo.",42,10,573,0.016666666666666666,9.55
+10,1,"-Ah- rispose l'uomo -vuole diventare come il buon Dio.- -Va' pure, che è tornata nel suo lurido tugurio.- E ci stanno ancora.",25,6,277,0.016666666666666666,4.616666666666666
+11,1,"Davanti a un gran bosco viveva un taglialegna con la moglie e l'unica figlia, una bambina di tre anni.",21,3,210,0.05555555555555555,11.666666666666666
+11,1,Ma erano così poveri che non tutti i giorni avevano il pane e non sapevano che cosa dare da mangiare alla bimba.,23,6,148,0.05555555555555555,8.222222222222221
+11,1,"Un giorno il taglialegna andò a lavorare nel bosco tutto preoccupato e, mentre tagliava la legna, gli apparve all'improvviso una bella signora d'alta statura, che aveva una corona di stelle lucenti sul capo, e gli disse: ""Io sono la Vergine Maria, la madre del Bambino Gesù; tu sei povero e bisognoso: portami la tua bimba; la prenderò con me, sarò la sua mamma e provvederò a lei.""",80,17,2860,0.05555555555555555,158.88888888888889
+11,1,Il taglialegna prese la bimba e la diede alla Vergine Maria che la portò con s‚ in Cielo.,19,3,154,0.05555555555555555,8.555555555555555
+11,1,"Là stava bene: mangiava marzapane, beveva latte dolce, i suoi vestiti erano d'oro e gli angioletti giocavano con lei.",23,5,133,0.05555555555555555,7.388888888888888
+11,1,"Quando ebbe quattordici anni, la Vergine Maria la chiamò a s‚ e disse: ""Cara bambina, devo fare un lungo viaggio; prendi in consegna le chiavi delle tredici porte del regno dei Cieli: dodici puoi aprirle e contemplare le meraviglie che custodiscono, ma la tredicesima, per cui si deve usare questa piccola chiave, ti è vietata; guardati dall'aprirla, o sarai infelice.""",73,19,2061,0.05555555555555555,114.5
+11,1,"La ragazza promise di essere ubbidiente e, quando la Vergine Maria se ne fu andata, incominciò a visitare le stanze del regno dei cieli: ogni giorno ne visitava una, fino a quando ne ebbe viste dodici.",41,9,781,0.05555555555555555,43.388888888888886
+11,1,"In ogni stanza c'era un apostolo, e all'intorno un grande splendore.",13,3,78,0.05555555555555555,4.333333333333333
+11,1,"Ella gioiva non avendo mai visto in vita sua tanta magnificenza e grandiosità, e gli angioletti, che l'accompagnavano sempre, gioivano con lei.",26,8,325,0.05555555555555555,18.055555555555554
+11,1,"Ora non rimaneva che la porta proibita; ella provò un gran desiderio di sapere che cosa nascondesse, e disse agli angioletti: ""Non voglio aprirla del tutto, ma soltanto un pochino, che si possa vedere attraverso la fessura.""",45,11,675,0.05555555555555555,37.5
+11,1,"- ""Ah, no,"" esclamarono gli angioletti, ""sarebbe peccato: la Vergine Maria lo ha proibito e potrebbe essere la tua rovina.""",29,7,259,0.05555555555555555,14.388888888888888
+11,1,"Allora ella tacque, ma non tacquero la curiosità e la brama che continuavano a tormentarla in cuor suo.",20,5,190,0.05555555555555555,10.555555555555555
+11,1,"E una volta che gli angioletti erano via, ella pensò: ""Ora sono sola: chi può vedermi?""",22,7,231,0.05555555555555555,12.833333333333332
+11,1,"Così prese la chiave, e dopo averla presa la infilò nella serratura, e dopo averla infilata la girò.",21,8,210,0.05555555555555555,11.666666666666666
+11,1,"La porta si spalancò, ed ella vide la Trinità circonfusa di fuoco e splendore.",16,3,120,0.05555555555555555,6.666666666666666
+11,1,"Sfiorò appena quel fulgore con il dito, ed esso si ricoprì d'oro.",14,2,91,0.05555555555555555,5.055555555555555
+11,1,"Allora fu presa dalla paura, chiuse violentemente la porta e corse via.",14,3,91,0.05555555555555555,5.055555555555555
+11,1,"Ma qualsiasi cosa facesse, la paura non passava e il cuore continuava a battere forte, e non si voleva chetare, e anche l'oro rimase sul dito e non se ne andò, per quanto lo lavasse.",40,12,780,0.05555555555555555,43.33333333333333
+11,2,Dopo pochi giorni la Vergine Maria ritornò dal suo viaggio.,11,2,55,0.1,5.5
+11,2,"Chiamò la fanciulla e disse: ""Ridammi le chiavi del Cielo.""",14,3,91,0.1,9.1
+11,2,"Quando la fanciulla le porse il mazzo, la Vergine la guardò e le chiese: ""Non hai forse aperto anche la tredicesima porta?""",27,5,351,0.1,35.1
+11,2,"- ""No,"" rispose.",7,3,21,0.1,2.1
+11,2,"La Vergine le mise la mano sul cuore, sentì come batteva e capì che ella aveva trasgredito il suo ordine e aveva aperto la porta.",27,6,191,0.1,19.1
+11,2,"Domandò ancora una volta: ""Davvero non l'hai fatto?""",12,3,56,0.1,5.6000000000000005
+11,2,"- ""No,"" rispose la fanciulla per la seconda volta.",13,4,43,0.1,4.3
+11,2,"Allora la Vergine scorse il dito d'oro, con il quale la fanciulla aveva sfiorato il fuoco divino, vide che aveva peccato e domandò per la terza volta: ""Non l'hai fatto?""",36,8,630,0.1,63.0
+11,2,"- ""No,"" rispose la fanciulla per la terza volta.",13,4,43,0.1,4.3
+11,2,"Allora la Vergine Maria disse: ""Non mi hai obbedito, hai mentito: non sei più degna di stare in Cielo.""",25,4,300,0.1,30.0
+11,3,"La fanciulla cadde in un sonno profondo e, quando si risvegliò, giaceva sulla terra vicino a un albero alto, circondato da una fitta boscaglia impossibile a penetrarsi.",31,6,465,0.125,58.125
+11,3,La sua bocca era muta e non poteva pronunciare parola.,11,2,46,0.125,5.75
+11,3,Nell'albero vi era una cavità dov'ella dormiva di notte e si riparava quando pioveva o vi era tempesta.,19,4,171,0.125,21.375
+11,3,"Radici e bacche erano il suo unico nutrimento, le cercava fin dove poteva arrivare.",16,4,84,0.125,10.5
+11,3,"In autunno raccoglieva le foglie dell'albero, le portava nella cavità e, se nevicava o gelava, si copriva con esse.",23,7,253,0.125,31.625
+11,3,I suoi vestiti si sciuparono e le caddero di dosso e dovette così avvolgersi nelle foglie.,17,4,121,0.125,15.125
+11,3,"Appena il sole splendeva caldo, usciva e si sedeva davanti all'albero, e i suoi lunghi capelli la ricoprivano da ogni parte come un mantello.",27,6,186,0.125,23.25
+11,3,Così visse a lungo e sentì il dolore e la miseria del mondo.,14,4,79,0.125,9.875
+11,4,"Un giorno di primavera il re di quella terra cacciava nel bosco inseguendo un capriolo e, siccome la bestia si era addentrata nella boscaglia che circondava l'albero cavo, discese da cavallo, spezzò gli sterpi e si aprì un varco con la spada.",46,7,661,0.125,82.625
+11,4,"Penetrato nel fogliame, vide seduta sotto l'albero una fanciulla bellissima, coperta da una chioma dorata che le arrivava fino ai piedi.",24,4,234,0.125,29.25
+11,4,"Egli si meravigliò e disse: ""Come hai potuto arrivare in questo luogo deserto?""",17,4,136,0.125,17.0
+11,4,"Ma essa non rispose, perché‚ non poteva schiudere le labbra.",12,3,66,0.125,8.25
+11,4,"Il re proseguì: ""Vuoi venire con me al mio castello?""",14,2,91,0.125,11.375
+11,4,La fanciulla annuì leggermente con il capo.,8,1,28,0.125,3.5
+11,4,"Il re la prese allora tra le braccia, la mise sul suo cavallo e la portò a casa dove le fece indossare dei vestiti e le diede ogni cosa in abbondanza.",33,5,528,0.125,66.0
+11,4,"E, anche se non poteva parlare, era così bella e leggiadra che egli se ne innamorò e la sposò.",22,10,231,0.125,28.875
+11,5,"Dopo circa un anno, la regina mise al mondo un bimbo.",13,3,78,0.16666666666666666,13.0
+11,5,"Di notte, mentre era sola, le apparve la Vergine Maria e disse: ""Se dici la verità e ammetti di avere aperto la porta proibita, ti dischiuderò le labbra e ti ridarò la parola, ma se ti ostini a mentire rimanendo nel peccato, allora mi prenderò il bambino appena nato.""",58,14,1261,0.16666666666666666,210.16666666666666
+11,5,"La regina pot‚ rispondere questa volta, ma disse: ""No, non ho aperto la porta proibita,"" e la Vergine Maria prese dalle sue braccia il bambino appena nato e scomparve con lui.",38,8,667,0.16666666666666666,111.16666666666666
+11,5,"Il giorno seguente quando si scoprì che il bambino era sparito, la gente cominciò a mormorare che la regina era un mostro e che aveva ucciso il suo bambino.",31,7,465,0.16666666666666666,77.5
+11,5,"Ella udiva ogni cosa, ma non poteva replicare nulla.",11,3,55,0.16666666666666666,9.166666666666666
+11,5,"Il re però non credette a niente di tutto ciò, tanto l'amava.",14,2,91,0.16666666666666666,15.166666666666666
+11,6,Dopo un anno la regina diede alla luce un altro figlio.,12,2,66,0.2,13.200000000000001
+11,6,"Di notte comparve nuovamente la Vergine Maria e disse: ""Se ammetti di avere aperto la porta proibita, ti ridarò il tuo bambino e ti scioglierò la lingua, ma se persisti nel peccato e neghi, allora prenderò anche questo neonato con me.""",48,11,1128,0.2,225.60000000000002
+11,6,"Ma la regina disse nuovamente: ""No, non ho aperto la porta proibita,"" e la Vergine Maria le prese il bimbo dalle braccia e lo portò con s‚ in Cielo.",35,7,306,0.2,61.2
+11,6,"La mattina, scomparso di nuovo il piccino, la gente disse ad alta voce che la regina lo aveva divorato e i consiglieri del re chiesero che fosse giudicata.",31,6,304,0.2,60.800000000000004
+11,6,"Ma il re l'amava tanto che non volle crederlo e ordinò ai consiglieri di non parlarne più, pena la vita.",22,5,121,0.2,24.200000000000003
+11,7,"Dopo un anno la regina partorì una bella figlioletta; la Vergine Maria le apparve nuovamente di notte e disse: ""Seguimi.""",25,5,157,0.2,31.400000000000002
+11,7,"La prese per mano, la condusse in Cielo e le mostrò i due figli maggiori che le sorridevano e giocavano con la palla del mondo.",27,6,351,0.2,70.2
+11,7,"La regina se ne rallegrò; allora disse la Vergine Maria: ""Se ammetti di avere aperto la porta proibita ti ridarò i due figlioletti.""",28,5,238,0.2,47.6
+11,7,"Ma la regina rispose per la terza volta: ""No, non ho aperto la porta proibita!""",20,5,156,0.2,31.200000000000003
+11,7,Allora la Vergine la lasciò ricadere sulla terra e le prese anche il terzo bambino.,16,2,66,0.2,13.200000000000001
+11,8,"La mattina dopo, quando la cosa trapelò, la gente gridò a gran voce: ""La regina è un mostro e deve essere condannata!""",28,7,286,0.14285714285714285,40.857142857142854
+11,8,E il re non pot‚ più trattenere i suoi consiglieri.,11,2,39,0.14285714285714285,5.571428571428571
+11,8,"La regina fu giudicata e, poiché‚ non poteva rispondere n‚ difendersi, fu condannata a morire sul rogo.",20,4,172,0.14285714285714285,24.57142857142857
+11,8,"Ammucchiarono la legna e, quando fu legata al palo e il fuoco incominciò ad avvampare intorno a lei, il suo cuore fu mosso dal pentimento ed ella pensò: Potessi confessare, prima di morire, di avere aperto la porta!",44,10,514,0.14285714285714285,73.42857142857143
+11,8,"e gridò: ""Oh Maria, sì l'ho fatto!""",12,4,66,0.14285714285714285,9.428571428571429
+11,8,"Come ebbe in cuore questo pensiero, dal cielo incominciò a piovere e l'acqua spense le fiamme, ella fu inondata di luce e la Vergine Maria discese fra i due bambini e con la neonata in braccio.",39,7,480,0.14285714285714285,68.57142857142857
+11,8,"Le disse amorevolmente: ""Chi si pente della propria colpa e la confessa è perdonato,"" le porse i bambini, le sciolse la bocca e la rese felice per tutta la vita.",36,8,324,0.14285714285714285,46.285714285714285
+12,1,C'era una volta un re e una regina che vivevano insieme tranquillamente e avevano dodici figli tutti maschi.,19,4,171,0.3333333333333333,57.0
+12,1,"Allora il re disse alla moglie: ""Se il tredicesimo figlio che metterai al mondo sarà una bambina, i dodici maschi moriranno, perché‚ ella abbia grandi ricchezze e il regno tocchi a lei sola.""",39,7,384,0.3333333333333333,128.0
+12,1,"E ordinò dodici bare, già riempite di trucioli, e in ciascuna c'era un guancialino funebre; le fece portare in una stanza chiusa a tutti, diede poi la chiave alla regina e le ordinò di non parlare a nessuno della cosa.",45,8,906,0.3333333333333333,302.0
+12,2,"Ma la madre passava tutto il giorno in grande tristezza; e il più piccolo dei figli, che le stava sempre accanto e che ella aveva chiamato con il nome biblico di Beniamino, le disse: ""Cara mamma, perché‚ sei così triste?""",48,12,708,0.125,88.5
+12,2,"- ""Mio diletto, non posso dirtelo,"" rispose la regina.",14,4,61,0.125,7.625
+12,2,Ma egli non le diede pace fino a quando ella non gli aprì la stanza e gli mostrò le dodici bare già riempite di trucioli.,26,4,325,0.125,40.625
+12,2,"Poi disse: ""Mio carissimo Beniamino, queste bare le ha fatte fare tuo padre per te e i tuoi undici fratelli, poiché‚ se metterò al mondo una bambina voi dovrete essere tutti uccisi e sepolti qui.""",41,8,420,0.125,52.5
+12,2,"Allora il figlio rispose: ""Non piangere, cara mamma, ce la caveremo e ce ne andremo.""",21,5,210,0.125,26.25
+12,2,"Ella disse: ""Vai nel bosco con i tuoi undici fratelli e uno stia sempre di guardia sull'albero più alto che troverete, e osservi la torre qui nel castello.",32,6,298,0.125,37.25
+12,2,"Se nascerà un maschietto, isserò una bandiera bianca e voi potrete ritornare; se nascerà una femmina isserò una bandiera rossa, e allora fuggite e che il buon Dio abbia cura di voi.",36,10,380,0.125,47.5
+12,2,"Ogni notte mi alzerò a pregare per voi, d'inverno che possiate scaldarvi al fuoco, d'estate che la calura non vi faccia languire.""",26,6,259,0.125,32.375
+12,3,"Dopo avere ricevuto la sua benedizione, i figli se ne andarono nel bosco.",15,4,81,0.2,16.2
+12,3,Stavano di guardia uno dopo l'altro sulla quercia più alta e osservavano la torre.,15,3,92,0.2,18.400000000000002
+12,3,"Quando furono passati undici giorni e il turno toccò a Beniamino, egli vide che veniva issata una bandiera, ma non era bianca bensì rosso sangue e annunciava che dovevano morire tutti.",34,9,361,0.2,72.2
+12,3,"Quando i fratelli lo seppero andarono in collera e dissero: ""Dovremmo morire a causa di una femmina!",20,4,156,0.2,31.200000000000003
+12,3,"Giuriamo che quando ne incontreremo una ci vendicheremo e faremo scorrere il suo sangue vermiglio.""",17,4,136,0.2,27.200000000000003
+12,4,"Poi entrarono nel profondo del bosco dove era più buio e là trovarono una piccola casetta vuota, ma era stregata.",22,5,141,0.25,35.25
+12,4,"Allora dissero: ""Qui abiteremo; e tu Beniamino, che sei il più piccolo e il più debole, rimarrai a badare alla casa, mentre noi andremo a cercare da mangiare.""",36,10,414,0.25,103.5
+12,4,"Andavano nella foresta e uccidevano lepri, caprioli selvatici, uccelli, piccioncini e tutto ciò che vi era da mangiare; li portavano a Beniamino che doveva cucinarli perché‚ potessero sfamarsi.",33,9,321,0.25,80.25
+12,4,Vissero insieme nella casetta dieci anni e il tempo non parve loro lungo.,14,2,91,0.25,22.75
+12,5,"Nel frattempo la bambina che la regina aveva partorito era cresciuta, era bella e aveva una stella d'oro in fronte.",22,4,231,0.030303030303030304,7.0
+12,5,"Una volta, mentre si faceva il bucato, vide dodici camicie da uomo e chiese a sua madre: ""Di chi sono queste dodici camicie?",28,7,196,0.030303030303030304,5.9393939393939394
+12,5,"Per il babbo sono troppo piccole.""",8,2,28,0.030303030303030304,0.8484848484848485
+12,5,"Allora la regina rispose con il cuore grosso: ""Bimba cara, sono dei tuoi dodici fratelli.""",20,3,156,0.030303030303030304,4.7272727272727275
+12,5,"Disse la fanciulla: ""Dove sono i miei dodici fratelli?",12,3,42,0.030303030303030304,1.2727272727272727
+12,5,"Non ne ho mai sentito parlare.""",8,1,28,0.030303030303030304,0.8484848484848485
+12,5,"La madre rispose: ""Lo sa Iddio dove sono, vagano in giro per il mondo.""",19,5,171,0.030303030303030304,5.181818181818182
+12,5,"Prese allora la fanciulla, le aprì la stanza e le mostrò le dodici bare con i trucioli e i guancialini funebri.",23,4,133,0.030303030303030304,4.03030303030303
+12,5,"""Queste bare,"" disse, ""erano destinate a loro, ma essi sono fuggiti di nascosto, prima che tu nascessi"" e le raccontò quel che era accaduto.",33,10,321,0.030303030303030304,9.727272727272728
+12,5,"Allora la fanciulla disse: ""Cara madre, non piangere; andrò a cercare i miei fratelli.""",20,4,106,0.030303030303030304,3.2121212121212124
+12,5,"Prese le dodici camicie, partì e si addentrò subito nella gran foresta.",14,3,91,0.030303030303030304,2.757575757575758
+12,5,Camminò tutto il giorno e la sera giunse alla casetta incantata.,12,2,66,0.030303030303030304,2.0
+12,5,"Entrò e trovò un ragazzino che le chiese: ""Donde vieni e dove vai?""",17,6,76,0.030303030303030304,2.303030303030303
+12,5,"e si meravigliò che fosse così bella, portasse abiti regali e avesse una stella in fronte.",18,6,153,0.030303030303030304,4.636363636363637
+12,5,"Ed ella rispose: ""Sono una principessa e cerco i miei dodici fratelli e andrò fin dove il cielo è azzurro pur di trovarli.""",27,5,186,0.030303030303030304,5.636363636363637
+12,5,E gli mostrò le loro dodici camicie.,8,2,28,0.030303030303030304,0.8484848484848485
+12,5,"Allora Beniamino capì che era sua sorella e disse: ""Sono Beniamino il tuo fratello più giovane!""",20,4,190,0.030303030303030304,5.757575757575758
+12,5,"Ella si mise a piangere dalla gioia e Beniamino fece lo stesso, e si baciarono e si abbracciarono con grande affetto.",23,5,253,0.030303030303030304,7.666666666666667
+12,5,"Poi egli disse: ""Cara sorella, c'è ancora un problema: avevamo deciso e pattuito che ogni ragazza che ci incontrasse doveva morire, poiché‚ fummo costretti a lasciare il nostro regno per una ragazza.""",41,10,520,0.030303030303030304,15.757575757575758
+12,5,"Allora ella disse: ""Morirò volentieri se così potrò liberare i miei dodici fratelli.""",17,4,88,0.030303030303030304,2.666666666666667
+12,5,"- ""No,"" egli rispose, ""tu non devi morire; nasconditi sotto questa tinozza fino a quando arriveranno gli undici fratelli, poi mi metterò io d'accordo con loro.""",35,7,310,0.030303030303030304,9.393939393939394
+12,5,La fanciulla obbedì e quando scese la notte gli altri tornarono dalla caccia e la cena era pronta.,19,4,171,0.030303030303030304,5.181818181818182
+12,5,"Sedettero a tavola e mentre mangiavano domandarono: ""Che c'è di nuovo?""",17,5,136,0.030303030303030304,4.121212121212121
+12,5,"Beniamino disse: ""Non sapete nulla?""",9,2,21,0.030303030303030304,0.6363636363636364
+12,5,"- ""No,"" risposero.",7,3,21,0.030303030303030304,0.6363636363636364
+12,5,"Egli continuò: ""Voi siete andati nella foresta e io sono rimasto a casa, eppure ne so più di voi.""",24,4,276,0.030303030303030304,8.363636363636363
+12,5,"- ""Orsù raccontaci!""",6,2,15,0.030303030303030304,0.4545454545454546
+12,5,esclamarono gli altri.,4,1,6,0.030303030303030304,0.18181818181818182
+12,5,"Egli rispose: ""Mi promettete anche che la prima fanciulla che incontreremo non sarà uccisa?""",18,5,153,0.030303030303030304,4.636363636363637
+12,5,"- ""Sì,"" esclamarono tutti, ""le faremo grazia; ma racconta!""",17,6,81,0.030303030303030304,2.4545454545454546
+12,5,"Allora egli disse: ""C'è qui nostra sorella.""",13,2,78,0.030303030303030304,2.3636363636363638
+12,5,"Sollevò la tinozza e ne uscì la principessa in abiti regali con la stella d'oro in fronte: era molto bella, delicata e fine.",26,5,325,0.030303030303030304,9.84848484848485
+12,5,"Tutti allora se ne rallegrarono, le saltarono al collo, la baciarono e l'amarono con tutto il cuore.",20,5,172,0.030303030303030304,5.212121212121212
+12,6,Ora ella rimaneva a casa con Beniamino e lo aiutava nei lavori domestici.,14,2,69,0.25,17.25
+12,6,"Gli undici fratelli andavano nel bosco e cercavano selvaggina, caprioli, lepri, uccelli e piccioncini perché‚ potessero mangiare, e la sorella e Beniamino pensavano a prepararli.",30,9,315,0.25,78.75
+12,6,"Ella cercava la legna per cuocere e le erbe per la verdura e le metteva sul fuoco, cosicché‚ il pranzo era sempre pronto quando gli undici rientravano.",29,7,406,0.25,101.5
+12,6,"Teneva inoltre in ordine la casetta e preparava i lettini con biancheria bianca e pulita, e i fratelli erano sempre contenti e vivevano in grande armonia con lei.",30,6,255,0.25,63.75
+12,7,"Per un certo periodo di tempo i due a casa prepararono buoni cibi e, quando si ritrovavano tutti insieme, sedevano, mangiavano, bevevano ed erano felici.",30,8,281,0.1111111111111111,31.22222222222222
+12,7,Ma la casetta stregata aveva un piccolo giardinetto nel quale c'erano dodici gigli (chiamati anche fiori di Sant'Antonio).,21,5,210,0.1111111111111111,23.333333333333332
+12,7,"Un giorno ella volle fare un piacere ai suoi fratelli, colse i dodici fiori e pensava di regalarne uno a ciascuno durante la cena.",26,3,199,0.1111111111111111,22.11111111111111
+12,7,"Ma, come ebbe colto i fiori, in quel medesimo istante i dodici fratelli furono tramutati in dodici corvi che volarono via per la foresta, e anche la casa e il giardino sparirono.",36,10,564,0.1111111111111111,62.666666666666664
+12,7,"Ora la povera fanciulla era sola nella foresta selvaggia, e quando si guardò intorno vi era accanto a lei una vecchia che disse: ""Ah, bimba mia, che hai fatto?",35,9,595,0.1111111111111111,66.11111111111111
+12,7,Perché‚ non hai lasciato stare i dodici fiori bianchi?,10,1,27,0.1111111111111111,3.0
+12,7,"Erano i tuoi fratelli che ora sono tramutati in corvi per sempre.""",14,3,69,0.1111111111111111,7.666666666666666
+12,7,"La ragazza disse piangendo: ""Non vi è nessun modo per liberarli?""",15,3,92,0.1111111111111111,10.222222222222221
+12,7,"- ""No,"" disse la vecchia, ""non ve n'è che uno in tutto il mondo, ma è così difficile che non riuscirai a liberarli: perché‚ devi essere muta per sette anni, non puoi n‚ parlare n‚ ridere e se dici una sola parola, e manca soltanto un'ora ai sette anni, tutto è vano e i tuoi fratelli saranno uccisi da quella sola parola.""",76,18,2500,0.1111111111111111,277.77777777777777
+12,8,"Allora la ragazza disse in cuor suo: ""Voglio liberare i miei fratelli ad ogni costo!""",19,2,99,0.5,49.5
+12,8,"Andò in cerca di un albero alto, ci si arrampicò, e li filava senza parlare ni ridere.",20,4,190,0.5,95.0
+12,9,Ora avvenne che un re andò a caccia nella foresta; aveva un grosso levriero che corse all'albero sul quale si trovava seduta la fanciulla e cominciò a saltare tutt'attorno abbaiando e latrando verso la cima.,37,7,511,0.125,63.875
+12,9,Il re allora si avvicinò e vide la bella principessa con la stella d'oro sulla fronte e fu così rapito dalla sua bellezza che le domandò se voleva diventare sua sposa.,32,6,496,0.125,62.0
+12,9,"Ella non rispose, ma fece un lieve cenno con il capo.",13,3,58,0.125,7.25
+12,9,"Allora egli salì sull'albero, la portò giù e la mise sul suo cavallo.",15,3,105,0.125,13.125
+12,9,Le nozze furono celebrate con gran pompa e tripudio anche se la sposa non parlava n‚ rideva.,18,3,153,0.125,19.125
+12,9,"Quand'ebbero trascorso insieme felici un paio di anni, la matrigna del re, che era una donna cattiva, incominciò a calunniare la giovane regina e disse al re: ""E' una volgare accattona quella che ti sei portato in casa, chissà quali malvagità combina in segreto!",52,10,706,0.125,88.25
+12,9,"Se è muta e non può parlare, potrebbe almeno ridere; ma chi non ride, ha una cattiva coscienza.""",23,8,136,0.125,17.0
+12,9,"Il re da principio non volle crederle, ma la madre insistette così tanto che egli alla fine si lasciò convincere e la condannò a morte.",27,6,246,0.125,30.75
+12,10,"Nel cortile fu così acceso un grande fuoco da cui ella doveva essere bruciata; e il re, da sopra, guardava con gli occhi pieni di lacrime, poiché‚ l'amava ancora tanto.",35,9,307,0.14285714285714285,43.857142857142854
+12,10,"E quando era già legata al palo, e le lingue di fuoco lambivano già le sue vesti, ecco trascorso l'ultimo istante dei sette anni.",27,6,351,0.14285714285714285,50.14285714285714
+12,10,Nell'aria si udì un frullar d'ali: arrivarono dodici corvi e si posarono a terra; e come ebbero toccato il suolo si trasformarono nei suoi dodici fratelli liberati da lei.,32,6,258,0.14285714285714285,36.857142857142854
+12,10,"Essi distrussero il rogo, spensero le fiamme, slegarono la loro cara sorella, la baciarono e l'abbracciarono.",20,5,190,0.14285714285714285,27.142857142857142
+12,10,Ora pot‚ schiudere la bocca per parlare e raccontò al re perché‚ prima fosse muta e non avesse mai riso.,21,5,159,0.14285714285714285,22.71428571428571
+12,10,Il re si rallegrò che essa fosse innocente e vissero tutti insieme felici e in armonia fino alla morte.,20,4,190,0.14285714285714285,27.142857142857142
+12,10,La cattiva matrigna fu messa in una botte piena di olio bollente e di serpenti velenosi e morì di una mala morte.,23,3,232,0.14285714285714285,33.14285714285714

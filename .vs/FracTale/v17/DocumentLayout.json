@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\DataVisualization.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:DataVisualization.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\TaleScrapingUgly.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:TaleScrapingUgly.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\TaleScraping.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:TaleScraping.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\RandomTalesGenerator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:RandomTalesGenerator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Proppify.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:Proppify.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Moran.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:Moran.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Hurst_Homothety.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:Hurst_Homothety.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Functions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:Functions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\FracTale.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:FracTale.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\EuropeanaStoriesScraper.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:EuropeanaStoriesScraper.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Fractal_Exp_SentenceTale.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6CC93EE-F797-45EC-AA91-32B274DE45DF}|FracTale.pyproj|solutionrelative:Fractal_Exp_SentenceTale.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaleScrapingUgly.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\TaleScrapingUgly.py",
+              "RelativeDocumentMoniker": "TaleScrapingUgly.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\TaleScrapingUgly.py",
+              "RelativeToolTip": "TaleScrapingUgly.py",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIIAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-23T22:21:04.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaleScraping.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\TaleScraping.py",
+              "RelativeDocumentMoniker": "TaleScraping.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\TaleScraping.py",
+              "RelativeToolTip": "TaleScraping.py",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-23T22:20:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomTalesGenerator.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\RandomTalesGenerator.py",
+              "RelativeDocumentMoniker": "RandomTalesGenerator.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\RandomTalesGenerator.py",
+              "RelativeToolTip": "RandomTalesGenerator.py",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-23T22:20:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proppify.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Proppify.py",
+              "RelativeDocumentMoniker": "Proppify.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Proppify.py",
+              "RelativeToolTip": "Proppify.py",
+              "ViewState": "AgIAAIEAAAAAgHrTm97Uv4kAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-23T22:20:20.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataVisualization.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\DataVisualization.py",
+              "RelativeDocumentMoniker": "DataVisualization.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\DataVisualization.py",
+              "RelativeToolTip": "DataVisualization.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-18T17:09:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EuropeanaStoriesScraper.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\EuropeanaStoriesScraper.py",
+              "RelativeDocumentMoniker": "EuropeanaStoriesScraper.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\EuropeanaStoriesScraper.py",
+              "RelativeToolTip": "EuropeanaStoriesScraper.py",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-23T22:16:01.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Functions.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Functions.py",
+              "RelativeDocumentMoniker": "Functions.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Functions.py",
+              "RelativeToolTip": "Functions.py",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAAA0BAAAqAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-19T17:47:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FracTale.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\FracTale.py",
+              "RelativeDocumentMoniker": "FracTale.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\FracTale.py",
+              "RelativeToolTip": "FracTale.py",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAwHUAAAAHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-16T15:30:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hurst_Homothety.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Hurst_Homothety.py",
+              "RelativeDocumentMoniker": "Hurst_Homothety.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Hurst_Homothety.py",
+              "RelativeToolTip": "Hurst_Homothety.py",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAA8BAAAMAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-14T20:54:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Moran.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Moran.py",
+              "RelativeDocumentMoniker": "Moran.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Moran.py",
+              "RelativeToolTip": "Moran.py",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAAANEBAAASAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-17T22:53:27.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fractal_Exp_SentenceTale.py",
+              "DocumentMoniker": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Fractal_Exp_SentenceTale.py",
+              "RelativeDocumentMoniker": "Fractal_Exp_SentenceTale.py",
+              "ToolTip": "C:\\Users\\Palma\\Desktop\\PHD\\FracTale\\Fractal_Exp_SentenceTale.py",
+              "RelativeToolTip": "Fractal_Exp_SentenceTale.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAa6SURBVFhHlVdZbJRVFD6dtrSldoXavYTSINRUokAEa6w8GE1MNGoM8GioimAymkCamsYuNq0NFVlSo4FoeNEHTCy8ASpNMbFAkJQ2WEtCpqbrdDrd25npLH7f/Zf\u002BP52acpKTc\u002B/979xzzneWeydGNEoGx2vDx6YweAEcVLPHoUgkYhiwKRAIuDBXk5gYY1kj6zwYDMrS0pLMzc3J2NiYJCYmejE\u002Bv3v37hZ89mq71k6mAX6/31VfX\u002B9MSEgIHj9\u002BvG14eFhSU1PVx9nZWVm3bp1kZGQoxTBWfD6fWne73bJnzx4ZHBz8qayszInt4\u002BpHaySHLpWX6enps4WFhR6HwyEFBQWSlpamGGvKgPn5eaKmDJiZmZGkpCSJi4tThmRnZx/s6ek5jaOytBPXRiYCgNUVCoXUxID8/yQNAWrS399P5UKjyQjLYyFhIkBqbGx0njhx4igVMAT0jJBzzMO5bsjY2FjGXyGTnJysDLl7965kZmYevHDhQjOOWxMSK0JQVFTk4ZiwGyFgOLhmMIkIkGkQQ7FhwwZZv369Mmzr1q2HLl\u002B\u002B3Iptaw7HJsAfQYYr5pgcDocVG2TMje8IQaS3t1f9ZmFhIeLxeCIDAwMRoBEBapHr169/jbO1TF6FNHdgAA521dbWOgFrsLq6uo0lhoowk45e0luGhKW4ceNG9cMHDx4Ifqu\u002BUWLvUmVlZT3KsuTIkSNv7Nq1qxzb\u002BtTmKGTLAZSZGQJCSWVer1eV2vT0tBrHx8fbwpCfny/FxcVSUlJC6CkdFRUVnry8vF4YlIFtT4BteqxkIoDDXBzwUKsE1MpjKjbWSBw/upeSKLBHLC4uqrLdtm3b8/j0Fzhqp7QZwBCwEVVVVbUNDQ2pGmdi8UAmGQ\u002BnMVxnWKamptQ8JydHhYthsBINAoo9CN8vcKBWX7ZRnC7VZmT8LBTNc8zDeShrnYpRXsorhgHwqjV6mJKSIoMzITl9pVvu/zsuAf\u002BixIQCipNiw1JakF728Zt7y3gmQrfCCBMBQO3iodxIWqtkcr599k9pfOdpcWDtg29\u002B1QwIa0aQc9MT5cf6ykkYkKl\u002BZCETMx7Iu6ClpeUox\u002BjtMjo6qpBAeSlJBPiN8DM3OGZCjk3O4U7EpRgJQ3EQvATFOmPsHp\u002BgCibkCrIZwBAgqz1Egr0eta1ygMZMTEwo5j6GgXnBfSQq\u002BvDbDnh/DYZoSk3WDVmNzBDwLmBCkahkNcnWay3FaNR\u002Bo1fOXPwNirUQOMBXz9XrXxVNgc8wJ0wDAKurrq5OVcGxY8faRkZGzGzPzc2V8fFxVQmji7FSdfG\u002BjHpnzMOt8TbXQn5tzm/hkFw9/4WI6y0UYwDqkAoFdSKJWxqihoBjeslmxI7HOZlen7r2UEYnZ5chtsBsWzNyAcpNCgFhouwbFBnkzS2vmgggpi6\u002BdEhUFk3ygbKv5YYEfCg13WvNWzs7TER4nmb4lXMNIv\u002B8JrIEBIhCCL7v7Fy0dY6mpiZna2urqgKDmWhMPkoeFPD7NM\u002Bieq2zvk7lpC1FuVCM50EQazSKcgmVgyq2NSI0FbMRkUlUzDLEVa3my9Bq/FxxllQfeEmeTOe7dhWi8qEvl5UzFDraZghQ4y52PUNxNMkkfLHmEjxEgukw/1yzX7IcX\u002BHgAbUPGzWIqUBJHXLr3OB9ffY\u002B0Nzc7Dx58uRRes05JZlXM\u002BfkRLRXhYIegix6blVuJJrpLaVlbnBEgb\u002BcAzycIUCfV1VgMBPTaEDsE6X5KTr8WihsxIw3lRoyinIamfoMf3HPDAFuLRe7GxWRokm\u002BAd3zIan5/qq4PV4Vit/Pfop/A4dwKJUDVivMVKYkGP3EnMdnizz7nUhKaYPNAN4F6HRBp9PZxvZrXMfMDeM25BofIbar1/PesmIqyXxfJO11/WNUMjvhihCg66m7gK8hIsKXMSWvXo7ZIbu6uuT27dty69Yt7ccm5Iw/5PApgFuBZ8hekZs7Rf5QcLOMDcoAq6vZQKCwo6OjCU\u002Bqd\u002BFZAo2hEdikPnJMYlsGAozJPC4qhmxkx44dr8jQ/mV4rSF46ry6nOTOAZGX/1YGqIMsZCwwJXPQfvNrampeOHz4cDOu2wQk4AI8n8N6LH7r7evr6\u002Brs7Oxqb2/Hw7efd\u002Bw0jLsTM/xRuviGLAYQEcjtP2gG9HwiUt4R9T3wqEUJ4IzNmzfnlJeX5\u002BGxkdDd3T0LREKAfBLf2L6mwfNgH5hv9nrxP/xc3EiquXsifmwxki6MCCeXipR8hoTb3gADoj7LViOiQoPI/Ou\u002BAj6DaAT4JngBbCXOu8C2u3iZRP4DyAwsxYntT0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-08T20:28:37.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

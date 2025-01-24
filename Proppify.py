@@ -136,7 +136,6 @@ def process_tales_file(input_file, output_file):
 
     print(f"Annotations written to {output_file}")
 
-# Usage
 input_file = 'C:/Users/Palma/Desktop//PHD/FracTale/grimm_tales_en.txt'
 output_file = 'annotated_fairy_tales_with_improved_lda.txt'
 process_tales_file(input_file, output_file)
