@@ -1,4 +1,4 @@
-import TaleScraping as ts
+#import TaleScraping as ts
 import Functions as func
 import nltk
 from nltk import ngrams, FreqDist
@@ -113,11 +113,9 @@ def export_to_csv(tale_metrics, sentence_metrics, output_file):
         writer.writeheader()
         for tm in tale_metrics:
             writer.writerow(tm)
-        
-        # Write a separator
+      
         writer.writerow({field: '' for field in tale_fieldnames})
-        
-        # Write sentence metrics
+       
         sentence_fieldnames = ['tale_id', 'episode_id', 'sentence', 'num_words', 'num_clauses', 'dep_distance', 'Eventfulness', 'I']
         writer = csv.DictWriter(csvfile, fieldnames=sentence_fieldnames)
         writer.writeheader()
@@ -128,20 +126,29 @@ def export_to_csv(tale_metrics, sentence_metrics, output_file):
 #input_file = 'grimm_tales_en.txt'
 #output_file = 'output_metrics_2.csv'
 
-tale_metrics, sentence_metrics = process_file('grimm_tales_en.txt', lang = 'en')
-export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_en.csv')
+tale_metrics, sentence_metrics = process_file('ugly_en_grimm_tales.txt', lang = 'en')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_en_ugly.csv')
 
 # tale_metrics, sentence_metrics = process_file('grimm_tales_fi.txt', lang = 'fi')
 # export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_fi.csv')
 
-tale_metrics, sentence_metrics = process_file('grimm_tales_de.txt', lang = 'de')
-export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_de.csv')
+tale_metrics, sentence_metrics = process_file('ugly_de_grimm_tales.txt', lang = 'de')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_de_ugly.csv')
 
-tale_metrics, sentence_metrics = process_file('grimm_tales_es.txt', lang = 'es')
-export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_es.csv')
+tale_metrics, sentence_metrics = process_file('ugly_es_grimm_tales.txt', lang = 'es')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_es_ugly.csv')
 
-tale_metrics, sentence_metrics = process_file('grimm_tales_it.txt', lang = 'it')
-export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_it.csv')
+tale_metrics, sentence_metrics = process_file('ugly_it_grimm_tales.txt', lang = 'it')
+export_to_csv(tale_metrics, sentence_metrics, 'grimm_unified_metrics_it_ugly.csv')
+
+# tale_metrics, sentence_metrics = process_file('random_tales.txt', lang = 'it')
+# export_to_csv(tale_metrics, sentence_metrics, 'random_unified_metrics.csv')
+
+# tale_metrics, sentence_metrics = process_file('europeana_stories_en.txt', lang = 'en')
+# export_to_csv(tale_metrics, sentence_metrics, 'europeana_unified_metrics_en.csv')
+
+# tale_metrics, sentence_metrics = process_file('europeana_stories_de.txt', lang = 'de')
+# export_to_csv(tale_metrics, sentence_metrics, 'europeana_unified_metrics_de.csv')
 
 
 

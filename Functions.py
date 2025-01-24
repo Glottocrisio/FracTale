@@ -6,7 +6,7 @@ from nltk import word_tokenize, pos_tag, sent_tokenize
 from nltk.parse import DependencyGraph
 import re
 import math
-
+import pandas
 
 def calculateProppNgrams(n, sequences, sign):
     all_ngrams = []
@@ -25,7 +25,7 @@ def calculateProppNgrams(n, sequences, sign):
 
 def coleman_liau_index(text):
     words = len(re.findall(r'\w+', text))
-    sentences = len(re.findall(r'\w+[.!?]', text)) or 1  # Ensure at least 1 sentence
+    sentences = len(re.findall(r'\w+[.!?]', text)) or 1  
     letters = sum(c.isalpha() for c in text)
     
     L = (letters / words) * 100
@@ -119,7 +119,7 @@ def count_clauses_u(sentence, language='en'):
         words = word_tokenize(sentence)
         pos_tags = pos_tag(words)
         verb_count = sum(1 for word, tag in pos_tags if tag.startswith('VB'))
-        total_clauses += max(1, verb_count)  # Ensure at least one clause per sentence
+        total_clauses += max(1, verb_count)  
         return total_clauses
     else:
         for lang in clause_indicators:
@@ -131,11 +131,10 @@ def count_clauses_u(sentence, language='en'):
 
 
 def simple_dependency_parse(sentence):
-    # Tokenize and POS tag the sentence
+   
     words = word_tokenize(sentence)
     pos_tags = pos_tag(words)
     
-    # Create a simple dependency graph
     graph = DependencyGraph()
     for i, (word, pos) in enumerate(pos_tags):
         graph.add_node({
@@ -150,14 +149,13 @@ def simple_dependency_parse(sentence):
             'rel': None
         })
     
-    # Simple rules for dependency
     root = None
     for i, (word, pos) in enumerate(pos_tags):
         if pos.startswith('VB'):  # Verb as root
             root = i + 1
             break
     if root is None and len(pos_tags) > 0:
-        root = 1  # First word as root if no verb found
+        root = 1  
     
     graph.nodes[root]['rel'] = 'ROOT'
     
@@ -210,11 +208,9 @@ import numpy as np
 
 def hurst_exponent(time_series):
    
-    # Convert to numpy array and calculate returns
     ts = np.array(time_series)
     returns = np.diff(np.log(ts))
     
-    # Calculate the range of cumulative deviate series
     tau = []
     lagvec = []
     
@@ -241,3 +237,46 @@ def hurst_exponent(time_series):
     
     return hurst
 
+import pandas as pd
+
+def calculate_variance_and_generate_latex(input_csv: str, output_txt: str):
+    """
+    Reads a CSV file, calculates variance for each numeric column, and writes a LaTeX table
+    to a text file with the results.
+
+    Args:
+        input_csv (str): Path to the input CSV file.
+        output_txt (str): Path to the output text file.
+    """
+
+    try:
+        df = pd.read_csv(input_csv)
+    except Exception as e:
+        print(f"Error reading CSV file: {e}")
+        return
+
+    variances = {}
+    for col in df.select_dtypes(include=['number']).columns:
+        variances[col] = df[col].var()
+
+    latex_table = "\\begin{table}[ht]\n\\centering\n\\begin{tabular}{|l|r|}\n\\hline\n"
+    latex_table += "Column Name & Variance \\\\\n\\hline\n"
+
+    for col, var in variances.items():
+        latex_table += f"{col} & {var:.6f} \\\\\n"
+
+    latex_table += "\\hline\n\\end{tabular}\n\\caption{Variance of numeric columns}\n\\end{table}"
+
+    # Write the LaTeX table to a text file
+    try:
+        with open(output_txt, 'w') as f:
+            f.write(latex_table)
+        print(f"LaTeX table successfully written to {output_txt}")
+    except Exception as e:
+        print(f"Error writing to output file: {e}")
+
+
+
+#input_csv = "input.csv"  # Replace with your input CSV file path
+#output_txt = "output_table.txt"  # Replace with your desired output text file path
+#calculate_variance_and_generate_latex(input_csv, output_txt)
