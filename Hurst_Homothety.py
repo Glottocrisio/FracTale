@@ -5,9 +5,9 @@ from scipy import stats
 def calculate_D_h(row):
     """Calculate D_h metric for homothety."""
     try:
-        a = float(row['avg_episode_length'])
-        b = float(row['avg_sentence_length'])
-        c = float(row['avg_clause_length'])
+        a = float(row['avg_episode_length'])/float(row['num_words'])
+        b = float(row['avg_sentence_length'])/float(row['avg_episode_length'])
+        c = float(row['avg_clause_length'])/float(row['avg_sentence_length'])
         D_h_a = np.log(3) / np.log(1 / a)
         D_h_b = np.log(3) / np.log(1 / b)
         D_h_c = np.log(3) / np.log(1 / c)
@@ -20,8 +20,7 @@ def calculate_D_h(row):
 def calculate_average_homothety(row):
     """Calculate average homothety."""
     try:
-        d = float(row['avg_episode_length'])*float(row['num_episodes'])/(float(row['num_words']))
-        a = float(row['avg_clause_length'])/d
+        a = float(row['avg_episode_length'])/float(row['num_words'])
         b = float(row['avg_sentence_length'])/float(row['avg_episode_length'])
         c = float(row['avg_clause_length'])/float(row['avg_sentence_length'])
         return (a + b + c) / 3
